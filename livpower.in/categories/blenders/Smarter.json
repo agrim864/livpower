@@ -1,0 +1,36 @@
+{
+  "product_name": "SMARTER",
+  "product_type": "Mixer Grinder",
+  "power_output": {
+    "wattage": 400,
+    "unit": "Watts"
+  },
+  "jar_details": [
+    {
+      "jar_type": "Liquidiser",
+      "capacity_liters": 1.25,
+      "material": "Stainless Steel"
+    },
+    {
+      "jar_type": "Grinder",
+      "capacity_liters": 0.3,
+      "material": "Stainless Steel"
+    }
+  ],
+  "control_features": {
+    "control_type": "Rotary Switch",
+    "speed_settings": null
+  },
+  "warranty": {
+    "duration_months": 12
+  },
+  "packaging": {
+    "units_per_master_pack": 16
+  },
+  "available_colors": [
+    "Super White",
+    "Brilliant Red",
+    "Blue"
+  ],
+  "brand": "Livpower"
+}

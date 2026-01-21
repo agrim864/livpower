@@ -1,0 +1,23 @@
+{
+  "model_name": "QUEEN",
+  "sub_woofer": {
+    "size_inch": 12.0,
+    "quantity": 1
+  },
+  "power_output": {
+    "w_rms": 80,
+    "unit": "Watts"
+  },
+  "category": "Trolley Speakers",
+  "view_type": "Single Trolley",
+  "finish": "Ring Plast",
+  "rgb_light": true,
+  "microphone": {
+    "type": "UHF Wireless",
+    "quantity": 2
+  },
+  "mrp": {
+    "amount": 19000,
+    "currency": "INR"
+  }
+}

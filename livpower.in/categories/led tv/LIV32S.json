@@ -1,0 +1,80 @@
+{
+  "product_category": "Television",
+  "model": "LIV32S",
+  "design": {
+    "bezel": "Bezel-less",
+    "design_philosophy": "Less is perfection",
+    "description": "Bezel-less design gives a complete picture without any distraction."
+  },
+  "display": {
+    "colour_reproduction": {
+      "technology": "HEXA Chroma Drive",
+      "colours_supported": "1 Billion",
+      "description": "Accurate colour reproduction including difficult dark shades using 6-colour reproduction."
+    },
+    "colour_gamut": {
+      "wide_colour_gamut": "83%",
+      "description": "Ultra wide colour gamut for realistic images."
+    },
+    "picture_processing": {
+      "technology": "Vivid Digital Pro",
+      "features": [
+        "Colour correction",
+        "Brightness enhancement",
+        "Sharpness enhancement",
+        "Noise reduction"
+      ]
+    },
+    "contrast_and_hdr": {
+      "hdr": "HDR+",
+      "dolby_vision": true,
+      "description": "Enhanced tone mapping with extraordinary colour, contrast and brightness."
+    },
+    "brightness": {
+      "technology": "Super Bright Plus",
+      "description": "Consistent clarity in both bright and dark visuals."
+    },
+    "viewing_angle": {
+      "technology": "Accuview Display",
+      "description": "Wide viewing angle for a perfect view from anywhere in the room."
+    }
+  },
+  "connectivity": {
+    "wireless": [
+      "Bluetooth",
+      "Wi-Fi"
+    ],
+    "casting": [
+      "Chromecast built-in"
+    ],
+    "ports": [
+      "HDMI",
+      "Audio Link"
+    ]
+  },
+  "smart_features": {
+    "voice_control": {
+      "supported": true,
+      "assistants": [
+        "Google Assistant",
+        "Amazon Alexa"
+      ],
+      "hands_free": true
+    },
+    "smart_home": {
+      "platforms": [
+        "MirAle Connected Living",
+        "Google Home"
+      ]
+    },
+    "operating_system": "Google TV"
+  },
+  "user_experience": {
+    "viewing_experience": [
+      "Memorable viewing experience",
+      "Natural skin tones",
+      "Dynamic picture quality",
+      "True contrast"
+    ]
+  }
+}

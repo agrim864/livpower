@@ -1,0 +1,31 @@
+{
+  "model_name": "KALICHARAN",
+  "sub_woofer": {
+    "configuration": [
+      {
+        "size_inch": 6.0,
+        "quantity": 2
+      },
+      {
+        "size_inch": 8.0,
+        "quantity": 1
+      }
+    ]
+  },
+  "power_output": {
+    "voltage_watts": 14000,
+    "unit": "Watts"
+  },
+  "category": "Party Wooden Speaker",
+  "view_type": "Single Tower",
+  "finish": "Wooden",
+  "rgb_light": true,
+  "microphone": {
+    "type": "UHF Wireless",
+    "quantity": 2
+  },
+  "mrp": {
+    "amount": 25000,
+    "currency": "INR"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "product_name": "LIVPOWER 3 CORE WIRE",
+  "product_type": "3 Core Submersible Flat Cables",
+  "core_configuration": {
+    "cores": 3,
+    "type": "Flat Cable"
+  },
+  "electrical_specifications": {
+    "voltage_rating": {
+      "max_voltage": 1100,
+      "supply_type": "AC"
+    }
+  },
+  "thermal_specifications": {
+    "temperature_range_celsius": {
+      "min": -10,
+      "max": 70
+    }
+  },
+  "insulation_material": {
+    "type": "PVC",
+    "properties": [
+      "Flexible",
+      "Waterproof"
+    ]
+  },
+  "conductor": {
+    "material": "Copper",
+    "type": "High Conductivity Annealed Bunched Copper",
+    "class": 5
+  },
+  "available_sizes": {
+    "max_mm2": 50.0,
+    "supported_cores": [3, 4]
+  },
+  "sheath_color": [
+    "Black",
+    "Blue"
+  ],
+  "brand": "Livpower"
+}

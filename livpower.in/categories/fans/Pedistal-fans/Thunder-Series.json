@@ -1,0 +1,64 @@
+{
+  "product_category": "Pedestal Fan",
+  "series": "Thunder Series",
+  "model_number": "LPCF1201",
+  "fan_type": "Non-BLDC (AC Motor)",
+  "design_and_build": {
+    "blade_material": "PP (Polypropylene)",
+    "blade_design": "Aero dynamically designed PP blades",
+    "grill_type": "Finger proof powder coated guard",
+    "oscillation": {
+      "type": "Uniform oscillations",
+      "jerk_free": true
+    },
+    "color_variants": [
+      "Thunder Blue",
+      "Thunder White",
+      "Thunder Grey"
+    ]
+  },
+  "motor_and_efficiency": {
+    "motor_type": "High performance motor",
+    "energy_efficient": true,
+    "bearing_type": "Double Ball Bearing",
+    "noise_level": "Noiseless operation",
+    "power_saving": true
+  },
+  "performance": {
+    "speed_rpm": 2200,
+    "speed_control": {
+      "levels": 3,
+      "type": "Manual"
+    },
+    "power_input": {
+      "voltage": "230V",
+      "frequency": "50Hz"
+    },
+    "air_delivery": {
+      "value": 1350,
+      "unit": "CMM"
+    },
+    "sweep": {
+      "value": 400,
+      "unit": "mm"
+    }
+  },
+  "safety_features": [
+    "Enhanced T.O.P. protection"
+  ],
+  "key_features": [
+    "Aero dynamically designed PP blades",
+    "Finger proof powder coated guard",
+    "Jerk free and uniform oscillations",
+    "RPM 1350 for wider spread of air",
+    "High performance motor",
+    "Three speed control"
+  ],
+  "certifications_and_origin": {
+    "manufacturing_origin": null
+  },
+  "warranty": {
+    "duration": 2,
+    "unit": "Years"
+  }
+}

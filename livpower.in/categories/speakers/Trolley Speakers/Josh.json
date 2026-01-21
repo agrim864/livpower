@@ -1,0 +1,23 @@
+{
+  "model_name": "JOSH",
+  "sub_woofer": {
+    "size_inch": 8.0,
+    "quantity": 1
+  },
+  "power_output": {
+    "w_rms": 110,
+    "unit": "Watts"
+  },
+  "category": "Trolley Speakers",
+  "view_type": "Single Trolley",
+  "finish": "Heavy PVC",
+  "rgb_light": true,
+  "microphone": {
+    "type": "UHF Wireless",
+    "quantity": 2
+  },
+  "mrp": {
+    "amount": 12000,
+    "currency": "INR"
+  }
+}

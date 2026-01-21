@@ -1,0 +1,73 @@
+{
+  "product_category": "BLDC Ceiling Fan",
+  "series": "Platina Prime Series",
+  "model_number": "LPCF1021",
+  "available_sizes": [
+    "48 inch",
+    "56 inch"
+  ],
+  "technology": {
+    "motor_type": "BLDC Motor",
+    "energy_saving": true,
+    "energy_rating": "5 Star",
+    "inverter_compatible": true,
+    "noise_level": "Incredibly quiet operation"
+  },
+  "design_and_build": {
+    "design_style": "Crisp geometric contemporary design",
+    "blade_design": "In-mould decorative aerodynamic blades",
+    "highlights": [
+      "LED lights to indicate speed levels",
+      "Superior paint finish",
+      "Premium decorative appearance"
+    ],
+    "color_variants": [
+      "White",
+      "Gold",
+      "Black",
+      "Wood Finish"
+    ]
+  },
+  "performance": {
+    "speed_rpm": 350,
+    "air_delivery": {
+      "value": 220,
+      "unit": "m3/min"
+    },
+    "sweep": {
+      "value": 1200,
+      "unit": "mm"
+    },
+    "power_input": {
+      "value": 33,
+      "unit": "W"
+    },
+    "low_voltage_operation": true,
+    "air_flow": "Optimum air flow even at low voltage"
+  },
+  "controls_and_operation": {
+    "remote_control": true,
+    "remote_features": [
+      "Speed control",
+      "RF remote sensing in all directions",
+      "LED speed indication"
+    ]
+  },
+  "materials": {
+    "motor_winding": "100% Copper Motor"
+  },
+  "key_features": [
+    "Energy saver BLDC technology",
+    "Remote operation with RF sensing",
+    "Dust fighter design",
+    "Amazingly efficient performance",
+    "Made in India"
+  ],
+  "certifications_and_origin": {
+    "manufacturing_origin": "India"
+  },
+  "warranty": {
+    "duration": 2,
+    "unit": "Years"
+  }
+}

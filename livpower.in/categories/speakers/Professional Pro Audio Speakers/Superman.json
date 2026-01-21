@@ -1,0 +1,24 @@
+{
+  "model_name": "SUPERMAN",
+  "sub_woofer": {
+    "size_inch": 15.0,
+    "quantity": 1,
+    "note": "High Power"
+  },
+  "power_output": {
+    "w_rms": 600,
+    "unit": "Watts"
+  },
+  "category": "Professional Pro Audio",
+  "view_type": "Single Trolley",
+  "finish": "Heavy Model, Active Series",
+  "rgb_light": true,
+  "microphone": {
+    "type": "UHF Wireless",
+    "quantity": 2
+  },
+  "mrp": {
+    "amount": 57000,
+    "currency": "INR"
+  }
+}

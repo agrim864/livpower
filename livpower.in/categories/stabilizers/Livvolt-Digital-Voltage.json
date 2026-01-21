@@ -1,0 +1,62 @@
+{
+  "product_category": "Voltage Stabilizer",
+  "brand": "Livvolt",
+  "manufacturer": "Livpower Industries India Pvt. Ltd.",
+  "product_type": "Digital Voltage Stabilizer",
+  "tagline": ["Precision", "Power", "Performance"],
+  "compliance_and_approval": {
+    "wiring_diagram_standard": "USA ANSY Y32.2 (as printed on brochure)",
+    "approved_for_use_in": "United States of America (as printed on brochure)"
+  },
+  "warranty": {
+    "duration": 36,
+    "unit": "Months"
+  },
+  "range_segments": [
+    {
+      "segment_name": "For Air Conditioner",
+      "notes": "Catalogue section lists models for air conditioners with the same spec fields across models."
+    },
+    {
+      "segment_name": "For Refrigerator & Mainline",
+      "notes": "Catalogue section lists models for refrigerators and general-purpose/mainline loads with the same spec fields across models."
+    }
+  ],
+  "common_model_spec_fields_schema": {
+    "series": "string (e.g., series name shown in the table)",
+    "model_name": "string (model code/name as listed)",
+    "capacity": {
+      "kva_rating": "number",
+      "kva_unit": "KVA",
+      "notes": "AC models may also mention supported tonnage in the KVA rating field (e.g., 'up to X ton')."
+    },
+    "input_voltage_range": {
+      "min_voltage": "number",
+      "max_voltage": "number",
+      "unit": "V",
+      "format_example": "170V-270V"
+    },
+    "application": "string (intended usage/load description as listed)",
+    "aluminium_value": {
+      "value": "number",
+      "unit": "unspecified (listed as 'ALUMINIUM' in the table)"
+    },
+    "mrp": {
+      "value": "number",
+      "currency": "INR",
+      "notes": "Listed as MRP in the table."
+    }
+  },
+  "application_text_patterns_seen_in_catalogue": [
+    "Air conditioner usage (e.g., 1.5 ton / 2.0 ton / etc. as listed per model)",
+    "Refrigerator usage by amp + fridge capacity (e.g., '2 Amp, 1 Ref. up to 300L')",
+    "Multi-appliance loads (deep freezer, water cooler, air cooler, UPS, etc.)",
+    "General purpose mainline (home load examples like rooms/lights/fans/TV/washing machine)"
+  ],
+  "support_contact": {
+    "toll_free_number": "1800-202-2269",
+    "email": "info@livpower.in",
+    "website": "www.livpower.in"
+  },
+  "source_file": "Livvolt Single Fold Brochure.pdf"
+}

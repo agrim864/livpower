@@ -1,0 +1,57 @@
+{
+  "product_category": "Digital Voltage Stabilizer",
+  "product_line": "Amplifier / DJ Mainline Voltage Stabilizers",
+  "brand": "Livpower",
+  "stabilizer_type": "Automatic servo type (microprocessor controlled)",
+  "technology": {
+    "controller": "Latest microprocessor IC based control",
+    "platform": "ANESE technology (first time in India)"
+  },
+  "typical_applications": [
+    "DJ / PA systems",
+    "Sound system",
+    "LED screen",
+    "Treadmill",
+    "Medical equipment",
+    "CNC machines",
+    "Other special applications"
+  ],
+  "output_regulation": {
+    "target_output": "225V ± 5%",
+    "output_voltage_range": "200V - 250V (from input 100V)"
+  },
+  "display_and_controls": {
+    "display": "Digital display / digital meter",
+    "metering": [
+      "Ampere meter"
+    ]
+  },
+  "connectivity": {
+    "sockets": "Multiple sockets"
+  },
+  "delay": {
+    "type": "Instant",
+    "system_feature": "Intelligent time delay system"
+  },
+  "protection_features": [
+    "Spike protection",
+    "Surge protection",
+    "Overheat protection",
+    "Overload protection",
+    "High-low cut off protection",
+    "Short circuit protection",
+    "Enhanced T.O.P. protection"
+  ],
+  "positioning": [
+    "Safety",
+    "Security",
+    "Reliability"
+  ],
+  "certifications": [
+    "ISO (listed on catalog)"
+  ],
+  "warranty": {
+    "duration": 2,
+    "unit": "Years"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "product_category": "Electric Kettle",
+  "capacity": {
+    "volume_litres": 1.8
+  },
+  "power": {
+    "wattage": 1500,
+    "power_saving": true
+  },
+  "build_and_design": {
+    "body_material": "Durable stainless steel",
+    "design": "Ergonomically designed body",
+    "handle": "Sturdy handle for easy handling",
+    "lid": {
+      "type": "Hinged lid",
+      "opening_mechanism": "Lid lever on top",
+      "wide_mouth": true,
+      "benefit": "Easy cleaning and convenient filling"
+    },
+    "spout": "Convenient spout for easy pouring",
+    "heating_element": {
+      "type": "Concealed",
+      "benefit": "Better hygiene"
+    }
+  },
+  "safety_and_controls": {
+    "automatic_shut_off": {
+      "enabled": true,
+      "benefit": "Safety and power saving"
+    },
+    "indicator": {
+      "type": "Power and heating mode indicator"
+    },
+    "power_switch": "Easy ON-OFF power switch"
+  },
+  "base_and_mobility": {
+    "cordless": true,
+    "connector": {
+      "type": "360-degree detachable connector",
+      "benefit": "Easy placement from any direction"
+    }
+  },
+  "key_features": [
+    "Automatic shut-off for safety and power saving",
+    "Wide mouth hinged lid for easy cleaning",
+    "Durable stainless steel body",
+    "Ergonomic design",
+    "Sturdy handle",
+    "Concealed heating element",
+    "360-degree detachable power base",
+    "Cordless pot"
+  ],
+  "use_cases": [
+    "Boiling water",
+    "Tea preparation",
+    "Coffee preparation",
+    "Instant beverages"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "model_name": "PUSHPA",
+  "sub_woofer": {
+    "size_inch": 8.0,
+    "quantity": 2
+  },
+  "power_output": {
+    "w_rms": 8000,
+    "unit": "Watts"
+  },
+  "category": "Portable Party Speaker",
+  "view_type": "Single Tower",
+  "finish": "Heavy PVC",
+  "rgb_light": true,
+  "microphone": {
+    "type": "UHF JL",
+    "quantity": 2
+  },
+  "mrp": {
+    "amount": 19000,
+    "currency": "INR"
+  }
+}

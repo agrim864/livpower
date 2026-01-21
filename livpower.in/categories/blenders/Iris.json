@@ -1,0 +1,46 @@
+{
+  "product_name": "IRIS",
+  "product_type": "Mixer Grinder",
+  "power_output": {
+    "wattage": 550,
+    "unit": "Watts"
+  },
+  "jar_details": [
+    {
+      "jar_type": "Liquidiser",
+      "capacity_liters": 1.25,
+      "material": "Stainless Steel"
+    },
+    {
+      "jar_type": "Grinding",
+      "capacity_liters": 0.6,
+      "material": "Stainless Steel"
+    },
+    {
+      "jar_type": "Chutney",
+      "capacity_liters": 0.3,
+      "material": "Stainless Steel"
+    }
+  ],
+  "control_features": {
+    "speed_settings": 3,
+    "control_type": "Rotary Switch"
+  },
+  "motor": {
+    "winding": "100% Copper",
+    "description": "Powerful motor designed for smooth grinding and blending"
+  },
+  "features": [
+    "Multi-Grinding Capability",
+    "3 Speed Control",
+    "Heavy Duty Jars",
+    "Finest Quality Stainless Steel Jar Set"
+  ],
+  "warranty": {
+    "duration_months": 24
+  },
+  "packaging": {
+    "units_per_master_pack": 12
+  },
+  "brand": "Livpower"
+}

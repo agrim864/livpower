@@ -1,0 +1,61 @@
+{
+  "product_category": "Ceiling Fan",
+  "series": "Aris Decora Series",
+  "model_number": "LPCF1151",
+  "fan_type": "Non-BLDC (AC Motor)",
+  "available_sizes": [
+    "36 inch",
+    "48 inch",
+    "56 inch"
+  ],
+  "motor_and_efficiency": {
+    "motor_type": "Powerful AC motor",
+    "energy_efficient": true,
+    "bearing_type": "Double Ball Bearing",
+    "inverter_compatible": true,
+    "noise_level": "Noiseless operation (no humming sound on inverter)"
+  },
+  "design_and_build": {
+    "design_style": "Bold, elegant design for modern homes with stylish trims",
+    "blade_design": "Wider aluminum blades for optimum air flow",
+    "finish": "Premium metallic finish (unique design)",
+    "color_variants": [
+      "Golden Brown",
+      "Pearl Ivory",
+      "Silver White"
+    ]
+  },
+  "performance": {
+    "speed_rpm": 350,
+    "power_input": {
+      "voltage": "230V",
+      "frequency": "50Hz"
+    },
+    "air_delivery": {
+      "value": 230,
+      "unit": "CMM"
+    },
+    "sweep": {
+      "value": 1200,
+      "unit": "mm"
+    },
+    "low_voltage_operation": true
+  },
+  "key_features": [
+    "Wider aluminum blades",
+    "Bold design for modern homes",
+    "Elegant design with stylish trims",
+    "Optimum air flow even at low voltage",
+    "No humming sound while running on inverter",
+    "Double ball bearing for longer life",
+    "Power saving",
+    "Noiseless operation"
+  ],
+  "certifications_and_origin": {
+    "manufacturing_origin": null
+  },
+  "warranty": {
+    "duration": 2,
+    "unit": "Years"
+  }
+}

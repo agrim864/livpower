@@ -1,0 +1,21 @@
+{
+  "model_name": "SARKAR",
+  "sub_woofer": {
+    "size_inch": 6.5
+  },
+  "power_output": {
+    "w_rms": 100,
+    "unit": "Watts"
+  },
+  "category": "Tower Speaker",
+  "height": {
+    "value": 26,
+    "unit": "Inch"
+  },
+  "finish": "Wooden",
+  "rgb_light": true,
+  "mrp": {
+    "amount": 6200,
+    "currency": "INR"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "product_name": "BLACK GOLD",
+  "product_type": "Mixer Grinder",
+  "power_output": {
+    "wattage": 450,
+    "unit": "Watts"
+  },
+  "jar_details": [
+    {
+      "jar_type": "Liquidiser",
+      "capacity_liters": 1.25,
+      "material": "Stainless Steel"
+    },
+    {
+      "jar_type": "Grinder",
+      "capacity_liters": 0.3,
+      "material": "Stainless Steel"
+    }
+  ],
+  "motor": {
+    "winding": "100% Copper",
+    "motor_type": "Pure Copper Winding Motor"
+  },
+  "control_features": {
+    "speed_settings": 3,
+    "control_type": "Rotary Switch"
+  },
+  "warranty": {
+    "duration_months": 24
+  },
+  "packaging": {
+    "units_per_master_pack": 16
+  },
+  "brand": "Livpower"
+}

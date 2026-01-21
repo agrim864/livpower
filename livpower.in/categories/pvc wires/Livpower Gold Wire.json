@@ -1,0 +1,43 @@
+{
+  "product_name": "LIVPOWER GOLD WIRE",
+  "product_type": "PVC Insulated Industrial Cables",
+  "key_features": [
+    "Heat Resistant (HR)",
+    "Flame Retardant (FR)",
+    "Low Smoke Halogen (LSH)",
+    "Lead Free (LF)"
+  ],
+  "electrical_specifications": {
+    "voltage_rating": {
+      "max_voltage": 1100,
+      "supply_type": "AC"
+    }
+  },
+  "thermal_specifications": {
+    "temperature_range_celsius": {
+      "min": -10,
+      "max": 70
+    }
+  },
+  "insulation_material": {
+    "type": "PVC",
+    "properties": [
+      "Heat Resistant (HR)",
+      "Flame Retardant (FR)",
+      "Low Smoke Halogen (LSH)"
+    ]
+  },
+  "conductor": {
+    "material": "Copper",
+    "type": "High Conductivity Annealed Bunched Copper",
+    "class": 2
+  },
+  "available_sizes": {
+    "min_mm2": 1.0,
+    "max_mm2": 2.5
+  },
+  "compliance": {
+    "lead_free": true
+  },
+  "brand": "Livpower"
+}

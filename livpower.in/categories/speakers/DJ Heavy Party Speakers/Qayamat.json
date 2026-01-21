@@ -1,0 +1,24 @@
+{
+  "model_name": "QAYAMAT",
+  "sub_woofer": {
+    "size_inch": 15.0,
+    "quantity": 2,
+    "configuration": "Dual Bass"
+  },
+  "power_output": {
+    "w_rms": 250,
+    "unit": "Watts"
+  },
+  "category": "DJ Party Speakers",
+  "view_type": "Heavy Look",
+  "finish": "Wooden High Bass",
+  "rgb_light": true,
+  "microphone": {
+    "type": "UHF Wireless",
+    "quantity": 2
+  },
+  "mrp": {
+    "amount": 46000,
+    "currency": "INR"
+  }
+}

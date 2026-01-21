@@ -1,0 +1,59 @@
+{
+  "product_category": "Pedestal Fan",
+  "series": "Sunami Farrata Series",
+  "model_number": "LPCF1221",
+  "fan_type": "Non-BLDC (AC Motor)",
+  "design_and_build": {
+    "design_style": "Pedestal fan for wide air circulation across the room",
+    "color_variants": [
+      "Black",
+      "White"
+    ]
+  },
+  "motor_and_efficiency": {
+    "motor_type": "Powerful motor",
+    "energy_efficient": true,
+    "bearing_type": "Double Ball Bearing",
+    "noise_level": "Noiseless operation",
+    "power_saving": true
+  },
+  "performance": {
+    "speed_rpm": 2200,
+    "speed_control": {
+      "levels": 3,
+      "type": "Manual"
+    },
+    "power_input": {
+      "voltage": "230V",
+      "frequency": "50Hz"
+    },
+    "air_delivery": {
+      "value": 1350,
+      "unit": "CMM"
+    },
+    "sweep": {
+      "value": 400,
+      "unit": "mm"
+    }
+  },
+  "safety_features": [
+    "Enhanced T.O.P. protection"
+  ],
+  "key_features": [
+    "Wide air circulation across the room",
+    "3 speed control",
+    "Enhanced T.O.P. protection",
+    "Energy efficient",
+    "Double ball bearing for longer life",
+    "Powerful motor",
+    "Noiseless operation",
+    "Power saving"
+  ],
+  "certifications_and_origin": {
+    "manufacturing_origin": null
+  },
+  "warranty": {
+    "duration": 2,
+    "unit": "Years"
+  }
+}

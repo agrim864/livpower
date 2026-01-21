@@ -1,0 +1,26 @@
+{
+  "model_name": "JACK & JOHN",
+  "sub_woofer": {
+    "size_inch": 10.0,
+    "quantity": 2
+  },
+  "power_output": {
+    "w_rms": 140,
+    "unit": "Watts"
+  },
+  "category": "Twin Tower",
+  "height": {
+    "value": 35,
+    "unit": "Inch"
+  },
+  "finish": "Wooden",
+  "rgb_light": true,
+  "microphone": {
+    "type": "Wireless",
+    "quantity": 1
+  },
+  "mrp": {
+    "amount": 20000,
+    "currency": "INR"
+  }
+}

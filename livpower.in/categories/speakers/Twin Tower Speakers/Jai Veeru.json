@@ -1,0 +1,26 @@
+{
+  "model_name": "JAI VEERU",
+  "sub_woofer": {
+    "size_inch": 8.0,
+    "quantity": 2
+  },
+  "power_output": {
+    "w_rms": 140,
+    "unit": "Watts"
+  },
+  "category": "Tower Speaker",
+  "height": {
+    "value": 24,
+    "unit": "Inch"
+  },
+  "finish": "Wooden",
+  "rgb_light": true,
+  "microphone": {
+    "type": "Wired",
+    "quantity": 1
+  },
+  "mrp": {
+    "amount": 13500,
+    "currency": "INR"
+  }
+}

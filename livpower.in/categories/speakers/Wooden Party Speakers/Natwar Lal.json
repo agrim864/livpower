@@ -1,0 +1,23 @@
+{
+  "model_name": "NATWAR LAL",
+  "sub_woofer": {
+    "size_inch": 6.0,
+    "quantity": 2
+  },
+  "power_output": {
+    "voltage_watts": 7000,
+    "unit": "Watts"
+  },
+  "category": "Party Wooden Speaker",
+  "view_type": "Single Tower",
+  "finish": "Wooden",
+  "rgb_light": true,
+  "microphone": {
+    "type": "UHF Wireless",
+    "quantity": 2
+  },
+  "mrp": {
+    "amount": 21000,
+    "currency": "INR"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "product_name": "TURBO",
+  "product_type": "Mixer Grinder",
+  "power_output": {
+    "wattage": 500,
+    "unit": "Watts"
+  },
+  "jar_details": [
+    {
+      "jar_type": "Liquidiser",
+      "capacity_liters": 1.25,
+      "material": "Stainless Steel"
+    },
+    {
+      "jar_type": "Grinding",
+      "capacity_liters": 0.6,
+      "material": "Stainless Steel"
+    },
+    {
+      "jar_type": "Chutney",
+      "capacity_liters": 0.3,
+      "material": "Stainless Steel"
+    }
+  ],
+  "motor": {
+    "winding": "100% Copper",
+    "motor_type": "Pure Copper Winding Motor"
+  },
+  "warranty": {
+    "duration_months": 24
+  },
+  "packaging": {
+    "units_per_master_pack": 12
+  },
+  "brand": "Livpower"
+}

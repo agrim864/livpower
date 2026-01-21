@@ -1,0 +1,55 @@
+{
+  "product_category": "Table Fan",
+  "series": "Breeze Series",
+  "model_number": "LPCF1191",
+  "fan_type": "Non-BLDC (AC Motor)",
+  "design_and_build": {
+    "design_style": "Compact table/desk fan with protective grill",
+    "mount_options": [
+      "Desk/Table",
+      "Wall"
+    ],
+    "color_variants": [
+      "Ivory",
+      "Pearl White"
+    ]
+  },
+  "motor_and_efficiency": {
+    "motor_type": "High speed AC motor",
+    "energy_efficient": true,
+    "bearing_type": null,
+    "inverter_compatible": null,
+    "noise_level": null
+  },
+  "performance": {
+    "speed_rpm": 2200,
+    "speed_control": {
+      "levels": 3,
+      "type": "Manual"
+    },
+    "power_input": {
+      "voltage": "80V",
+      "frequency": "20Hz"
+    },
+    "air_delivery": {
+      "value": 180,
+      "unit": "CMM"
+    },
+    "sweep": {
+      "value": 300,
+      "unit": "mm"
+    }
+  },
+  "key_features": [
+    "High speed and high air thrust",
+    "Multipurpose: can be used as desk or wall fan",
+    "Three speed control"
+  ],
+  "certifications_and_origin": {
+    "manufacturing_origin": null
+  },
+  "warranty": {
+    "duration": 2,
+    "unit": "Years"
+  }
+}

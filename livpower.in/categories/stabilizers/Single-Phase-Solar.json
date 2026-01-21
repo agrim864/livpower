@@ -1,0 +1,50 @@
+{
+  "product_category": "Voltage Stabilizer",
+  "product_line": "Single Phase Stabilizer for Solar",
+  "brand": "LivPower",
+  "stabilizer_type": "Single phase digital voltage stabilizer",
+  "input_voltage_range": {
+    "min": 140,
+    "max": 450,
+    "unit": "V"
+  },
+  "display_and_controls": {
+    "digital_meter": true,
+    "bypass": "Emergency stabilizer bypass"
+  },
+  "control_and_correction": {
+    "controller": "Latest microprocessor IC based",
+    "correction_technology": "Zero crossing relay for fast voltage correction",
+    "protection_logic": "Micro-controller based overload protection (MCB)"
+  },
+  "protection_features": [
+    "High-low voltage cutoff",
+    "Delay time circuits",
+    "Overload protection (MCB)",
+    "Spike protection",
+    "Overheat protection",
+    "Intelligent time delay system",
+    "Surge protection"
+  ],
+  "build_and_form_factor": {
+    "model_type": "Table top model",
+    "body": "7 tank process powder coated body (IP-60)",
+    "components": "Standard parts and components"
+  },
+  "quality_and_origin": {
+    "quality_assurance": "Quality assured",
+    "origin": "Make in India"
+  },
+  "range_notes": {
+    "available_variants": [
+      "5KVA (18A)",
+      "10KVA (30A)",
+      "15KVA (50A)",
+      "20KVA (70A)"
+    ]
+  },
+  "warranty": {
+    "duration": 12,
+    "unit": "Months"
+  }
+}

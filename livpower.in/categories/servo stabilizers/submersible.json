@@ -1,0 +1,314 @@
+{
+  "product_type": "servo_voltage_stabilizer",
+  "name": "Digital Servo Voltage Stabilizer",
+  "applications": [
+    "Submersible"
+  ],
+  "features": ["Safety", "Security", "Reliability"],
+  "variants": [
+    {
+      "cooling": "air_cooled",
+      "phase": "single_phase",
+      "price_table": [
+        {
+          "rating_kva": 2,
+          "prices_by_input_range": {
+            "160-260V": 15500,
+            "140-260V": 17700,
+            "90-260V": 20900
+          }
+        },
+        {
+          "rating_kva": 3,
+          "prices_by_input_range": {
+            "160-260V": 18000,
+            "140-260V": 19250,
+            "90-260V": 24800
+          }
+        },
+        {
+          "rating_kva": 5,
+          "prices_by_input_range": {
+            "160-260V": 21200,
+            "140-260V": 23100,
+            "90-260V": 34100
+          }
+        },
+        {
+          "rating_kva": 7.5,
+          "prices_by_input_range": {
+            "160-260V": 35500,
+            "140-260V": 37200,
+            "90-260V": 50500
+          }
+        },
+        {
+          "rating_kva": 10,
+          "prices_by_input_range": {
+            "160-260V": 42000,
+            "140-260V": 43250,
+            "90-260V": 66800
+          }
+        },
+        {
+          "rating_kva": 15,
+          "prices_by_input_range": {
+            "160-260V": 54300,
+            "140-260V": 58500
+          }
+        }
+      ]
+    },
+    {
+      "cooling": "air_cooled",
+      "phase": "three_phase",
+      "price_table": [
+        {
+          "rating_kva": 6,
+          "prices_by_input_range": {
+            "340-460V": 41500,
+            "300-460V": 43100,
+            "250-460V": 47100
+          }
+        },
+        {
+          "rating_kva": 10,
+          "prices_by_input_range": {
+            "340-460V": 61000,
+            "300-460V": 67400,
+            "250-460V": 68500
+          }
+        },
+        {
+          "rating_kva": 15,
+          "prices_by_input_range": {
+            "340-460V": 63500,
+            "300-460V": 68300,
+            "250-460V": 73100
+          }
+        },
+        {
+          "rating_kva": 20,
+          "prices_by_input_range": {
+            "340-460V": 73000,
+            "300-460V": 82000,
+            "250-460V": 87200
+          }
+        },
+        {
+          "rating_kva": 25,
+          "prices_by_input_range": {
+            "340-460V": 84300,
+            "300-460V": 94400,
+            "250-460V": 130800
+          }
+        },
+        {
+          "rating_kva": 30,
+          "prices_by_input_range": {
+            "340-460V": 102500,
+            "300-460V": 123900,
+            "250-460V": 132100
+          }
+        }
+      ]
+    },
+    {
+      "cooling": "oil_cooled",
+      "phase": "single_phase",
+      "price_table": [
+        {
+          "rating_kva": 10,
+          "prices_by_input_range": {
+            "160-260V": { "price": 46200, "oil_required": 50 },
+            "140-260V": { "price": 48200, "oil_required": 50 },
+            "90-260V": { "price": 67100, "oil_required": 50 }
+          }
+        },
+        {
+          "rating_kva": 15,
+          "prices_by_input_range": {
+            "160-260V": { "price": 61500, "oil_required": 50 },
+            "140-260V": { "price": 65700, "oil_required": 50 },
+            "90-260V": { "price": 84900, "oil_required": 60 }
+          }
+        },
+        {
+          "rating_kva": 20,
+          "prices_by_input_range": {
+            "160-260V": { "price": 84200, "oil_required": 50 },
+            "140-260V": { "price": 92500, "oil_required": 50 },
+            "90-260V": { "price": 110800, "oil_required": 60 }
+          }
+        },
+        {
+          "rating_kva": 25,
+          "prices_by_input_range": {
+            "160-260V": { "price": 97600, "oil_required": 80 },
+            "140-260V": { "price": 105480, "oil_required": 80 },
+            "90-260V": { "price": 123300, "oil_required": 80 }
+          }
+        },
+        {
+          "rating_kva": 30,
+          "prices_by_input_range": {
+            "160-260V": { "price": 109200, "oil_required": 200 },
+            "140-260V": { "price": 118300, "oil_required": 200 },
+            "90-260V": { "price": 135900, "oil_required": 200 }
+          }
+        }
+      ]
+    },
+    {
+      "cooling": "oil_cooled",
+      "phase": "three_phase",
+      "price_table": [
+        {
+          "rating_kva": 10,
+          "prices_by_input_range": {
+            "300-460V": { "price": 57800, "oil_required": 60 },
+            "250-460V": { "price": 62900, "oil_required": 60 },
+            "150-460V": { "price": 93700, "oil_required": 80 }
+          }
+        },
+        {
+          "rating_kva": 15,
+          "prices_by_input_range": {
+            "300-460V": { "price": 65900, "oil_required": 60 },
+            "250-460V": { "price": 71200, "oil_required": 60 },
+            "150-460V": { "price": 102700, "oil_required": 80 }
+          }
+        },
+        {
+          "rating_kva": 20,
+          "prices_by_input_range": {
+            "300-460V": { "price": 87200, "oil_required": 80 },
+            "250-460V": { "price": 92300, "oil_required": 80 },
+            "150-460V": { "price": 120700, "oil_required": 80 }
+          }
+        },
+        {
+          "rating_kva": 25,
+          "prices_by_input_range": {
+            "300-460V": { "price": 99800, "oil_required": 80 },
+            "250-460V": { "price": 103200, "oil_required": 80 },
+            "150-460V": { "price": 154900, "oil_required": 80 }
+          }
+        },
+        {
+          "rating_kva": 30,
+          "prices_by_input_range": {
+            "300-460V": { "price": 117500, "oil_required": 100 },
+            "250-460V": { "price": 124500, "oil_required": 100 },
+            "150-460V": { "price": 187500, "oil_required": 120 }
+          }
+        },
+        {
+          "rating_kva": 40,
+          "prices_by_input_range": {
+            "300-460V": { "price": 132300, "oil_required": 120 },
+            "250-460V": { "price": 135300, "oil_required": 120 },
+            "150-460V": { "price": 208400, "oil_required": 120 }
+          }
+        },
+        {
+          "rating_kva": 50,
+          "prices_by_input_range": {
+            "300-460V": { "price": 153200, "oil_required": 130 },
+            "250-460V": { "price": 157800, "oil_required": 160 },
+            "150-460V": { "price": 235400, "oil_required": 200 }
+          }
+        },
+        {
+          "rating_kva": 60,
+          "prices_by_input_range": {
+            "300-460V": { "price": 185400, "oil_required": 160 },
+            "250-460V": { "price": 190400, "oil_required": 160 },
+            "150-460V": { "price": 273800, "oil_required": 200 }
+          }
+        },
+        {
+          "rating_kva": 75,
+          "prices_by_input_range": {
+            "340-460V": { "price": 205400, "oil_required": 160 },
+            "300-460V": { "price": 219800, "oil_required": 160 },
+            "250-460V": { "price": 235300, "oil_required": 200 },
+            "150-460V": { "price": 319700, "oil_required": 250 }
+          }
+        },
+        {
+          "rating_kva": 100,
+          "prices_by_input_range": {
+            "340-460V": { "price": 246600, "oil_required": 250 },
+            "300-460V": { "price": 262700, "oil_required": 300 },
+            "250-460V": { "price": 285700, "oil_required": 350 },
+            "150-460V": { "price": 408500, "oil_required": 500 }
+          }
+        },
+        {
+          "rating_kva": 125,
+          "prices_by_input_range": {
+            "340-460V": { "price": 266300, "oil_required": 300 },
+            "300-460V": { "price": 285300, "oil_required": 350 },
+            "250-460V": { "price": 312500, "oil_required": 350 },
+            "150-460V": { "price": 483100, "oil_required": 500 }
+          }
+        },
+        {
+          "rating_kva": 150,
+          "prices_by_input_range": {
+            "340-460V": { "price": 299500, "oil_required": 350 },
+            "300-460V": { "price": 316600, "oil_required": 400 },
+            "250-460V": { "price": 336200, "oil_required": 600 },
+            "150-460V": { "price": 572050, "oil_required": 800 }
+          }
+        },
+        {
+          "rating_kva": 200,
+          "prices_by_input_range": {
+            "340-460V": { "price": 394000, "oil_required": 400 },
+            "300-460V": { "price": 413200, "oil_required": 600 },
+            "250-460V": { "price": 435700, "oil_required": 600 },
+            "150-460V": { "price": 712200, "oil_required": 800 }
+          }
+        },
+        {
+          "rating_kva": 250,
+          "prices_by_input_range": {
+            "340-460V": { "price": 470500, "oil_required": 600 },
+            "300-460V": { "price": 513500, "oil_required": 600 },
+            "250-460V": { "price": 567800, "oil_required": 600 },
+            "150-460V": { "price": 865400, "oil_required": 800 }
+          }
+        },
+        {
+          "rating_kva": 300,
+          "prices_by_input_range": {
+            "340-460V": { "price": 530400, "oil_required": 700 },
+            "300-460V": { "price": 603900, "oil_required": 800 },
+            "250-460V": { "price": 643500, "oil_required": 800 },
+            "150-460V": { "price": 994200, "oil_required": 1200 }
+          }
+        },
+        {
+          "rating_kva": 400,
+          "prices_by_input_range": {
+            "340-460V": { "price": 612700, "oil_required": 800 },
+            "300-460V": { "price": 699200, "oil_required": 1000 },
+            "250-460V": "ON REQUEST",
+            "150-460V": "ON REQUEST"
+          }
+        },
+        {
+          "rating_kva": 500,
+          "prices_by_input_range": {
+            "340-460V": { "price": 715900, "oil_required": 1000 },
+            "300-460V": { "price": 825900, "oil_required": 1100 },
+            "250-460V": "ON REQUEST",
+            "150-460V": "ON REQUEST"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "product_name": "TRUEMIX",
+  "product_type": "Mixer Grinder",
+  "jar_details": [
+    {
+      "jar_type": "Liquidiser",
+      "capacity_liters": 1.5,
+      "material": "Stainless Steel"
+    },
+    {
+      "jar_type": "Grinding",
+      "capacity_liters": 1.0,
+      "material": "Stainless Steel"
+    },
+    {
+      "jar_type": "Chutney",
+      "capacity_liters": 0.3,
+      "material": "Stainless Steel"
+    }
+  ],
+  "control_features": {
+    "speed_settings": 3,
+    "control_type": "Rotary Switch",
+    "pulse_function": true
+  },
+  "warranty": {
+    "duration_months": 12
+  },
+  "packaging": {
+    "units_per_master_pack": 12
+  },
+  "features": [
+    "Heavy Duty Jars",
+    "Finest Quality Stainless Steel Jar Set"
+  ],
+  "brand": "Livpower"
+}

@@ -1,0 +1,12 @@
+{
+  "model_name": "JIM",
+  "sub_woofer": {
+    "size_inch": 5.25,
+    "quantity": 1
+  },
+  "category": "Sound Bar System",
+  "mrp": {
+    "amount": 11000,
+    "currency": "INR"
+  }
+}

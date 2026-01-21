@@ -1,0 +1,43 @@
+{
+  "product_category": "Voltage Stabilizer",
+  "product_line": "Submersible Pump Voltage Stabilizers",
+  "brand": "LivPower",
+  "stabilizer_type": "Automatic voltage stabilizer",
+  "intended_use": "Specially designed for submersible pumps",
+  "technology": {
+    "highlight": "New Japanese technology"
+  },
+  "operating_range": {
+    "range": "50V operating range"
+  },
+  "common_protection_features": [
+    "Overload protection",
+    "Intelligent time delay system",
+    "Surge protection"
+  ],
+  "positioning": [
+    "Safety",
+    "Security",
+    "Reliability"
+  ],
+  "range_notes": {
+    "available_capacities_va": [
+      1500,
+      2500,
+      3500,
+      5500,
+      8500,
+      11000
+    ],
+    "pump_support_upto_hp": {
+      "min": 0.5,
+      "max": 4.0
+    }
+  },
+  "manufacturer_contact": {
+    "address": "BLOCK-H, DSIDC INDUSTRIAL AREA, DELHI-110040",
+    "phone": "+91 70119 43712",
+    "email": "rehaaninternational17@gmail.com",
+    "website": "www.livpower.in"
+  }
+}

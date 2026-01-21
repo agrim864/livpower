@@ -1,0 +1,1166 @@
+<!DOCTYPE html>
+<html lang="en-US" itemscope itemtype="https://schema.org/Article">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width" />
+  <title>Blenders / Grinders | Liv Power</title>
+  <meta name="robots" content="max-image-preview:large" />
+  <link rel="canonical" href="index.html" />
+
+  <!-- Site CSS (keep your existing theme styles so it matches the website) -->
+  <link rel="stylesheet" href="../wp-content/themes/blankslate/assets/css/bootstrap.min9940.css?v=566">
+  <link rel="stylesheet" href="../wp-content/themes/blankslate/assets/css/main3478.css?v=588a">
+  <link rel="stylesheet" href="../wp-content/themes/blankslate/assets/css/style1be3.css?v=qqa68">
+  <link rel="stylesheet" href="../wp-content/themes/blankslate/assets/css/slick-1.8.1/slick/slick.css">
+
+  <!-- AOS CSS -->
+  <link href="../../cdn.jsdelivr.net/npm/aos%402.3.4/dist/aos.css" rel="stylesheet">
+
+  <!-- Icons -->
+  <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link href="../../cdn.jsdelivr.net/npm/boxicons%402.1.2/css/boxicons.min.css" rel="stylesheet">
+
+  <!-- Google font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com/">
+  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    /* Keep your existing page tweaks */
+    .item-brands img{ max-height: 150px !important; }
+    .brands{ padding-bottom: 10px !important; }
+    .hero-video{ position: inherit !important; }
+    .hero-video video{ width: 100%; }
+    .item-image{ margin-right: 10px; }
+    .category-card{ text-decoration: none; }
+    .shipping-item_detail:hover p { color: #fff !important; }
+    .shipping-item_detail:hover h3 { color: #fff; }
+    .shipping-item_detail:hover { background: rgb(235, 105, 29); }
+    .shipping-item_detail:hover img { filter: brightness(0) invert(1); transition: 0.3s ease; }
+
+    .home-banner { margin-top: 36px; height: inherit; }
+    .site-logo img, .site-logo-scroll img { height: 70px; width: 80%; object-fit: contain; }
+    header{ z-index: 999999999999999999; }
+
+    .find-job a {
+      padding: 8px 10px;
+      border: solid 1px #fff;
+      border-radius: 4px;
+      color: #fff;
+      text-decoration: none;
+      font-size: 16px;
+      text-align: center;
+      font-weight: 500;
+      line-height: 18px;
+      background: rgba(240, 90, 40, 1);
+      display: inline-block;
+      margin-left: 10px;
+    }
+
+    .float {
+      position: fixed;
+      width: 60px;
+      height: 60px;
+      bottom: 40px !important;
+      right: 40px;
+      background-color: #25d366;
+      color: #FFF;
+      border-radius: 50px;
+      text-align: center;
+      font-size: 30px;
+      box-shadow: 2px 2px 3px #999;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+    }
+
+    @media (max-width:900px){
+      .text-section-info p{ font-size: 16px !important; text-align: justify !important; }
+      #menu-menu-1{
+        position: fixed;
+        left: -200%;
+        transition: .3s all ease;
+        width: 80%;
+        background-color: #000;
+        top: 0;
+        border-radius: 0 !important;
+        height: 100%;
+      }
+      #menu-menu-1.active-filter{ left: 0%; transition: .3s all ease; border-radius: 20px 20px 0 0; }
+      .menu-toggle i{ color: #fff; font-size: 20px; }
+      .menu li a{ color: #fff !important; }
+      .inner-menu{ padding: 8px 0px; }
+      .close-menu{ display: block; }
+    }
+
+    /* NEW: Split banner image 50/50 (Blender + Grinder) */
+    .banner-split{
+      width: 100%;
+      height: 100%;
+      display: flex;
+    }
+    .banner-half{
+      flex: 1;
+      height: 100%;
+      background-repeat: no-repeat, no-repeat;
+      background-position: center, center;
+      background-size: 78% auto, cover; /* product image, background image */
+    }
+    .banner-half.left{
+      background-image:
+        url('../categories/blenders/Power%20Plus.png'),
+        url('../wp-content/uploads/2025/10/istockphoto-1384863054-612x612-1.jpg');
+    }
+    .banner-half.right{
+      background-image:
+        url('../categories/blenders/Iris.png'),
+        url('../wp-content/uploads/2025/10/istockphoto-1384863054-612x612-1.jpg');
+    }
+    @media (max-width:575px){
+      .banner-half{ background-size: 70% auto, cover; }
+    }
+
+    /* New: product grid + filter UI (same pattern as PVC wires) */
+    .all-product { padding: 40px 0px; }
+    .product-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      gap: 16px;
+      flex-wrap: wrap;
+      margin-bottom: 16px;
+    }
+    .product-header h3{
+      font-size: 22px;
+      font-weight: 600;
+      color: rgba(30, 30, 30, 1);
+      margin: 0;
+    }
+    .product-header p{
+      margin: 6px 0 0 0;
+      color: rgba(80, 80, 80, 1);
+      font-size: 14px;
+    }
+
+    .filter-bar{
+      background: #fff;
+      border: 1px solid #eee;
+      border-radius: 12px;
+      padding: 14px;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.06);
+      position: sticky;
+      top: 96px;
+      z-index: 5;
+    }
+    .filter-grid{
+      display: grid;
+      grid-template-columns: 1.2fr 0.9fr 0.7fr 0.7fr 0.9fr 0.9fr auto;
+      gap: 10px;
+      align-items: end;
+    }
+    .filter-field label{
+      font-size: 12px;
+      color: rgba(80,80,80,1);
+      margin-bottom: 6px;
+      display: block;
+    }
+    .filter-field input, .filter-field select{
+      width: 100%;
+      border: 1px solid #e6e6e6;
+      border-radius: 10px;
+      padding: 10px 12px;
+      font-size: 14px;
+      outline: none;
+    }
+    .filter-field input:focus, .filter-field select:focus{
+      border-color: rgba(235, 105, 29, 1);
+      box-shadow: 0 0 0 3px rgba(235, 105, 29, 0.12);
+    }
+
+    .filter-actions{
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      justify-content: flex-end;
+    }
+    .btn-lite{
+      border-radius: 10px;
+      padding: 10px 12px;
+      font-weight: 600;
+      border: 1px solid rgba(235, 105, 29, 1);
+      text-decoration: none;
+      transition: all ease 0.25s;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      white-space: nowrap;
+      font-size: 14px;
+      background: #fff;
+      color: rgba(235, 105, 29, 1);
+    }
+    .btn-lite:hover{
+      background: rgba(235, 105, 29, 1);
+      color: #fff;
+    }
+
+    .results-row{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin: 14px 0 10px 0;
+    }
+    .results-count{
+      font-size: 14px;
+      color: rgba(80,80,80,1);
+      margin: 0;
+    }
+
+    .product-grid{
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 16px;
+      margin-top: 10px;
+    }
+
+    .product-tile{
+      background: #fff;
+      border: 1px solid #eee;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.06);
+      transition: transform 0.25s ease, box-shadow 0.25s ease;
+      display: flex;
+      flex-direction: column;
+      min-height: 100%;
+    }
+    .product-tile:hover{
+      transform: translateY(-4px);
+      box-shadow: 0 14px 40px rgba(0,0,0,0.10);
+    }
+    .product-img{
+      aspect-ratio: 4 / 3;
+      background: #fff;
+      position: relative;
+    }
+    .product-img img{
+      width: 100%;
+      height: 240px;
+      object-fit: contain;
+      padding: 12px;
+    }
+    .badge-row{
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      padding-right: 10px;
+    }
+    .badge{
+      background: rgba(235, 105, 29, 1);
+      color: #fff;
+      font-size: 12px;
+      font-weight: 700;
+      padding: 5px 8px;
+      border-radius: 999px;
+    }
+    .badge.secondary{
+      background: rgba(0,0,0,0.75);
+      font-weight: 600;
+    }
+
+    .product-body{
+      padding: 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      flex: 1;
+    }
+    .product-title{
+      margin: 0;
+      font-size: 16px;
+      font-weight: 700;
+      color: rgba(30, 30, 30, 1);
+      line-height: 22px;
+    }
+    .product-meta{
+      margin: 0;
+      font-size: 13px;
+      color: rgba(80,80,80,1);
+      line-height: 18px;
+      min-height: 36px;
+    }
+
+    details.specs{
+      border-top: 1px dashed #eee;
+      padding-top: 10px;
+    }
+    details.specs summary{
+      cursor: pointer;
+      font-weight: 700;
+      color: rgba(30,30,30,1);
+      font-size: 13px;
+    }
+    .spec-list{
+      margin: 8px 0 0 0;
+      padding-left: 18px;
+      color: rgba(80,80,80,1);
+      font-size: 13px;
+      line-height: 18px;
+    }
+
+    .product-actions{
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-top: auto;
+    }
+    .product-actions a{
+      text-align: center;
+      padding: 10px 12px;
+      border-radius: 10px;
+      font-weight: 700;
+      text-decoration: none;
+      border: 1px solid rgba(235, 105, 29, 1);
+      transition: all ease 0.25s;
+      font-size: 14px;
+    }
+    .product-actions a.enquire{
+      background: #fff;
+      color: rgba(235, 105, 29, 1);
+    }
+    .product-actions a.enquire:hover{
+      background: rgba(235, 105, 29, 1);
+      color: #fff;
+    }
+    .product-actions a.whatsapp{
+      background: rgba(235, 105, 29, 1);
+      color: #fff;
+    }
+    .product-actions a.whatsapp:hover{
+      background: #fff;
+      color: rgba(235, 105, 29, 1);
+    }
+
+    .button-bottom{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 30px 0px 20px 0px;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .button-bottom a{
+      padding: 10px 20px;
+      font-size: 16px;
+      font-weight: 600;
+      border-radius: 10px;
+      border: solid 1px rgba(235, 105, 29, 1);
+      transition: all ease 0.25s;
+      text-decoration: none;
+    }
+    .button-bottom a.download{
+      background: rgba(235, 105, 29, 1);
+      color: #fff;
+    }
+    .button-bottom a.download:hover{
+      background: #fff;
+      color: rgba(235, 105, 29, 1);
+    }
+    .button-bottom a.page-link{
+      background: #fff;
+      color: rgba(235, 105, 29, 1);
+    }
+    .button-bottom a.page-link:hover{
+      background: rgba(235, 105, 29, 1);
+      color: #fff;
+    }
+
+    @media(max-width: 1200px){
+      .filter-grid{ grid-template-columns: 1fr 1fr 0.8fr 0.8fr 1fr 1fr auto; }
+      .product-grid{ grid-template-columns: repeat(3, minmax(0, 1fr)); }
+      .product-img img{ height: 220px; }
+    }
+    @media(max-width: 992px){
+      .filter-bar{ top: 82px; }
+      .filter-grid{ grid-template-columns: 1fr 1fr; }
+      .filter-actions{ justify-content: flex-start; }
+      .product-grid{ grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    }
+    @media(max-width: 575px){
+      .product-grid{ grid-template-columns: 1fr; }
+      .product-img img{ height: 240px; }
+    }
+  </style>
+</head>
+
+<body class="post-template-default single single-post wp-embed-responsive">
+<a href="#content" class="skip-link screen-reader-text">Skip to the content</a>
+<div id="wrapper" class="hfeed">
+
+  <header>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="inner-menu">
+            <div class="site-logo">
+              <a href="../index.html">
+                <img src="../wp-content/uploads/2025/10/cropped-Liv-power-Logo.png" alt="Liv Power Logo" />
+              </a>
+            </div>
+
+            <div class="site-logo-scroll" style="display:none;">
+              <a href="../index.html">
+                <img src="../wp-content/uploads/2025/10/cropped-Liv-power-Logo.png" alt="Liv Power Logo" />
+              </a>
+            </div>
+
+            <nav class="navbar">
+              <div class="menu-menu-1-container">
+                <ul id="menu-menu-1" class="menu">
+                  <li class="menu-item"><a href="../index.html" itemprop="url">Home</a></li>
+                  <li class="menu-item"><a href="../about-us/index.html" itemprop="url">About us</a></li>
+                  <li class="menu-item"><a href="../categories/index.html" itemprop="url">Categories</a></li>
+                  <li class="menu-item"><a href="../contact-us/index.html" itemprop="url">Contact us</a></li>
+                </ul>
+              </div>
+            </nav>
+
+            <div class="find-job">
+              <a href="../contact-us/index.html">Bulk Enquiries</a>
+            </div>
+
+            <div class="menu-toggle mobile-togle">
+              <i class="fa-solid fa-bars"></i>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Banner Section -->
+  <section class="home-banner" data-aos="fade-up" data-aos-duration="1200">
+    <div class="banner-wrapper" style="position:relative; height:260px; overflow:hidden; border-radius:0;">
+      <!-- Split header image: Blender (left) + Grinder (right) -->
+      <div class="banner-split" data-aos="fade-up" data-aos-delay="200">
+        <div class="banner-half left" aria-label="Blender"></div>
+        <div class="banner-half right" aria-label="Grinder"></div>
+      </div>
+
+      <div class="overlay" style="position:absolute; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.5);" data-aos="fade-up" data-aos-delay="300"></div>
+      <div class="container content" style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); color:#fff; width:100%;">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="banner-title">
+              <h2>Blenders / Grinders</h2>
+              <p>Blend smoothies and sauces, or grind spices and chutneys with consistent results.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="bringing" data-aos="fade-up" data-aos-duration="1000" id="content">
+    <div class="container">
+      <div class="row align-items-center">
+
+        <div class="col-md-6">
+          <div class="main-bringing" data-aos="fade-up" data-aos-delay="200">
+            <h2>Blend &amp; Grind Better – Powerful, Versatile, and Easy to Clean</h2>
+            <p>
+              From smoothies and shakes to dry spices, chutneys, and masalas—our blenders and mixer grinders are built for everyday performance.
+              With durable blades, strong motors, and easy controls, you get smooth blends and fine grinding with less effort.
+            </p>
+            <div class="btn-bringig" data-aos="fade-up" data-aos-delay="400">
+              <a href="../contact-us/index.html" class="contact-btn">Contact Us</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <div class="row">
+            <div class="col-md-6 mb-3" data-aos="fade-up" data-aos-delay="200">
+              <div class="shipping-item_detail">
+                <img src="../wp-content/themes/blankslate/assets/img/liv-power/delivery-truck.svg" alt="">
+                <h3>Free Shipping</h3>
+                <p>No delivery fees hidden - your products will be safely delivered and in good time.</p>
+              </div>
+            </div>
+            <div class="col-md-6 mb-3" data-aos="fade-up" data-aos-delay="300">
+              <div class="shipping-item_detail">
+                <img src="../wp-content/themes/blankslate/assets/img/liv-power/headphones.svg" alt="">
+                <h3>Trusted Quality</h3>
+                <p>Constructed with stability, all products are experimented and have a good warranty.</p>
+              </div>
+            </div>
+            <div class="col-md-6 mb-3" data-aos="fade-up" data-aos-delay="400">
+              <div class="shipping-item_detail">
+                <img src="../wp-content/themes/blankslate/assets/img/liv-power/shopping-bag.svg" alt="">
+                <h3>Top Choices</h3>
+                <p>Our products are of the best quality and standards offering the best consumer electronics solutions.</p>
+              </div>
+            </div>
+            <div class="col-md-6 mb-3" data-aos="fade-up" data-aos-delay="500">
+              <div class="shipping-item_detail">
+                <img src="../wp-content/themes/blankslate/assets/img/liv-power/pack.png" alt="">
+                <h3>Big Savings</h3>
+                <p>Energy-efficient, affordable and offer protection to your home with quality consumer electronic products.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ================================================== -->
+  <section class="all-product" id="blenders">
+    <div class="container">
+
+      <div class="product-header" data-aos="fade-up">
+        <div>
+          <h3>Browse all blenders &amp; grinders</h3>
+          <p>Use filters to quickly find the right model by type, wattage, and warranty.</p>
+        </div>
+      </div>
+
+      <!-- Filters -->
+      <div class="filter-bar" data-aos="fade-up" data-aos-delay="150">
+        <div class="filter-grid">
+          <div class="filter-field">
+            <label for="f_search">Search</label>
+            <input id="f_search" type="text" placeholder="Search by model (e.g., Iris, Turbo, Wonder)" />
+          </div>
+
+          <div class="filter-field">
+            <label for="f_type">Type</label>
+            <select id="f_type">
+              <option value="">All types</option>
+            </select>
+          </div>
+
+          <div class="filter-field">
+            <label for="f_minw">Min wattage</label>
+            <input id="f_minw" type="number" inputmode="numeric" placeholder="0" />
+          </div>
+
+          <div class="filter-field">
+            <label for="f_maxw">Max wattage</label>
+            <input id="f_maxw" type="number" inputmode="numeric" placeholder="2000" />
+          </div>
+
+          <div class="filter-field">
+            <label for="f_warranty">Warranty</label>
+            <select id="f_warranty">
+              <option value="">Any</option>
+            </select>
+          </div>
+
+          <div class="filter-field">
+            <label for="f_sort">Sort</label>
+            <select id="f_sort">
+              <option value="featured">Featured first</option>
+              <option value="watt_asc">Wattage: Low to High</option>
+              <option value="watt_desc">Wattage: High to Low</option>
+              <option value="name_asc">Name: A to Z</option>
+            </select>
+          </div>
+
+          <div class="filter-actions">
+            <button id="f_reset" class="btn-lite" type="button">
+              <i class="fa-solid fa-rotate-left"></i> Reset
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="results-row">
+        <p class="results-count" id="resultsCount">Loading...</p>
+      </div>
+
+      <div class="product-grid" id="productGrid"></div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <div class="button-bottom text-center mt-4">
+            <a href="../wp-content/themes/blankslate/assets/img/liv-power/liv.zip" class="download" download>Download Catalogue</a>
+            <a href="../contact-us/index.html" class="page-link">Enquire for Bulk Order</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Full Blenders catalog data -->
+    <script type="application/json" id="liv-blenders-catalog">
+[
+  {
+    "id": "liv-blender-black-gold",
+    "product_name": "BLACK GOLD",
+    "product_type": "Mixer Grinder",
+    "power_output": { "wattage": 450, "unit": "Watts" },
+    "jar_details": [
+      { "jar_type": "Liquidiser", "capacity_liters": 1.25, "material": "Stainless Steel" },
+      { "jar_type": "Grinder", "capacity_liters": 0.3, "material": "Stainless Steel" }
+    ],
+    "motor": { "winding": "100% Copper", "motor_type": "Pure Copper Winding Motor" },
+    "control_features": { "speed_settings": 3, "control_type": "Rotary Switch" },
+    "warranty": { "duration_months": 24 },
+    "packaging": { "units_per_master_pack": 16 },
+    "brand": "Livpower",
+    "image": "../categories/blenders/Black%20Gold.png",
+    "featured": false
+  },
+  {
+    "id": "liv-blender-iris",
+    "product_name": "IRIS",
+    "product_type": "Mixer Grinder",
+    "power_output": { "wattage": 550, "unit": "Watts" },
+    "jar_details": [
+      { "jar_type": "Liquidiser", "capacity_liters": 1.25, "material": "Stainless Steel" },
+      { "jar_type": "Grinding", "capacity_liters": 0.6, "material": "Stainless Steel" },
+      { "jar_type": "Chutney", "capacity_liters": 0.3, "material": "Stainless Steel" }
+    ],
+    "control_features": { "speed_settings": 3, "control_type": "Rotary Switch" },
+    "motor": { "winding": "100% Copper", "description": "Powerful motor designed for smooth grinding and blending" },
+    "features": ["Multi-Grinding Capability","3 Speed Control","Heavy Duty Jars","Finest Quality Stainless Steel Jar Set"],
+    "warranty": { "duration_months": 24 },
+    "packaging": { "units_per_master_pack": 12 },
+    "brand": "Livpower",
+    "image": "../categories/blenders/Iris.png",
+    "featured": false
+  },
+  {
+    "id": "liv-blender-neo",
+    "product_name": "NEO",
+    "product_type": "Mixer Grinder",
+    "power_output": { "wattage": 500, "unit": "Watts" },
+    "jar_details": [
+      { "jar_type": "Liquidiser", "capacity_liters": 1.25, "material": "Stainless Steel" },
+      { "jar_type": "Grinder", "capacity_liters": 0.3, "material": "Stainless Steel" }
+    ],
+    "control_features": { "speed_settings": 3, "control_type": "Rotary Switch", "pulse_function": true },
+    "features": ["Heavy Duty Jars","Finest Quality Stainless Steel Jar Set"],
+    "warranty": { "duration_months": 24 },
+    "packaging": { "units_per_master_pack": 16 },
+    "brand": "Livpower",
+    "image": "../categories/blenders/Neo.png",
+    "featured": false
+  },
+  {
+    "id": "liv-blender-power-plus",
+    "product_name": "POWER PLUS",
+    "product_type": "Mixer Grinder / Blender",
+    "power_output": { "wattage": 400, "unit": "Watts" },
+    "jar_details": {
+      "jar_material": "Polycarbonate",
+      "jar_capacity_liters": 1.25,
+      "jar_features": ["Heavy Duty Jars","Finest Quality Stainless Steel Jar Set"]
+    },
+    "control_features": { "speed_settings": 3, "control_type": "Rotary Switch", "pulse_function": true },
+    "motor": { "winding": "100% Copper", "motor_type": "Pure Copper Winding Motor" },
+    "warranty": { "duration_months": 12 },
+    "packaging": { "units_per_master_pack": 24 },
+    "brand": "Livpower",
+    "image": "../categories/blenders/Power%20Plus.png",
+    "featured": false
+  },
+  {
+    "id": "liv-blender-smarter",
+    "product_name": "SMARTER",
+    "product_type": "Mixer Grinder",
+    "power_output": { "wattage": 400, "unit": "Watts" },
+    "jar_details": [
+      { "jar_type": "Liquidiser", "capacity_liters": 1.25, "material": "Stainless Steel" },
+      { "jar_type": "Grinder", "capacity_liters": 0.3, "material": "Stainless Steel" }
+    ],
+    "control_features": { "control_type": "Rotary Switch", "speed_settings": null },
+    "warranty": { "duration_months": 12 },
+    "packaging": { "units_per_master_pack": 16 },
+    "available_colors": ["Super White","Brilliant Red","Blue"],
+    "brand": "Livpower",
+    "image": "../categories/blenders/Smarter.png",
+    "featured": false
+  },
+  {
+    "id": "liv-blender-truemix",
+    "product_name": "TRUEMIX",
+    "product_type": "Mixer Grinder",
+    "jar_details": [
+      { "jar_type": "Liquidiser", "capacity_liters": 1.5, "material": "Stainless Steel" },
+      { "jar_type": "Grinding", "capacity_liters": 1.0, "material": "Stainless Steel" },
+      { "jar_type": "Chutney", "capacity_liters": 0.3, "material": "Stainless Steel" }
+    ],
+    "control_features": { "speed_settings": 3, "control_type": "Rotary Switch", "pulse_function": true },
+    "warranty": { "duration_months": 12 },
+    "packaging": { "units_per_master_pack": 12 },
+    "features": ["Heavy Duty Jars","Finest Quality Stainless Steel Jar Set"],
+    "brand": "Livpower",
+    "image": "../categories/blenders/Truemix.png",
+    "featured": false
+  },
+  {
+    "id": "liv-blender-turbo",
+    "product_name": "TURBO",
+    "product_type": "Mixer Grinder",
+    "power_output": { "wattage": 500, "unit": "Watts" },
+    "jar_details": [
+      { "jar_type": "Liquidiser", "capacity_liters": 1.25, "material": "Stainless Steel" },
+      { "jar_type": "Grinding", "capacity_liters": 0.6, "material": "Stainless Steel" },
+      { "jar_type": "Chutney", "capacity_liters": 0.3, "material": "Stainless Steel" }
+    ],
+    "motor": { "winding": "100% Copper", "motor_type": "Pure Copper Winding Motor" },
+    "warranty": { "duration_months": 24 },
+    "packaging": { "units_per_master_pack": 12 },
+    "brand": "Livpower",
+    "image": "../categories/blenders/Turbo.png",
+    "featured": false
+  },
+  {
+    "id": "liv-blender-victor",
+    "product_name": "VICTOR",
+    "product_type": "Mixer Grinder",
+    "power_output": { "wattage": 400, "unit": "Watts", "note": "Also available in 450 Watts variant" },
+    "jar_details": [
+      { "jar_type": "Liquidiser", "capacity_liters": 1.25, "material": "Stainless Steel" },
+      { "jar_type": "Grinder", "capacity_liters": 0.3, "material": "Stainless Steel" }
+    ],
+    "control_features": { "speed_settings": 3, "control_type": "Rotary Switch", "pulse_function": true },
+    "features": ["Heavy Duty Jars","Finest Quality Stainless Steel Jar Set","Multi-Grinding Capability"],
+    "warranty": { "duration_months": 12 },
+    "packaging": { "units_per_master_pack": 16 },
+    "brand": "Livpower",
+    "image": "../categories/blenders/Victor.png",
+    "featured": false
+  },
+  {
+    "id": "liv-blender-wonder",
+    "product_name": "WONDER",
+    "product_type": "Mixer Grinder",
+    "power_output": { "wattage": 500, "unit": "Watts" },
+    "jar_details": [
+      { "jar_type": "Liquidiser", "capacity_liters": 1.25, "material": "Stainless Steel" },
+      { "jar_type": "Grinder", "capacity_liters": 0.3, "material": "Stainless Steel" }
+    ],
+    "control_features": { "speed_settings": 3, "control_type": "Rotary Switch" },
+    "motor": { "winding": "100% Copper", "description": "Powerful motor designed for smooth grinding and blending" },
+    "features": ["Multi-Grinding Capability","3 Speed Control","Heavy Duty Jars","Finest Quality Stainless Steel Jar Set"],
+    "warranty": { "duration_months": 24 },
+    "packaging": { "units_per_master_pack": 16 },
+    "brand": "Livpower",
+    "image": "../categories/blenders/Wonder.png",
+    "featured": false
+  }
+]
+    </script>
+  </section>
+
+  <footer id="footer" class="footer" role="contentinfo">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="footer-links">
+            <div class="site-logo">
+              <a href="../index.html">
+                <img src="../wp-content/uploads/2025/10/cropped-Liv-power-Logo.png" alt="Liv Power Logo" />
+              </a>
+            </div>
+            <div class="footer-contact">
+              <div class="footer-icon">
+                <ul>
+                  <li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
+                  <li><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-12">
+          <div class="footer-page-link">
+            <ul>
+              <li><a href="../index.html">Home <span>|</span></a></li>
+              <li><a href="../about-us/index.html">About <span>|</span></a></li>
+              <li><a href="../categories/index.html">Categories <span>|</span></a></li>
+              <li><a href="../blogs/index.html">Blog <span>|</span></a></li>
+              <li><a href="../contact-us/index.html">Contact</a></li>
+            </ul>
+            <p>Empowering homes and businesses with reliable, innovative electronic solutions designed for comfort and performance</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="copyright">
+      © 2025 Livpower | Developed by Digisparx Digital Solutions
+    </div>
+
+    <a href="https://wa.me/919355390355" class="float" target="_blank" rel="noopener">
+      <i class="fa-brands fa-whatsapp"></i>
+    </a>
+  </footer>
+
+</div>
+
+<!-- JS -->
+<script src="../wp-content/themes/blankslate/assets/js/jquery.min.js"></script>
+<script src="../wp-content/themes/blankslate/assets/js/bootstrap.bundle.min.js"></script>
+<script src="../wp-content/themes/blankslate/assets/css/slick-1.8.1/slick/slick.min.js"></script>
+<script src="../wp-content/themes/blankslate/assets/js/main.js"></script>
+<script src="../../cdn.jsdelivr.net/npm/aos%402.3.4/dist/aos.js"></script>
+
+<script>
+  AOS.init({ duration: 1200, once: true });
+
+  // Mobile menu toggle (improved: no duplicate close buttons)
+  (function($){
+    $('.mobile-togle').click(function(){
+      if ($('#menu-menu-1 .close-menu').length === 0) {
+        $('#menu-menu-1').prepend('<button class="close-menu" type="button" style="background:transparent;border:none;color:#fff;font-size:22px;padding:14px;"><i class="fa-solid fa-xmark"></i></button>');
+      }
+      $('#menu-menu-1').toggleClass('active-filter');
+    });
+    $(document).on('click', '.close-menu', function(){
+      $('#menu-menu-1').toggleClass('active-filter');
+    });
+  })(jQuery);
+</script>
+
+<script>
+/* Blenders catalog render + filtering (same logic style as PVC wires page) */
+(function(){
+  function safeText(v){
+    return (v === null || v === undefined) ? '' : String(v);
+  }
+
+  function escapeHtml(s){
+    return safeText(s)
+      .replace(/&/g,'&amp;')
+      .replace(/</g,'&lt;')
+      .replace(/>/g,'&gt;')
+      .replace(/"/g,'&quot;')
+      .replace(/'/g,'&#039;');
+  }
+
+  function buildWhatsAppLink(modelName){
+    var phone = '919355390355';
+    var msg = 'Hi, I am interested in blender/mixer grinder model ' + modelName + '. Please share details for bulk/retail availability.';
+    return 'https://wa.me/' + phone + '?text=' + encodeURIComponent(msg);
+  }
+
+  function getWattage(item){
+    var w = item && item.power_output && item.power_output.wattage;
+    w = Number(w || 0);
+    return isFinite(w) ? w : 0;
+  }
+
+  function getWarranty(item){
+    var m = item && item.warranty && item.warranty.duration_months;
+    m = Number(m || 0);
+    return isFinite(m) ? m : 0;
+  }
+
+  function getType(item){
+    return safeText(item.product_type || '');
+  }
+
+  function getJarList(item){
+    // jar_details can be array OR object (Power Plus)
+    if (Array.isArray(item.jar_details)) return item.jar_details;
+    if (item.jar_details && typeof item.jar_details === 'object') {
+      // Convert object to a single "jar" line for display
+      return [{
+        jar_type: 'Jar',
+        capacity_liters: item.jar_details.jar_capacity_liters,
+        material: item.jar_details.jar_material
+      }];
+    }
+    return [];
+  }
+
+  function jarCount(item){
+    return getJarList(item).length;
+  }
+
+  function highlightSummary(item){
+    var parts = [];
+    var w = getWattage(item);
+    if (w) parts.push(w + 'W power');
+    var jc = jarCount(item);
+    if (jc) parts.push(jc + ' jar' + (jc > 1 ? 's' : ''));
+    var wind = item && item.motor && (item.motor.winding || '');
+    if (wind) parts.push(safeText(wind) + ' winding');
+    var sp = item && item.control_features && item.control_features.speed_settings;
+    if (sp) parts.push(sp + ' speed control');
+    var war = getWarranty(item);
+    if (war) parts.push(war + ' month warranty');
+
+    // Keep it short on tile
+    return parts.slice(0, 3).join(' • ');
+  }
+
+  function fullSpecs(item){
+    var lines = [];
+    lines.push('Brand: ' + safeText(item.brand || 'Livpower'));
+    lines.push('Type: ' + safeText(getType(item)));
+
+    var w = getWattage(item);
+    if (w) {
+      var note = item && item.power_output && item.power_output.note ? (' (' + safeText(item.power_output.note) + ')') : '';
+      lines.push('Power: ' + w + 'W' + note);
+    }
+
+    var jars = getJarList(item);
+    if (jars.length){
+      jars.forEach(function(j){
+        var jt = safeText(j.jar_type || 'Jar');
+        var cap = (j.capacity_liters || j.capacity_liters === 0) ? (safeText(j.capacity_liters) + 'L') : '';
+        var mat = safeText(j.material || '');
+        var bits = [jt];
+        if (cap) bits.push(cap);
+        if (mat) bits.push(mat);
+        lines.push('Jar: ' + bits.join(' – '));
+      });
+    }
+
+    if (item.motor){
+      if (item.motor.motor_type) lines.push('Motor: ' + safeText(item.motor.motor_type));
+      if (item.motor.winding) lines.push('Motor winding: ' + safeText(item.motor.winding));
+      if (item.motor.description) lines.push('Motor: ' + safeText(item.motor.description));
+    }
+
+    if (item.control_features){
+      if (item.control_features.control_type) lines.push('Controls: ' + safeText(item.control_features.control_type));
+      if (item.control_features.speed_settings) lines.push('Speed settings: ' + safeText(item.control_features.speed_settings));
+      if (item.control_features.pulse_function === true) lines.push('Pulse function: Yes');
+    }
+
+    var war = getWarranty(item);
+    if (war) lines.push('Warranty: ' + war + ' months');
+
+    if (item.packaging && item.packaging.units_per_master_pack) {
+      lines.push('Master pack: ' + safeText(item.packaging.units_per_master_pack) + ' units');
+    }
+
+    if (Array.isArray(item.available_colors) && item.available_colors.length){
+      lines.push('Colors: ' + item.available_colors.join(', '));
+    }
+
+    // Extra features (if any)
+    if (Array.isArray(item.features) && item.features.length){
+      lines.push('Features: ' + item.features.join('; '));
+    }
+
+    // Power Plus: jar_features embedded in jar_details
+    if (item.jar_details && item.jar_details.jar_features && Array.isArray(item.jar_details.jar_features) && item.jar_details.jar_features.length){
+      lines.push('Jar features: ' + item.jar_details.jar_features.join('; '));
+    }
+
+    return lines;
+  }
+
+  function renderTile(item){
+    var title = item.product_name || 'Blender';
+    var type = getType(item) || 'Blender';
+    var w = getWattage(item);
+    var war = getWarranty(item);
+    var jc = jarCount(item);
+
+    var specs = fullSpecs(item).map(function(x){ return '<li>' + escapeHtml(x) + '</li>'; }).join('');
+
+    var enquireUrl = '../contact-us/index.html?model=' + encodeURIComponent(title);
+    var waUrl = buildWhatsAppLink(title);
+
+    return [
+      '<div class="product-tile" data-type="' + escapeHtml(type) + '" data-warranty="' + escapeHtml(String(war || '')) + '">',
+        '<div class="product-img">',
+          '<img src="' + escapeHtml(item.image || '') + '" alt="' + escapeHtml(title) + '" loading="lazy" onerror="this.src=\'../wp-content/uploads/2025/10/cropped-Liv-power-Logo.png\'; this.style.objectFit=\'contain\'; this.style.padding=\'24px\';" />',
+          '<div class="badge-row">',
+            (item.featured ? '<span class="badge">Featured</span>' : ''),
+            '<span class="badge secondary">' + escapeHtml(type) + '</span>',
+            (w ? '<span class="badge">' + escapeHtml(String(w)) + 'W</span>' : ''),
+            (jc ? '<span class="badge secondary">' + escapeHtml(String(jc)) + ' Jar</span>' : ''),
+          '</div>',
+        '</div>',
+        '<div class="product-body">',
+          '<h5 class="product-title">' + escapeHtml(title) + '</h5>',
+          '<p class="product-meta">' + escapeHtml(highlightSummary(item) || 'Durable build • Easy to use • Designed for daily performance') + '</p>',
+          '<details class="specs">',
+            '<summary>View specs</summary>',
+            '<ul class="spec-list">' + specs + '</ul>',
+          '</details>',
+          '<div class="product-actions">',
+            '<a class="enquire" href="' + escapeHtml(enquireUrl) + '">Enquire</a>',
+            '<a class="whatsapp" href="' + escapeHtml(waUrl) + '" target="_blank" rel="noopener">WhatsApp</a>',
+          '</div>',
+        '</div>',
+      '</div>'
+    ].join('');
+  }
+
+  function uniqSorted(arr){
+    var seen = {};
+    var out = [];
+    arr.forEach(function(x){
+      var k = safeText(x).trim();
+      if (!k) return;
+      if (seen[k]) return;
+      seen[k] = true;
+      out.push(k);
+    });
+    out.sort(function(a,b){ return a.localeCompare(b); });
+    return out;
+  }
+
+  function uniqNumSorted(arr){
+    var seen = {};
+    var out = [];
+    arr.forEach(function(x){
+      var n = Number(x || 0);
+      if (!isFinite(n) || n <= 0) return;
+      var k = String(n);
+      if (seen[k]) return;
+      seen[k] = true;
+      out.push(n);
+    });
+    out.sort(function(a,b){ return a - b; });
+    return out;
+  }
+
+  document.addEventListener('DOMContentLoaded', function(){
+    var dataEl = document.getElementById('liv-blenders-catalog');
+    if (!dataEl) return;
+
+    var items = [];
+    try { items = JSON.parse(dataEl.textContent || '[]'); } catch(e) { items = []; }
+
+    items = (items || []).map(function(it){
+      it = it || {};
+      it._name = safeText(it.product_name || '').toLowerCase();
+      it._type = safeText(getType(it)).toLowerCase();
+      it._watt = getWattage(it);
+      it._warranty = getWarranty(it);
+      it._featured = !!it.featured;
+      return it;
+    });
+
+    var grid = document.getElementById('productGrid');
+    var countEl = document.getElementById('resultsCount');
+    if (!grid) return;
+
+    var fSearch = document.getElementById('f_search');
+    var fType = document.getElementById('f_type');
+    var fMinW = document.getElementById('f_minw');
+    var fMaxW = document.getElementById('f_maxw');
+    var fWarranty = document.getElementById('f_warranty');
+    var fSort = document.getElementById('f_sort');
+    var fReset = document.getElementById('f_reset');
+
+    // Populate dropdowns
+    var types = uniqSorted(items.map(function(x){ return getType(x); }));
+    var warranties = uniqNumSorted(items.map(function(x){ return getWarranty(x); }));
+
+    if (fType){
+      types.forEach(function(t){
+        var opt = document.createElement('option');
+        opt.value = t;
+        opt.textContent = t;
+        fType.appendChild(opt);
+      });
+    }
+
+    if (fWarranty){
+      warranties.forEach(function(m){
+        var opt = document.createElement('option');
+        opt.value = String(m);
+        opt.textContent = String(m) + ' months';
+        fWarranty.appendChild(opt);
+      });
+    }
+
+    function applyFilters(){
+      var q = fSearch ? (safeText(fSearch.value)).trim().toLowerCase() : '';
+      var type = fType ? safeText(fType.value).trim() : '';
+      var minW = fMinW ? Number(fMinW.value || 0) : 0;
+      var maxW = fMaxW ? Number(fMaxW.value || 0) : 0;
+      var warranty = fWarranty ? safeText(fWarranty.value).trim() : '';
+      var sort = fSort ? safeText(fSort.value) : 'featured';
+      if (!sort) sort = 'featured';
+
+      var filtered = items.filter(function(it){
+        if (q){
+          var hay = (safeText(it.product_name) + ' ' + safeText(it.product_type) + ' ' + safeText(it.brand)).toLowerCase();
+          if (hay.indexOf(q) === -1) return false;
+        }
+
+        if (type && safeText(getType(it)) !== type) return false;
+
+        if ((minW || maxW) && !it._watt) return false;
+        if (minW && it._watt < minW) return false;
+        if (maxW && it._watt > maxW) return false;
+
+        if (warranty && String(it._warranty || '') !== warranty) return false;
+
+        return true;
+      });
+
+      filtered.sort(function(a,b){
+        if (sort === 'featured'){
+          if (a._featured !== b._featured) return (a._featured ? -1 : 1);
+          if (a._watt !== b._watt) return (a._watt || 0) - (b._watt || 0);
+          return safeText(a.product_name).localeCompare(safeText(b.product_name));
+        }
+        if (sort === 'watt_asc') return (a._watt || 0) - (b._watt || 0);
+        if (sort === 'watt_desc') return (b._watt || 0) - (a._watt || 0);
+        if (sort === 'name_asc') return safeText(a.product_name).localeCompare(safeText(b.product_name));
+        return 0;
+      });
+
+      if (!filtered.length){
+        grid.innerHTML = '<div style="grid-column:1/-1; background:#fff; border:1px solid #eee; border-radius:12px; padding:16px; color:rgba(80,80,80,1);">No products match your filters. Try clearing filters.</div>';
+      } else {
+        grid.innerHTML = filtered.map(renderTile).join('');
+      }
+
+      if (countEl){
+        countEl.textContent = filtered.length + ' product(s) found';
+      }
+    }
+
+    function resetFilters(){
+      if (fSearch) fSearch.value = '';
+      if (fType) fType.value = '';
+      if (fMinW) fMinW.value = '';
+      if (fMaxW) fMaxW.value = '';
+      if (fWarranty) fWarranty.value = '';
+      if (fSort) fSort.value = 'featured';
+      applyFilters();
+    }
+
+    ['input','change'].forEach(function(evt){
+      if (fSearch) fSearch.addEventListener(evt, applyFilters);
+      if (fType) fType.addEventListener(evt, applyFilters);
+      if (fMinW) fMinW.addEventListener(evt, applyFilters);
+      if (fMaxW) fMaxW.addEventListener(evt, applyFilters);
+      if (fWarranty) fWarranty.addEventListener(evt, applyFilters);
+      if (fSort) fSort.addEventListener(evt, applyFilters);
+    });
+
+    if (fReset) fReset.addEventListener('click', resetFilters);
+
+    applyFilters();
+  });
+})();
+</script>
+
+</body>
+</html>

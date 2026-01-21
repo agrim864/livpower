@@ -1,0 +1,52 @@
+{
+  "product_category": "Voltage Stabilizer",
+  "product_name": "LIVPOWER Voltage Stabilizer L-LIVP3050ML PRIME",
+  "brand": "LIVPOWER",
+  "type": "Voltage Stabilizer",
+  "used_for": "Multipurpose voltage stabilizer for home & e-ricksaw battery charging",
+  "working_range": {
+    "min": 50,
+    "max": 280,
+    "unit": "VAC"
+  },
+  "model_id": "L-LIVP3050 ML",
+  "build": {
+    "body": "Metal cabinet",
+    "mount_type": ["Wall mount", "Table top"],
+    "display_type": "Digital meter"
+  },
+  "compatibility": {
+    "generator_compatible": true
+  },
+  "capacity": {
+    "value": 3.0,
+    "unit": "KVA"
+  },
+  "performance_features": {
+    "spike_suppressor": true,
+    "tds": true,
+    "output_voltage_correction": true
+  },
+  "power_features": {
+    "trip_delay": true,
+    "accuracy_percent": 2.5,
+    "automatic_reset": true
+  },
+  "safety_features": {
+    "under_voltage_protection": true,
+    "over_voltage_protection": true,
+    "surge_protection": true
+  },
+  "dimensions": {
+    "inner_w_x_h_x_d_mm": [310, 160, 355],
+    "outer_w_x_h_x_d_mm": [395, 235, 435]
+  },
+  "weight": {
+    "value": 19.6,
+    "unit": "kg"
+  },
+  "additional_notes": [
+    "Electromagnetic Interference (EMI) filter to suppress electromagnetic noises in power lines",
+    "Surge and spike protector to help protect connected appliances from voltage spikes"
+  ]
+}

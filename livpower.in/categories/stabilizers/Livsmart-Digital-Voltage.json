@@ -1,0 +1,41 @@
+{
+  "product_category": "Voltage Stabilizer",
+  "brand": "LIVSMART",
+  "product_line_name": "LIVSMART Digital Voltage Stabilizer",
+  "stabilizer_type": "Digital (model-specific ratings/variants)",
+  "common_features": {
+    "digital_output_display": true,
+    "designed_for_home_appliances": true,
+    "application_based_variants": [
+      "Air Conditioner",
+      "Refrigerator / Deep Freezer",
+      "Mainline (Home power)"
+    ],
+    "capacity_range_overall": {
+      "kva_range": "0.5 kVA to 7 kVA (model dependent)"
+    },
+    "input_voltage_range_options": {
+      "range_seen_in_brochure": "50V to 500V (model dependent)"
+    },
+    "standards_and_compliance": {
+      "wiring_diagram_standard": "USA ANSY Y32.2",
+      "approval_note": "Approved for use in United States of America (as shown in brochure)"
+    },
+    "warranty": {
+      "duration": 36,
+      "unit": "Months"
+    }
+  },
+  "common_supported_use_cases_examples": [
+    "Air conditioner protection (tonnage-based models listed in brochure tables)",
+    "Refrigerator up to ~300L (model dependent)",
+    "Deep freezer / water cooler / air cooler (model dependent)",
+    "Digital UPS support (model dependent)",
+    "Washing machine (top/front load) (model dependent)",
+    "Microwave oven / treadmill (model dependent)",
+    "E-rickshaw battery charging (model dependent)",
+    "Home mainline for flats (2–4 bedroom examples shown, model dependent)",
+    "Single phase submersible pump support (examples shown, model dependent)"
+  ],
+  "note": "Exact KVA rating, voltage range, and supported load vary by model/series in the brochure tables."
+}

@@ -1,0 +1,21 @@
+{
+  "model_name": "BROWNY",
+  "sub_woofer": {
+    "size_inch": 5.25
+  },
+  "power_output": {
+    "w_rms": 40,
+    "unit": "Watts"
+  },
+  "category": "Tower Speaker",
+  "height": {
+    "value": 24,
+    "unit": "Inch"
+  },
+  "finish": "Wooden",
+  "rgb_light": true,
+  "mrp": {
+    "amount": 3500,
+    "currency": "INR"
+  }
+}

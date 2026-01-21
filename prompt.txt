@@ -1,0 +1,4109 @@
+use this page as an inspiration and make the next page i give similar to in based on image sizes, filters, hover only pills, product listing, etc.
+
+inspiration page:
+C:\My Web Sites\LivPower\livpower.in\smart-air-smarter-savings-efficient-silent-and-long-lasting\index.html
+<!DOCTYPE html>
+<html lang="en-US" itemscope itemtype="https://schema.org/Article">
+
+<!-- Mirrored from livpower.in/smart-air-smarter-savings-efficient-silent-and-long-lasting/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 14 Jan 2026 20:11:34 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<title>Smart Air, Smarter Savings – Efficient, Silent, and Long-Lasting | Liv Power</title>
+<meta name='robots' content='max-image-preview:large' />
+<meta name="description" content="Explore Liv Power BLDC fans — 5 Star energy saving, inverter compatible, silent operation, remote control, and modern designs. Contact us for bulk enquiries." />
+<link rel="alternate" type="application/rss+xml" title="Liv Power &raquo; Feed" href="../feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Liv Power &raquo; Comments Feed" href="../comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Liv Power &raquo; Smart Air, Smarter Savings – Efficient, Silent, and Long-Lasting Comments Feed" href="feed/index.html" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/livpower.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.7"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+
+<link rel='stylesheet' id='sbi_styles-css' href='../wp-content/plugins/instagram-feed/css/sbi-styles.min4d80.css?ver=6.9.1' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='../wp-includes/css/dist/block-library/style.minb134.css?ver=6.5.7' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(body .is-layout-flow)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-flow)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-flow)  > *{margin-block-start: 24px;margin-block-end: 0;}:where(body .is-layout-constrained)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-constrained)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-constrained)  > *{margin-block-start: 24px;margin-block-end: 0;}:where(body .is-layout-flex) {gap: 24px;}:where(body .is-layout-grid) {gap: 24px;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='../wp-content/plugins/contact-form-7/includes/css/styles658f.css?ver=6.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='hostinger-reach-subscription-block-css' href='../wp-content/plugins/hostinger-reach/frontend/dist/blocks/subscription79a5.css?ver=1764189803' type='text/css' media='all' />
+<link rel='stylesheet' id='blankslate-style-css' href='../wp-content/themes/blankslate/styleb134.css?ver=6.5.7' type='text/css' media='all' />
+<script type="text/javascript" src="../wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="../wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/posts/448.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+<meta name="generator" content="WordPress 6.5.7" />
+<link rel="canonical" href="index.html" />
+<link rel='shortlink' href='../indexc79d.html?p=448' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embeddb87.json?url=https%3A%2F%2Flivpower.in%2Fsmart-air-smarter-savings-efficient-silent-and-long-lasting%2F" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed13c9?url=https%3A%2F%2Flivpower.in%2Fsmart-air-smarter-savings-efficient-silent-and-long-lasting%2F&amp;format=xml" />
+<link rel="pingback" href="../xmlrpc.php">
+		<style type="text/css" id="wp-custom-css">
+			/* Kept as-is; banner sizing is controlled below to match inspiration */
+		</style>
+		<link rel="stylesheet" href="../wp-content/themes/blankslate/assets/css/bootstrap.min9940.css?v=566">
+<link rel="stylesheet" href="../wp-content/themes/blankslate/assets/css/main3478.css?v=588a">
+<link rel="stylesheet" href="../wp-content/themes/blankslate/assets/css/style1be3.css?v=qqa68">
+<link rel="stylesheet" href="../wp-content/themes/blankslate/assets/css/slick-1.8.1/slick/slick.css">
+
+<!-- AOS CSS -->
+<link href="../../cdn.jsdelivr.net/npm/aos%402.3.4/dist/aos.css" rel="stylesheet">
+
+<link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<link href="../../cdn.jsdelivr.net/npm/boxicons%402.1.2/css/boxicons.min.css" rel="stylesheet">
+
+<!-- Google font -->
+<link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
+
+<!-- Google font Second -->
+
+</head>
+
+<style>
+    .item-brands img{
+        max-height: 150px !important;
+    }
+    .brands {
+      padding-bottom: 10px !important;
+    }
+    .hero-video{
+        position: inherit !important;
+    }
+    .hero-video video{
+        width: 100%;
+    }
+.item-image{
+    margin-right: 10px;
+}
+.category-card{
+    text-decoration: none;
+}
+.shipping-item_detail:hover p {
+  color: #fff !important;
+}
+.shipping-item_detail:hover h3 {
+  color: #fff;
+}
+.shipping-item_detail:hover {
+  background: rgb(235, 105, 29);
+}
+.shipping-item_detail:hover img {
+  filter: brightness(0) invert(1);
+  transition: 0.3s ease;
+}
+/*============*/
+
+.home-banner { margin-top: 36px; height: inherit; }
+.product-card .price{ display: none; }
+
+.item-slide-choose p{
+  min-height: 108px;
+  font-size: 16px !important;
+}
+.item-slide-choose{
+  padding: 20px !important;
+}
+.item-slide-choose h3{
+  font-weight: 500 !important;
+}
+.img-choos-icon img{
+  height: 112px;
+}
+.alert-upload span {
+  font-size: 12px;
+  font-weight: 300;
+  margin-left: 5px;
+  letter-spacing: 0.5px;
+}
+.float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px !important;
+  right: 40px;
+  background-color: #25d366;
+  color: #FFF;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
+@media (max-width:900px){
+  .coming-soon-content h2 {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+  }
+  .leadership-info h3 { font-size: 14px; }
+  .leadership-info p {
+    font-size: 8px;
+    text-shadow: 1px 1px 2px #000;
+  }
+  .leadership-info{ opacity: 1; }
+
+  .text-section-info p{
+    font-size: 16PX !important;
+    text-align: justify !important;
+  }
+  .item-slide-choose p{ height: inherit !important; }
+
+  .form-title h2 {
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 0px;
+  }
+  .form-submit.text-center p span {
+    position: absolute;
+    bottom: 9px;
+    left: 77%;
+  }
+  #menu-menu-1 {
+    position: fixed;
+    left: -200%;
+    transition: .3s all ease;
+    width: 80%;
+    background-color: #000;
+    top: 0;
+    border-radius: 0 !important;
+    height: 100%;
+  }
+  .close-menu{ display: block; }
+  #menu-menu-1.active-filter{
+    position: fixed;
+    left: 0%;
+    transition: .3s all ease;
+    border-radius: 20px 20px  0 0;
+  }
+  .menu-toggle i { color: #fff; font-size: 20px; }
+  .menu li a{ color: #fff !important; }
+  .inner-menu{ padding: 8px 0px; }
+  .home-modal h2 {
+    font-size: 50px !important;
+    font-weight: 400;
+    line-height: 35px !important;
+  }
+  .home-modal h3 { font-size: 30px !important; }
+}
+
+.site-logo img { transition: opacity 0.5s ease-in-out; }
+.site-logo img[src*="scrolled-logo"] { opacity: 0; }
+.site-logo img[src*="default-logo"] { opacity: 1; }
+.site-logo img {
+  height: 70px;
+  width: 80%;
+  object-fit: contain;
+}
+.footer-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer-contact ul{ margin-bottom: 0px; }
+.footer-links{ align-items: center !important; }
+
+.site-logo-scroll img {
+  height: 70px;
+  width: 80%;
+  object-fit: contain;
+}
+
+.find-job a {
+  padding: 8px 10px;
+  border: solid 1px #fff;
+  border-radius: 4px;
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  text-align: center;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: -2%;
+  background: rgba(240, 90, 40, 1);
+  display: inline-block;
+  margin-left: 10px;
+}
+
+header{ z-index: 999999999999999999; }
+
+/* ========================= */
+/* Inspiration-matched banner */
+/* ========================= */
+.banner-wrapper{
+  position: relative;
+  height: 260px;
+  overflow: hidden;
+  border-radius: 0;
+}
+.banner-wrapper img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.banner-wrapper .overlay{
+  position: absolute;
+  top:0; left:0; width:100%; height:100%;
+  background: rgba(0,0,0,0.5);
+}
+.banner-wrapper .content{
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  width: 100%;
+}
+
+/* ================================ */
+/* Inspiration-matched grid + filter */
+/* ================================ */
+.all-product { padding: 40px 0px; }
+
+.tv-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+}
+.tv-header h3{
+  font-size: 22px;
+  font-weight: 600;
+  color: rgba(30, 30, 30, 1);
+  margin: 0;
+}
+.tv-header p{
+  margin: 6px 0 0 0;
+  color: rgba(80, 80, 80, 1);
+  font-size: 14px;
+  max-width: 820px;
+}
+
+.filter-bar{
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  padding: 14px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.06);
+  position: sticky;
+  top: 96px;
+  z-index: 5;
+}
+.filter-grid{
+  display: grid;
+  grid-template-columns: 1.2fr 0.7fr 0.9fr 0.9fr 0.9fr auto;
+  gap: 10px;
+  align-items: end;
+}
+.filter-field label{
+  font-size: 12px;
+  color: rgba(80,80,80,1);
+  margin-bottom: 6px;
+  display: block;
+}
+.filter-field input, .filter-field select{
+  width: 100%;
+  border: 1px solid #e6e6e6;
+  border-radius: 10px;
+  padding: 10px 12px;
+  font-size: 14px;
+  outline: none;
+}
+.filter-field input:focus, .filter-field select:focus{
+  border-color: rgba(235, 105, 29, 1);
+  box-shadow: 0 0 0 3px rgba(235, 105, 29, 0.12);
+}
+.filter-actions{
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-end;
+}
+.btn-lite{
+  border-radius: 10px;
+  padding: 10px 12px;
+  font-weight: 600;
+  border: 1px solid rgba(235, 105, 29, 1);
+  text-decoration: none;
+  transition: all ease 0.25s;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  white-space: nowrap;
+  font-size: 14px;
+  background: #fff;
+  color: rgba(235, 105, 29, 1);
+}
+.btn-lite:hover{
+  background: rgba(235, 105, 29, 1);
+  color: #fff;
+}
+
+.results-row{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin: 14px 0 10px 0;
+}
+.results-count{
+  font-size: 14px;
+  color: rgba(80,80,80,1);
+  margin: 0;
+}
+
+.tv-grid{
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 16px;
+  margin-top: 10px;
+}
+
+.tv-card{
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.06);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+.tv-card:hover{
+  transform: translateY(-4px);
+  box-shadow: 0 14px 40px rgba(0,0,0,0.10);
+}
+
+.tv-img{
+  position: relative;
+  aspect-ratio: 4 / 3;
+  background: #fff;
+}
+.tv-img img{
+  width: 100%;
+  height: 240px;
+  object-fit: contain;
+  padding: 12px;
+  display: block;
+}
+
+.badge-row{
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  padding-right: 10px;
+  z-index: 2;
+}
+.badge{
+  background: rgba(235, 105, 29, 1);
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 5px 8px;
+  border-radius: 999px;
+}
+.badge.secondary{
+  background: rgba(0,0,0,0.75);
+  font-weight: 600;
+}
+
+.tv-body{
+  padding: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  flex: 1;
+}
+.tv-title{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 10px;
+}
+.tv-title h5{
+  margin: 0;
+  font-size: 16px;
+  font-weight: 700;
+  color: rgba(30, 30, 30, 1);
+  line-height: 22px;
+}
+.tv-meta{
+  margin: 0;
+  font-size: 13px;
+  color: rgba(80,80,80,1);
+  line-height: 18px;
+  min-height: 36px;
+}
+
+.tv-pills{
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  opacity: 0;
+  transform: translateY(4px);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+.tv-card:hover .tv-pills{
+  opacity: 1;
+  transform: translateY(0);
+}
+.pill{
+  font-size: 12px;
+  padding: 6px 8px;
+  border-radius: 999px;
+  border: 1px solid #e6e6e6;
+  color: rgba(60,60,60,1);
+  background: #fff;
+}
+
+details.specs{
+  border-top: 1px dashed #eee;
+  padding-top: 10px;
+}
+details.specs summary{
+  cursor: pointer;
+  font-weight: 700;
+  color: rgba(30,30,30,1);
+  font-size: 13px;
+}
+.spec-list{
+  margin: 8px 0 0 0;
+  padding-left: 18px;
+  color: rgba(80,80,80,1);
+  font-size: 13px;
+  line-height: 18px;
+}
+
+.tv-actions{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-top: auto;
+}
+.tv-actions a{
+  text-align: center;
+  padding: 10px 12px;
+  border-radius: 10px;
+  font-weight: 700;
+  text-decoration: none;
+  border: 1px solid rgba(235, 105, 29, 1);
+  transition: all ease 0.25s;
+  font-size: 14px;
+}
+.tv-actions a.enquire{
+  background: #fff;
+  color: rgba(235, 105, 29, 1);
+}
+.tv-actions a.enquire:hover{
+  background: rgba(235, 105, 29, 1);
+  color: #fff;
+}
+.tv-actions a.whatsapp{
+  background: rgba(235, 105, 29, 1);
+  color: #fff;
+}
+.tv-actions a.whatsapp:hover{
+  background: #fff;
+  color: rgba(235, 105, 29, 1);
+}
+.json-link{
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
+  font-size: 13px;
+  color: rgba(235, 105, 29, 1);
+  text-decoration: none;
+  font-weight: 700;
+}
+.json-link:hover{ text-decoration: underline; }
+
+.button-bottom{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px 0px 20px 0px;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.button-bottom a{
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 10px;
+  border: solid 1px rgba(235, 105, 29, 1);
+  transition: all ease 0.25s;
+  text-decoration: none;
+}
+.button-bottom a.download{
+  background: rgba(235, 105, 29, 1);
+  color: #fff;
+}
+.button-bottom a.download:hover{
+  background: #fff;
+  color: rgba(235, 105, 29, 1);
+}
+.button-bottom a.page-link{
+  background: #fff;
+  color: rgba(235, 105, 29, 1);
+}
+.button-bottom a.page-link:hover{
+  background: rgba(235, 105, 29, 1);
+  color: #fff;
+}
+
+@media(max-width: 1200px){
+  .filter-grid{ grid-template-columns: 1fr 1fr 1fr 1fr 1fr auto; }
+  .tv-grid{ grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .tv-img img{ height: 220px; }
+}
+@media(max-width: 992px){
+  .filter-bar{ top: 82px; }
+  .filter-grid{ grid-template-columns: 1fr 1fr; }
+  .filter-actions{ justify-content: flex-start; }
+  .tv-grid{ grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .tv-pills{ opacity: 1; transform: none; }
+}
+@media(max-width: 575px){
+  .tv-grid{ grid-template-columns: 1fr; }
+  .tv-img img{ height: 240px; }
+  .tv-pills{ opacity: 1; transform: none; }
+}
+</style>
+
+<body class="post-template-default single single-post postid-448 single-format-standard wp-embed-responsive">
+<a href="#content" class="skip-link screen-reader-text">Skip to the content</a><div id="wrapper" class="hfeed">
+<header>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="inner-menu">
+                    <div class="site-logo">
+                        <a href="../index.html">
+                        <img src="../wp-content/uploads/2025/10/cropped-Liv-power-Logo.png" alt="Default Logo" />                    </a>
+                    </div>
+
+                    <div class="site-logo-scroll" style="display:none;">
+                        <a href="../index.html">
+                            <img src="../wp-content/uploads/2025/10/cropped-Liv-power-Logo.png" alt="Scrolled Logo" />                        </a>
+                    </div>
+
+                    <nav class="navbar">
+                        <div class="menu-menu-1-container"><ul id="menu-menu-1" class="menu"><li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-45"><a href="../index.html" itemprop="url">Home</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="../about-us/index.html" itemprop="url">About us</a></li>
+<li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-366"><a href="../categories/index.html" itemprop="url">Categories</a></li>
+<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="../contact-us/index.html" itemprop="url">Contact us</a></li>
+</ul></div>                        
+                    </nav>
+                    <div class="find-job">
+                      <a href="../contact-us/index.html">  Bulk Enquiries</a>
+                    </div>
+                    
+                    <div class="menu-toggle  mobile-togle">
+                           <i class="fa-solid fa-bars"></i>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<style>
+  .home-banner{ height: inherit; }
+</style>
+
+<!-- Banner Section (updated to match inspiration structure/sizing) -->
+<section class="home-banner" data-aos="fade-up" data-aos-duration="1200">
+  <div class="banner-wrapper">
+    <img src="../wp-content/uploads/2025/10/WhatsApp-Image-2025-10-29-at-12.55.48-PM.jpg" alt="BLDC Fans banner" class="img-fluid" data-aos="fade-up" data-aos-delay="200">
+    <div class="overlay" data-aos="fade-up" data-aos-delay="300"></div>
+
+    <div class="container content">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="banner-title">
+            <h2>BLDC fans</h2>
+            <p>Explore the variety of our products</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Single Post Content -->
+<section class="bringing" data-aos="fade-up" data-aos-duration="1000" id="content">
+  <div class="container">
+    <div class="row align-items-center">
+      
+      <!-- Left Content -->
+      <div class="col-md-6">
+        <div class="main-bringing" data-aos="fade-up" data-aos-delay="200">
+          <h2>Smart Air, Smarter Savings – Efficient, Silent, and Long-Lasting</h2>
+          <p><p>Revolutionize your cooling experience with our BLDC fans. Using advanced brushless technology, they deliver superior airflow with minimal power consumption — offering silent, steady performance that lasts for years.</p>
+</p>
+          <div class="btn-bringig" data-aos="fade-up" data-aos-delay="400">
+            <a href="../contact-us/index.html" class="contact-btn">Contact Us</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right Boxes -->
+      <div class="col-md-6">
+        <div class="row">
+          <div class="col-md-6 mb-3" data-aos="fade-up" data-aos-delay="200">
+            <div class="shipping-item_detail">
+              <img src="../wp-content/themes/blankslate/assets/img/liv-power/delivery-truck.svg" alt="">
+              <h3>Free Shipping</h3>
+              <p>No delivery fees hidden - your products will be safely delivered and in good time.</p>
+            </div>
+          </div>
+          <div class="col-md-6 mb-3" data-aos="fade-up" data-aos-delay="300">
+            <div class="shipping-item_detail">
+              <img src="../wp-content/themes/blankslate/assets/img/liv-power/headphones.svg" alt="">
+              <h3>Trusted Quality</h3>
+              <p>Constructed with stability, all products are experimented and have a good warranty.</p>
+            </div>
+          </div>
+          <div class="col-md-6 mb-3" data-aos="fade-up" data-aos-delay="400">
+            <div class="shipping-item_detail">
+              <img src="../wp-content/themes/blankslate/assets/img/liv-power/shopping-bag.svg" alt="">
+              <h3>Top Choices</h3>
+              <p>Our products are of the best quality and standards offering the best consumer electronics solutions.</p>
+            </div>
+          </div>
+          <div class="col-md-6 mb-3" data-aos="fade-up" data-aos-delay="500">
+            <div class="shipping-item_detail">
+              <img src="../wp-content/themes/blankslate/assets/img/liv-power/pack.png" alt="">
+              <h3>Big Savings</h3>
+              <p>Energy-efficient, affordable and offer protection to your home with quality consumer electronic products.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ================================================== -->
+<section class="all-product" id="bldc-fans">
+  <div class="container">
+
+    <div class="tv-header" data-aos="fade-up">
+      <div>
+        <h3>Browse all BLDC fan models</h3>
+        <p>
+          Use filters to quickly find by size, energy rating, and remote control.
+          Click “View specs” for quick highlights or open the JSON for full specs.
+        </p>
+      </div>
+    </div>
+
+    <!-- Filters (same style as inspiration) -->
+    <div class="filter-bar" data-aos="fade-up" data-aos-delay="150">
+      <div class="filter-grid">
+        <div class="filter-field">
+          <label for="f_search">Search</label>
+          <input id="f_search" type="text" placeholder="Search by series/model (e.g., Crysta, LPCF, 5 Star)" />
+        </div>
+
+        <div class="filter-field">
+          <label for="f_size">Size</label>
+          <select id="f_size">
+            <option value="">All sizes</option>
+          </select>
+        </div>
+
+        <div class="filter-field">
+          <label for="f_rating">Energy rating</label>
+          <select id="f_rating">
+            <option value="">All ratings</option>
+          </select>
+        </div>
+
+        <div class="filter-field">
+          <label for="f_remote">Remote</label>
+          <select id="f_remote">
+            <option value="">All</option>
+            <option value="yes">Remote: Yes</option>
+            <option value="no">Remote: No</option>
+          </select>
+        </div>
+
+        <div class="filter-field">
+          <label for="f_sort">Sort</label>
+          <select id="f_sort">
+            <option value="featured">Featured first</option>
+            <option value="size_asc">Size: Small to Large</option>
+            <option value="size_desc">Size: Large to Small</option>
+            <option value="name_asc">Name: A to Z</option>
+          </select>
+        </div>
+
+        <div class="filter-actions">
+          <button id="f_reset" class="btn-lite" type="button">
+            <i class="fa-solid fa-rotate-left"></i> Reset
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div class="results-row">
+      <p class="results-count" id="resultsCount">Loading...</p>
+    </div>
+
+    <div class="tv-grid" id="tvGrid"></div>
+
+    <div class="row">
+      <div class="col-md-12">
+        <div class="button-bottom text-center mt-4">
+          <a href="../wp-content/themes/blankslate/assets/img/liv-power/liv.zip" class="download" download>Download Catalogue</a>
+          <a href="../contact-us/index.html" class="page-link">Enquire for Bulk Order</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- BLDC fan catalog data (from your provided JSONs) -->
+  <script type="application/json" id="liv-fan-catalog">
+[
+  {
+    "id": "crysta-prime-series",
+    "model_name": "Crysta Prime Series",
+    "model_number": "LPCF1041",
+    "sizes": [48, 56],
+    "rating": "5 Star",
+    "remote": true,
+    "inverter": true,
+    "noise": "Extremely quiet operation",
+    "power_w": 33,
+    "air_delivery": "220 m3/min",
+    "speed_rpm": 350,
+    "featured": true,
+    "image": "../categories/bldc%20fans/Crysta-Prime-Series.png",
+    "pills": ["BLDC", "5 Star", "Remote", "Inverter", "Silent", "Dust fighter"],
+    "summary": "Model LPCF1041 • 5 Star • 33W • Remote (RF) • Extremely quiet",
+    "specs": [
+      "Motor: BLDC Motor",
+      "Sizes: 48 inch, 56 inch",
+      "Energy rating: 5 Star",
+      "Power input: 33W",
+      "Air delivery: 220 m3/min",
+      "Speed: 350 RPM",
+      "Inverter compatible: Yes",
+      "Warranty: 2 Years"
+    ],
+    "spec_json": "../categories/bldc%20fans/Crysta-Prime-Series.json"
+  },
+  {
+    "id": "denim-glanze-series",
+    "model_name": "Denim Glanze Series",
+    "model_number": "LPCF1031",
+    "sizes": [48, 56],
+    "rating": "5 Star",
+    "remote": true,
+    "inverter": true,
+    "noise": "Incredibly quiet operation",
+    "power_w": 33,
+    "air_delivery": "220 m3/min",
+    "speed_rpm": 350,
+    "featured": false,
+    "image": "../categories/bldc%20fans/Denim-Glanze-Series.png",
+    "pills": ["BLDC", "5 Star", "Remote", "Wider blades", "Silent", "Made in India"],
+    "summary": "Model LPCF1031 • 5 Star • 33W • Remote (RF) • Wider blades",
+    "specs": [
+      "Motor: BLDC Motor",
+      "Sizes: 48 inch, 56 inch",
+      "Energy rating: 5 Star",
+      "Power input: 33W",
+      "Air delivery: 220 m3/min",
+      "Speed: 350 RPM",
+      "Inverter compatible: Yes",
+      "Warranty: 2 Years"
+    ],
+    "spec_json": "../categories/bldc%20fans/Denim-Glanze-Series.json"
+  },
+  {
+    "id": "elegance-series",
+    "model_name": "Elegance Series",
+    "model_number": "LPCF1001",
+    "sizes": [48, 56],
+    "rating": "5 Star",
+    "remote": true,
+    "inverter": true,
+    "noise": "No humming sound while running on inverter",
+    "power_w": 33,
+    "air_delivery": "220 m3/min",
+    "speed_rpm": 350,
+    "featured": true,
+    "image": "../categories/bldc%20fans/Elegance-Series.png",
+    "pills": ["BLDC", "5 Star", "Remote", "Wood finish", "Inverter", "Dust fighter"],
+    "summary": "Model LPCF1001 • 5 Star • 33W • Remote • Smooth on inverter",
+    "specs": [
+      "Motor: BLDC Motor",
+      "Sizes: 48 inch, 56 inch",
+      "Energy rating: 5 Star",
+      "Power input: 33W",
+      "Air delivery: 220 m3/min",
+      "Speed: 350 RPM",
+      "Inverter compatible: Yes",
+      "Warranty: 2 Years"
+    ],
+    "spec_json": "../categories/bldc%20fans/Elegance-Series.json"
+  },
+  {
+    "id": "flora-decor-series",
+    "model_name": "Flora Decor Series",
+    "model_number": "LPCF1011",
+    "sizes": [48, 56],
+    "rating": "5 Star",
+    "remote": true,
+    "inverter": true,
+    "noise": "No humming sound while running on inverter",
+    "power_w": 33,
+    "air_delivery": "220 m3/min",
+    "speed_rpm": 350,
+    "featured": true,
+    "image": "../categories/bldc%20fans/Flora-Decor-Series.png",
+    "pills": ["BLDC", "5 Star", "Remote", "LED indicators", "Off timer", "RF sensing"],
+    "summary": "Model LPCF1011 • 5 Star • 33W • Remote (RF) • LED speed indicators",
+    "specs": [
+      "Motor: BLDC Motor",
+      "Sizes: 48 inch, 56 inch",
+      "Energy rating: 5 Star",
+      "Power input: 33W",
+      "Air delivery: 220 m3/min",
+      "Speed: 350 RPM",
+      "Inverter compatible: Yes",
+      "Warranty: 2 Years"
+    ],
+    "spec_json": "../categories/bldc%20fans/Flora-Decor-Series.json"
+  },
+  {
+    "id": "platina-prime-series",
+    "model_name": "Platina Prime Series",
+    "model_number": "LPCF1021",
+    "sizes": [48, 56],
+    "rating": "5 Star",
+    "remote": true,
+    "inverter": true,
+    "noise": "Incredibly quiet operation",
+    "power_w": 33,
+    "air_delivery": "220 m3/min",
+    "speed_rpm": 350,
+    "featured": false,
+    "image": "../categories/bldc%20fans/Platina-Prime-Series.png",
+    "pills": ["BLDC", "5 Star", "Remote", "LED indicators", "Premium finish", "Dust fighter"],
+    "summary": "Model LPCF1021 • 5 Star • 33W • Remote (RF) • Premium decorative look",
+    "specs": [
+      "Motor: BLDC Motor",
+      "Sizes: 48 inch, 56 inch",
+      "Energy rating: 5 Star",
+      "Power input: 33W",
+      "Air delivery: 220 m3/min",
+      "Speed: 350 RPM",
+      "Inverter compatible: Yes",
+      "Warranty: 2 Years"
+    ],
+    "spec_json": "../categories/bldc%20fans/Platina-Prime-Series.json"
+  }
+]
+  </script>
+</section>
+
+</div>
+<style>
+    .site-logo{
+        padding: 0px;
+    }
+</style>
+
+<footer id="footer" class="footer" role="contentinfo" data-aos="">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12" data-aos="" data-aos-delay="100">
+               <div class="footer-links">
+                    <div class="site-logo">
+                         <a href="../index.html">
+                      <img src="../wp-content/uploads/2025/10/cropped-Liv-power-Logo.png" alt="Scrolled Logo" />                    </a>
+                    </div>
+                    <div class="footer-contact">
+                     <div class="footer-icon">
+                        <ul>
+                            <li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
+                            <li><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
+                        </ul>
+                        </div>
+                    </div>
+                </div>         
+            </div>
+
+            <div class="col-md-12" data-aos="" data-aos-delay="200">
+                  <div class="footer-page-link">
+                            <ul>
+                                <li><a href="../index.html">Home <span>|</span></a></li>
+                                <li><a href="../about-us/index.html">About <span>|</span></a></li>
+                                <li><a href="../categories/index.html">Categories <span>|</span></a></li>
+                                <li><a href="../blogs/index.html">Blog <span>|</span></a></li>
+                                <li><a href="../contact-us/index.html">Contact</a></li>
+                            </ul>
+                            <p>Empowering homes and businesses with reliable, innovative electronic solutions designed
+for comfort and performance </p>
+                        </div>
+            </div>
+
+            <div class="col-md-3 d-none" data-aos="" data-aos-delay="300">
+                <div class="footer-contact">
+                    <h3>Contact us </h3>
+                    <ul>
+                        <li><a href="tel:9999-5555-65"> +91 000000000</a></li>
+                        <li><a href="mailto:demo@gmail.com"> demo@gmail.com</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div id="copyright" data-aos="" data-aos-delay="400">
+© 2025 Livpower | Developed by Digisparx Digital Solutions
+</div>
+
+<a href="https://wa.me/919355390355" class="float" target="_blank">
+    <i class="fa-brands fa-whatsapp"></i>
+</a>
+</footer>
+</div>
+
+<script src="../wp-content/themes/blankslate/assets/js/jquery.min.js"></script>
+<script  src="../wp-content/themes/blankslate/assets/js/bootstrap.bundle.min.js"></script>
+<script src="../wp-content/themes/blankslate/assets/css/slick-1.8.1/slick/slick.min.js"></script>
+<script src="../wp-content/themes/blankslate/assets/js/main.js"></script>
+<!-- AOS JS -->
+<script src="../../cdn.jsdelivr.net/npm/aos%402.3.4/dist/aos.js"></script>
+
+<script>
+jQuery(document).ready(function($) {
+var deviceAgent = navigator.userAgent.toLowerCase();
+if (deviceAgent.match(/(iphone|ipod|ipad)/)) {
+$("html").addClass("ios");
+$("html").addClass("mobile");
+}
+if (deviceAgent.match(/(Android)/)) {
+$("html").addClass("android");
+$("html").addClass("mobile");
+}
+if (navigator.userAgent.search("MSIE") >= 0) {
+$("html").addClass("ie");
+}
+else if (navigator.userAgent.search("Chrome") >= 0) {
+$("html").addClass("chrome");
+}
+else if (navigator.userAgent.search("Firefox") >= 0) {
+$("html").addClass("firefox");
+}
+else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) {
+$("html").addClass("safari");
+}
+else if (navigator.userAgent.search("Opera") >= 0) {
+$("html").addClass("opera");
+}
+});
+</script>
+
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "../wp-admin/admin-ajax.html";
+</script>
+<script type="text/javascript" src="../wp-includes/js/dist/vendor/wp-polyfill-inert.min0226.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="../wp-includes/js/dist/vendor/regenerator-runtime.min6c85.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="../wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="../wp-includes/js/dist/hooks.min2757.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script type="text/javascript" src="../wp-includes/js/dist/i18n.minc33c.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="../wp-content/plugins/contact-form-7/includes/swv/js/index658f.js?ver=6.1.2" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/livpower.in\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../wp-content/plugins/contact-form-7/includes/js/index658f.js?ver=6.1.2" id="contact-form-7-js"></script>
+<script type="text/javascript" id="hostinger-reach-subscription-block-view-js-extra">
+/* <![CDATA[ */
+var hostinger_reach_subscription_block_data = {"endpoint":"https:\/\/livpower.in\/wp-json\/hostinger-reach\/v1\/contact","nonce":"591687d6cd","translations":{"thanks":"Thanks for subscribing.","error":"Something went wrong. Please try again."}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../wp-content/plugins/hostinger-reach/frontend/dist/blocks/subscription-view79a5.js?ver=1764189803" id="hostinger-reach-subscription-block-view-js"></script>
+
+<script>
+  AOS.init({ duration: 1200, once: true });
+
+  /* Mobile menu toggle (same behavior as inspiration; prevents duplicate close buttons) */
+  (function($){
+    $('.mobile-togle').click(function(){
+      if ($('#menu-menu-1 .close-menu').length === 0) {
+        $('#menu-menu-1').prepend('<button class="close-menu" type="button" style="background:transparent;border:none;color:#fff;font-size:22px;padding:14px;"><i class="fa-solid fa-xmark"></i></button>');
+      }
+      $('#menu-menu-1').toggleClass('active-filter');
+    });
+    $(document).on('click', '.close-menu', function(){
+      $('#menu-menu-1').toggleClass('active-filter');
+    });
+  })(jQuery);
+</script>
+
+<script>
+/* BLDC catalog render + filtering (same structure as inspiration) */
+(function(){
+  function safeText(v){
+    return (v === null || v === undefined) ? '' : String(v);
+  }
+  function escapeHtml(s){
+    return safeText(s)
+      .replace(/&/g,'&amp;')
+      .replace(/</g,'&lt;')
+      .replace(/>/g,'&gt;')
+      .replace(/"/g,'&quot;')
+      .replace(/'/g,'&#039;');
+  }
+  function uniqSorted(arr, numeric){
+    var seen = {};
+    var out = [];
+    arr.forEach(function(x){
+      var k = safeText(x).trim();
+      if (!k) return;
+      if (seen[k]) return;
+      seen[k] = true;
+      out.push(k);
+    });
+    out.sort(function(a,b){
+      if (numeric){
+        return Number(a) - Number(b);
+      }
+      return a.localeCompare(b);
+    });
+    return out;
+  }
+  function buildWhatsAppLink(name, model){
+    var phone = '919355390355';
+    var msg = 'Hi, I am interested in the BLDC fan ' + name + (model ? (' (Model ' + model + ')') : '') + '. Please share details for availability and bulk pricing.';
+    return 'https://wa.me/' + phone + '?text=' + encodeURIComponent(msg);
+  }
+  function sizeLabelFromSizes(sizes){
+    if (!Array.isArray(sizes) || !sizes.length) return '';
+    var nums = sizes.map(function(x){ return Number(x); }).filter(function(x){ return !!x; }).sort(function(a,b){ return a-b; });
+    if (!nums.length) return '';
+    if (nums.length === 1) return nums[0] + '"';
+    return nums.join('" / ') + '"';
+  }
+
+  function renderCard(item){
+    var name = item.model_name || 'BLDC Fan';
+    var model = item.model_number || '';
+    var sizes = Array.isArray(item.sizes) ? item.sizes : [];
+    var sizeBadge = sizeLabelFromSizes(sizes);
+    var rating = item.rating || '';
+    var remote = (item.remote === true) ? 'Remote' : 'No remote';
+
+    var badges = [
+      item.featured ? '<span class="badge">Featured</span>' : '',
+      sizeBadge ? '<span class="badge secondary">' + escapeHtml(sizeBadge) + '</span>' : '',
+      rating ? '<span class="badge secondary">' + escapeHtml(rating) + '</span>' : ''
+    ].join('');
+
+    var pills = (Array.isArray(item.pills) ? item.pills : [])
+      .slice(0, 6)
+      .map(function(p){ return '<span class="pill">' + escapeHtml(p) + '</span>'; })
+      .join('');
+
+    var specLis = (Array.isArray(item.specs) ? item.specs : [])
+      .map(function(x){ return '<li>' + escapeHtml(x) + '</li>'; })
+      .join('');
+
+    var enquireUrl = '../contact-us/index.html?model=' + encodeURIComponent(name + (model ? (' ' + model) : ''));
+    var waUrl = buildWhatsAppLink(name, model);
+    var json = item.spec_json ? (
+      '<a class="json-link" href="' + escapeHtml(item.spec_json) + '" target="_blank" rel="noopener">' +
+      '<i class="fa-solid fa-code"></i> View specs (JSON)</a>'
+    ) : '';
+
+    return [
+      '<div class="tv-card" data-rating="' + escapeHtml(item.rating || '') + '" data-remote="' + escapeHtml(item.remote ? 'yes' : 'no') + '">',
+        '<div class="tv-img">',
+          '<img src="' + escapeHtml(item.image || '') + '" alt="' + escapeHtml(name) + ' BLDC fan" loading="lazy" onerror="this.src=\'../wp-content/uploads/2025/10/cropped-Liv-power-Logo.png\'; this.style.objectFit=\'contain\'; this.style.padding=\'24px\';" />',
+          '<div class="badge-row">' + badges + '</div>',
+        '</div>',
+        '<div class="tv-body">',
+          '<div class="tv-title">',
+            '<h5>' + escapeHtml(name) + (model ? (' • ' + escapeHtml(model)) : '') + '</h5>',
+          '</div>',
+          '<p class="tv-meta">' + escapeHtml(item.summary || (rating + (remote ? ' • ' + remote : ''))) + '</p>',
+          '<div class="tv-pills">' + pills + '</div>',
+          '<details class="specs">',
+            '<summary>View specs</summary>',
+            '<ul class="spec-list">',
+              specLis,
+            '</ul>',
+          '</details>',
+          '<div class="tv-actions">',
+            '<a class="enquire" href="' + escapeHtml(enquireUrl) + '">Enquire</a>',
+            '<a class="whatsapp" href="' + escapeHtml(waUrl) + '" target="_blank" rel="noopener">WhatsApp</a>',
+          '</div>',
+          json,
+        '</div>',
+      '</div>'
+    ].join('');
+  }
+
+  document.addEventListener('DOMContentLoaded', function(){
+    var dataEl = document.getElementById('liv-fan-catalog');
+    var grid = document.getElementById('tvGrid');
+    var countEl = document.getElementById('resultsCount');
+
+    if (!dataEl || !grid) return;
+
+    var items = [];
+    try { items = JSON.parse(dataEl.textContent || '[]'); } catch(e) { items = []; }
+
+    items = (items || []).map(function(it){
+      it = it || {};
+      it._name = safeText(it.model_name || '').toLowerCase();
+      it._model = safeText(it.model_number || '').toLowerCase();
+      it._featured = !!it.featured;
+      it._sizes = Array.isArray(it.sizes) ? it.sizes.map(function(x){ return Number(x); }).filter(function(x){ return !!x; }) : [];
+      it._sizeMax = it._sizes.length ? Math.max.apply(null, it._sizes) : 0;
+      return it;
+    });
+
+    var fSearch = document.getElementById('f_search');
+    var fSize = document.getElementById('f_size');
+    var fRating = document.getElementById('f_rating');
+    var fRemote = document.getElementById('f_remote');
+    var fSort = document.getElementById('f_sort');
+    var fReset = document.getElementById('f_reset');
+
+    // Populate dropdowns from data
+    var allSizes = [];
+    items.forEach(function(x){
+      (x._sizes || []).forEach(function(s){ allSizes.push(s); });
+    });
+    var sizes = uniqSorted(allSizes.map(function(x){ return String(x); }), true);
+    var ratings = uniqSorted(items.map(function(x){ return x.rating; }));
+
+    if (fSize){
+      sizes.forEach(function(s){
+        var opt = document.createElement('option');
+        opt.value = String(s);
+        opt.textContent = String(s) + ' inch';
+        fSize.appendChild(opt);
+      });
+    }
+    if (fRating){
+      ratings.forEach(function(r){
+        var opt = document.createElement('option');
+        opt.value = r;
+        opt.textContent = r;
+        fRating.appendChild(opt);
+      });
+    }
+
+    function applyFilters(){
+      var q = fSearch ? safeText(fSearch.value).trim().toLowerCase() : '';
+      var size = fSize ? safeText(fSize.value).trim() : '';
+      var rating = fRating ? safeText(fRating.value).trim() : '';
+      var remote = fRemote ? safeText(fRemote.value).trim() : '';
+      var sort = fSort ? safeText(fSort.value) : 'featured';
+      if (!sort) sort = 'featured';
+
+      var filtered = items.filter(function(it){
+        if (q){
+          var hay = (safeText(it.model_name) + ' ' + safeText(it.model_number) + ' ' + safeText(it.rating) + ' ' + safeText((it.pills || []).join(' '))).toLowerCase();
+          if (hay.indexOf(q) === -1) return false;
+        }
+        if (size){
+          var sNum = Number(size);
+          if (!it._sizes || it._sizes.indexOf(sNum) === -1) return false;
+        }
+        if (rating && safeText(it.rating) !== rating) return false;
+        if (remote === 'yes' && it.remote !== true) return false;
+        if (remote === 'no' && it.remote === true) return false;
+        return true;
+      });
+
+      filtered.sort(function(a,b){
+        if (sort === 'featured'){
+          if (a._featured !== b._featured) return (a._featured ? -1 : 1);
+          if (a._sizeMax !== b._sizeMax) return a._sizeMax - b._sizeMax;
+          return safeText(a.model_name).localeCompare(safeText(b.model_name));
+        }
+        if (sort === 'size_asc') return (a._sizeMax || 0) - (b._sizeMax || 0);
+        if (sort === 'size_desc') return (b._sizeMax || 0) - (a._sizeMax || 0);
+        if (sort === 'name_asc') return safeText(a.model_name).localeCompare(safeText(b.model_name));
+        return 0;
+      });
+
+      if (!filtered.length){
+        grid.innerHTML = '<div style="grid-column:1/-1; background:#fff; border:1px solid #eee; border-radius:12px; padding:16px; color:rgba(80,80,80,1);">No BLDC fans match your filters. Try clearing filters.</div>';
+      } else {
+        grid.innerHTML = filtered.map(renderCard).join('');
+      }
+
+      if (countEl){
+        countEl.textContent = filtered.length + ' BLDC fan model(s) found';
+      }
+    }
+
+    function resetFilters(){
+      if (fSearch) fSearch.value = '';
+      if (fSize) fSize.value = '';
+      if (fRating) fRating.value = '';
+      if (fRemote) fRemote.value = '';
+      if (fSort) fSort.value = 'featured';
+      applyFilters();
+    }
+
+    ['input','change'].forEach(function(evt){
+      if (fSearch) fSearch.addEventListener(evt, applyFilters);
+      if (fSize) fSize.addEventListener(evt, applyFilters);
+      if (fRating) fRating.addEventListener(evt, applyFilters);
+      if (fRemote) fRemote.addEventListener(evt, applyFilters);
+      if (fSort) fSort.addEventListener(evt, applyFilters);
+    });
+
+    if (fReset) fReset.addEventListener('click', resetFilters);
+
+    applyFilters();
+  });
+})();
+</script>
+
+<script>
+/* kept: your existing slick initializers and other page scripts */
+$(document).ready(function(){
+    $('.srvices-slider').slick({
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        arrows: true,
+        dots: false,
+        speed: 300,
+        autoplaySpeed: 3000,
+        centerPadding: '20px' ,
+        autoplay: true,
+        prevArrow: '<button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button"><i class="fa-solid fa-arrow-left"></i></button>',
+        nextArrow: '<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button"><i class="fa-solid fa-arrow-right"></i></button>',
+        responsive: [
+            { breakpoint: 991, settings: { slidesToShow: 2, centerPadding: '0px' } },
+            { breakpoint: 767, settings: { slidesToShow: 1, arrows: false, centerPadding: '0px' } }
+        ]
+    });
+});
+</script>
+
+<script>
+// section scroll
+$('.navbar a[href^="#"]').click(function (e) {
+    e.preventDefault();
+    $('html, body').animate({
+        scrollTop: $($(this).attr('href')).offset().top - 100
+    }, 500);
+});
+</script>
+
+</body>
+<!-- Mirrored from livpower.in/smart-air-smarter-savings-efficient-silent-and-long-lasting/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 14 Jan 2026 20:11:37 GMT -->
+</html>
+
+<!-- Page cached by LiteSpeed Cache 7.6.2 on 2026-01-14 20:10:41 -->
+
+
+the page that needs to be updated :
+C:\My Web Sites\LivPower\livpower.in\power-that-protects-reliable-efficient-and-always-stable\index.html
+<!DOCTYPE html>
+<html lang="en-US" itemscope itemtype="https://schema.org/Article">
+
+<!-- Mirrored from livpower.in/power-that-protects-reliable-efficient-and-always-stable/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 14 Jan 2026 20:10:44 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<title>Power That Protects – Reliable, Efficient, and Always Stable | Liv Power</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="Liv Power &raquo; Feed" href="../feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Liv Power &raquo; Comments Feed" href="../comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Liv Power &raquo; Power That Protects – Reliable, Efficient, and Always Stable Comments Feed" href="feed/index.html" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/livpower.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.7"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+
+<link rel='stylesheet' id='sbi_styles-css' href='../wp-content/plugins/instagram-feed/css/sbi-styles.min4d80.css?ver=6.9.1' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='../wp-includes/css/dist/block-library/style.minb134.css?ver=6.5.7' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(body .is-layout-flow)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-flow)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-flow)  > *{margin-block-start: 24px;margin-block-end: 0;}:where(body .is-layout-constrained)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-constrained)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-constrained)  > *{margin-block-start: 24px;margin-block-end: 0;}:where(body .is-layout-flex) {gap: 24px;}:where(body .is-layout-grid) {gap: 24px;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='../wp-content/plugins/contact-form-7/includes/css/styles658f.css?ver=6.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='hostinger-reach-subscription-block-css' href='../wp-content/plugins/hostinger-reach/frontend/dist/blocks/subscription79a5.css?ver=1764189803' type='text/css' media='all' />
+<link rel='stylesheet' id='blankslate-style-css' href='../wp-content/themes/blankslate/styleb134.css?ver=6.5.7' type='text/css' media='all' />
+<script type="text/javascript" src="../wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="../wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/posts/399.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+<meta name="generator" content="WordPress 6.5.7" />
+<link rel="canonical" href="index.html" />
+<link rel='shortlink' href='../index0945.html?p=399' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed6bb5.json?url=https%3A%2F%2Flivpower.in%2Fpower-that-protects-reliable-efficient-and-always-stable%2F" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed956b?url=https%3A%2F%2Flivpower.in%2Fpower-that-protects-reliable-efficient-and-always-stable%2F&amp;format=xml" />
+<link rel="pingback" href="../xmlrpc.php">
+		<style type="text/css" id="wp-custom-css">
+			.home-banner img {
+  width: 100% !important;
+  max-height: 500px;
+  object-fit: cover;
+}		</style>
+		<link rel="stylesheet" href="../wp-content/themes/blankslate/assets/css/bootstrap.min9940.css?v=566">
+<link rel="stylesheet" href="../wp-content/themes/blankslate/assets/css/main3478.css?v=588a">
+<link rel="stylesheet" href="../wp-content/themes/blankslate/assets/css/style1be3.css?v=qqa68">
+<link rel="stylesheet" href="../wp-content/themes/blankslate/assets/css/slick-1.8.1/slick/slick.css">
+
+<!-- AOS CSS -->
+<link href="../../cdn.jsdelivr.net/npm/aos%402.3.4/dist/aos.css" rel="stylesheet">
+
+<link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+<link href="../../cdn.jsdelivr.net/npm/boxicons%402.1.2/css/boxicons.min.css" rel="stylesheet">
+
+
+<!-- Google font -->
+<link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
+
+
+<!-- Google font Second -->
+
+</head>
+<style>
+    .item-brands img{
+        max-height: 150px !important;
+    }
+    .brands {
+      padding-bottom: 10px !important;
+    }
+    .hero-video{
+        position: inherit !important;
+    }
+    .hero-video video{
+        width: 100%;
+    }
+.item-image{
+    margin-right: 10px;
+}
+.category-card{
+    text-decoration: none;
+}
+.shipping-item_detail:hover p {
+  color: #fff !important;
+}
+.shipping-item_detail:hover h3 {
+  color: #fff;
+}
+.shipping-item_detail:hover {
+  background: rgb(235, 105, 29);
+}
+.shipping-item_detail:hover img {
+  filter: brightness(0) invert(1);
+  transition: 0.3s ease;
+}
+/*============*/
+
+
+    .home-banner {
+  margin-top: 36px;
+}
+
+    .product-card .price{
+        display: none;
+    }
+    
+   
+    .item-slide-choose p{
+        min-height: 108px;
+        font-size: 16px !important;
+    }
+    .item-slide-choose{
+        padding: 20px !important;
+    }
+    .item-slide-choose h3{
+          
+          font-weight: 500 !important;
+          
+        }
+  .img-choos-icon img{
+    height: 112px;
+  }
+    .alert-upload span {
+  font-size: 12px;
+  font-weight: 300;
+  margin-left: 5px;
+  letter-spacing: 0.5px;
+}
+    .float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px !important;
+  right: 40px;
+  background-color: #25d366;
+  color: #FFF;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+.all-product .product-img img {
+  max-height: 270px;
+  width: 100%;
+  object-fit: cover;
+}
+
+@media (max-width:900px){
+    .coming-soon-content h2 {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+}
+     .leadership-info h3 {
+  font-size: 14px;
+}
+.leadership-info p {
+  font-size: 8px;
+  text-shadow: 1px 1px 2px #000;
+}
+    .leadership-info{
+        opacity: 1;
+    }
+
+    .text-section-info p{
+        font-size: 16PX !important;
+        text-align: justify !important;
+    }
+.item-slide-choose p{
+height: inherit !important;
+}
+
+      .form-title h2 {
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 0px;
+}
+ .form-submit.text-center p span {
+    position: absolute;
+    bottom: 9px;
+    left: 77%;
+  }
+    #menu-menu-1 {
+        position: fixed;
+        left: -200%;
+        transition: .3s all ease;
+        width: 80%;
+        background-color: #000;
+        top: 0;
+         border-radius: 0 !important;
+         height: 100%;
+
+    }
+    .close-menu{
+        display: block;
+    }
+    #menu-menu-1.active-filter{
+        position: fixed;
+        left: 0%;
+        transition: .3s all ease;
+        border-radius: 20px 20px  0 0;
+    }
+    .menu-toggle i {
+  color: #fff;
+  font-size: 20px;
+}
+
+.menu li a{
+    color: #fff !important;
+}
+.inner-menu{
+    padding: 8px 0px;
+}
+.home-modal h2 {
+  font-size: 50px !important;
+  font-weight: 400;
+  line-height: 35px !important;
+}
+.home-modal h3 {
+  font-size: 30px !important;
+}
+
+
+}
+
+.site-logo img {
+    transition: opacity 0.5s ease-in-out;
+}
+
+.site-logo img[src*="scrolled-logo"] {
+    opacity: 0;
+}
+
+.site-logo img[src*="default-logo"] {
+    opacity: 1;
+}
+.site-logo img {
+ height: 70px;
+  width: 80%;
+  object-fit: contain;
+}
+.footer-container{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer-contact ul{
+    margin-bottom: 0px;
+}
+.footer-links{
+    align-items: center !important;
+}
+
+
+
+ .site-logo-scroll img {
+ height: 70px;
+  width: 80%;
+  object-fit: contain;
+}
+
+.find-job a {
+  padding: 8px 10px;
+  border: solid 1px #fff;
+  border-radius: 4px;
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  text-align: center;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: -2%;
+  background: rgba(240, 90, 40, 1);
+  display: inline-block;
+  margin-left: 10px;
+}
+
+header{
+    z-index: 999999999999999999;
+}
+</style>
+<body class="post-template-default single single-post postid-399 single-format-standard wp-embed-responsive">
+<a href="#content" class="skip-link screen-reader-text">Skip to the content</a><div id="wrapper" class="hfeed">
+<header>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="inner-menu">
+                    <div class="site-logo">
+                        <a href="../index.html">
+                        <img src="../wp-content/uploads/2025/10/cropped-Liv-power-Logo.png" alt="Default Logo" />                    </a>
+                    </div>
+
+                    <div class="site-logo-scroll" style="display:none;">
+                        <a href="../index.html">
+                            <img src="../wp-content/uploads/2025/10/cropped-Liv-power-Logo.png" alt="Scrolled Logo" />                        </a>
+                    </div>
+
+                    <nav class="navbar">
+                        <div class="menu-menu-1-container"><ul id="menu-menu-1" class="menu"><li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-45"><a href="../index.html" itemprop="url">Home</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="../about-us/index.html" itemprop="url">About us</a></li>
+<li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-366"><a href="../categories/index.html" itemprop="url">Categories</a></li>
+<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="../contact-us/index.html" itemprop="url">Contact us</a></li>
+</ul></div>                        
+                    </nav>
+                    <div class="find-job">
+                      
+                      <a href="../contact-us/index.html">  Bulk Enquiries</a>
+                    </div>
+                    <!-- <img src="< ?php echo get_stylesheet_directory_uri(); ?>/assets/img/liv-power/stash_question.svg" alt="" class="img-fluid">  -->
+                    
+                    <div class="menu-toggle  mobile-togle">
+                           <i class="fa-solid fa-bars"></i>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+
+
+
+
+
+
+
+   <script>
+  
+   </script>
+
+<style>
+    .home-banner{
+        height: inherit;
+    }
+</style>
+
+<!-- Banner Section -->
+<section class="home-banner" data-aos="fade-up" data-aos-duration="1200">
+  <div class="banner-wrapper" style="position:relative;">
+          <img src="../wp-content/uploads/2025/10/eb752bc7849cccbe020b5589d6e703a5138dcda2-1.png" alt="Banner" class="img-fluid" data-aos="fade-up" data-aos-delay="200">
+    
+    <!-- Black overlay -->
+    <div class="overlay" style="position:absolute; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.5);" data-aos="fade-up" data-aos-delay="300"></div>
+
+    <div class="container content" style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); color:#fff;">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="banner-title">
+            <h2>Stabilizers</h2>
+            <p>Explore the variety of our products</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<!-- Single Post Content -->
+
+<section class="bringing" data-aos="fade-up" data-aos-duration="1000">
+  <div class="container">
+    <div class="row align-items-center">
+      
+      <!-- Left Content -->
+      <div class="col-md-6">
+        <div class="main-bringing" data-aos="fade-up" data-aos-delay="200">
+          <h2>Power That Protects – Reliable, Efficient, and Always Stable</h2>
+          <p><p>Ensure your appliances stay safe from voltage fluctuations with our reliable range of stabilizers. Built for precision and long-lasting performance, they deliver steady power to your devices, protecting them from damage and enhancing their lifespan — day after day.</p>
+</p>
+          <div class="btn-bringig" data-aos="fade-up" data-aos-delay="400">
+            <!-- <a href="#" class="shop_btn">Shop Now</a> -->
+            <a href="../contact-us/index.html" class="contact-btn">Contact Us</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right Boxes -->
+      <div class="col-md-6">
+        <div class="row">
+          <div class="col-md-6 mb-3" data-aos="fade-up" data-aos-delay="200">
+            <div class="shipping-item_detail">
+              <img src="../wp-content/themes/blankslate/assets/img/liv-power/delivery-truck.svg" alt="">
+              <h3>Free Shipping</h3>
+              <p>No delivery fees hidden - your products will be safely delivered and in good time.</p>
+            </div>
+          </div>
+          <div class="col-md-6 mb-3" data-aos="fade-up" data-aos-delay="300">
+            <div class="shipping-item_detail">
+              <img src="../wp-content/themes/blankslate/assets/img/liv-power/headphones.svg" alt="">
+              <h3>Trusted Quality</h3>
+              <p>Constructed with stability, all products are experimented and have a good warranty.</p>
+            </div>
+          </div>
+          <div class="col-md-6 mb-3" data-aos="fade-up" data-aos-delay="400">
+            <div class="shipping-item_detail">
+              <img src="../wp-content/themes/blankslate/assets/img/liv-power/shopping-bag.svg" alt="">
+              <h3>Top Choices</h3>
+              <p>Our products are of the best quality and standards offering the best consumer electronics solutions.</p>
+            </div>
+          </div>
+          <div class="col-md-6 mb-3" data-aos="fade-up" data-aos-delay="500">
+            <div class="shipping-item_detail">
+              <img src="../wp-content/themes/blankslate/assets/img/liv-power/pack.png" alt="">
+              <h3>Big Savings</h3>
+              <p>Energy-efficient, affordable and offer protection to your home with quality consumer electronic products.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ================================================== -->
+<section class="all-product">
+  <div class="container">
+    
+
+    <div class="row"> 
+      <div class="col-md-12">
+        <div class="button-bottom text-center mt-4">
+          <a href="../wp-content/themes/blankslate/assets/img/liv-power/liv.zip" class="page-link" download>Download Catalogue</a>
+          <a href="../contact-us/index.html" class="page-link">Enquire for Bulk Order</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<style>
+  .contact-btn{
+    margin-left: 0px !important;
+  }
+  .all-product{
+    padding: 40px 0px;
+  }
+  .all-product-title h3{
+       font-size: 22px;
+       font-weight: 500;
+       color: rgba(30, 30, 30, 1);
+       margin-bottom: 15px;
+  }
+.product-card {
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    padding: 20px;
+    position: relative;
+    transition: transform 0.3s;
+}
+.product-card:hover {
+    transform: translateY(-5px);
+}
+.product-img {
+    position: relative;
+}
+.discount-badge {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    background: #ff6b00;
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 3px 6px;
+    border-radius: 4px;
+}
+.product-info h5 {
+    font-size: 18px;
+    font-weight: 500;
+   
+    text-align: left;
+    color: rgba(30, 30, 30, 1) !important;
+}
+.product-card .price {
+  display: flex;
+  justify-content: start;
+  width: 100%;
+  margin-top: 20px;
+}
+.price {
+    font-size: 14px;
+    margin: 0;
+}
+.current-price {
+    color: #ff6b00;
+    font-weight: 700;
+    font-size: 18px !important;
+}
+.old-price {
+    text-decoration: line-through;
+    margin-left: 8px;
+    margin-left: 8px;
+  font-size: 18px;
+  color: rgb(146, 146, 146);
+  font-weight: 300;
+}
+
+.button-bottom a {
+  padding: 10px 20px;
+  margin: 0px 5px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 8px;
+  text-decoration: navajowhite;
+  border: solid 1px rgba(235, 105, 29, 1);
+  transition: all ease 0.4s;
+}
+
+.button-bottom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px 0px 20px 0px;
+}
+.download {
+  color: #fff;
+  background: rgb(235, 105, 29);
+}
+.page-link {
+  color: rgb(235, 105, 29);
+}
+.download:hover{
+  background: #fff;
+  color: rgba(235, 105, 29, 1);
+}
+.page-link:hover{
+  color: #fff;
+  background: rgb(235, 105, 29);
+}
+
+@media(max-width: 767px){
+  .button-bottom a{
+    display: block;
+  margin: 10px 0px;
+  text-align: center;
+  }
+  .button-bottom {
+  display: block;
+}
+}
+</style>
+
+</section>
+
+
+
+
+
+
+
+
+</div>
+<style>
+    .site-logo{
+        padding: 0px;
+    }
+</style>
+
+<footer id="footer" class="footer" role="contentinfo" data-aos="">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12" data-aos="" data-aos-delay="100">
+               <div class="footer-links">
+                    <div class="site-logo">
+                         <a href="../index.html">
+                      <img src="../wp-content/uploads/2025/10/cropped-Liv-power-Logo.png" alt="Scrolled Logo" />                    </a>
+                    </div>
+                    <div class="footer-contact">
+                     <div class="footer-icon">
+                        <ul>
+                            <!-- <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li> -->
+                            <li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
+                            <li><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
+                            <!-- <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li> -->
+                        </ul>
+                        </div>
+                    </div>
+                </div>         
+            </div>
+
+            <div class="col-md-12" data-aos="" data-aos-delay="200">
+                  <div class="footer-page-link">
+                            <!-- <p>Catalog</p> -->
+                            <ul>
+                                <li><a href="../index.html">Home <span>|</span></a></li>
+                                <li><a href="../about-us/index.html">About <span>|</span></a></li>
+                                <li><a href="../categories/index.html">Categories <span>|</span></a></li>
+                                <li><a href="../blogs/index.html">Blog <span>|</span></a></li>
+                                <li><a href="../contact-us/index.html">Contact</a></li>
+                            </ul>
+                            <p>Empowering homes and businesses with reliable, innovative electronic solutions designed
+for comfort and performance </p>
+                        </div>
+            </div>
+
+            <div class="col-md-3 d-none" data-aos="" data-aos-delay="300">
+                <div class="footer-contact">
+                    <h3>Contact us </h3>
+                    <ul>
+                        <li><a href="tel:9999-5555-65"> +91 000000000</a></li>
+                        <li><a href="mailto:demo@gmail.com"> demo@gmail.com</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div id="copyright" data-aos="" data-aos-delay="400">
+© 2025 Livpower | Developed by Digisparx Digital Solutions
+</div>
+
+<a href="https://wa.me/919355390355" class="float" target="_blank">
+    <i class="fa-brands fa-whatsapp"></i>
+</a>
+</footer>
+</div>
+
+
+<script src="../wp-content/themes/blankslate/assets/js/jquery.min.js"></script>
+<script  src="../wp-content/themes/blankslate/assets/js/bootstrap.bundle.min.js"></script>
+<script src="../wp-content/themes/blankslate/assets/css/slick-1.8.1/slick/slick.min.js"></script>
+<script src="../wp-content/themes/blankslate/assets/js/main.js"></script>
+<!-- AOS JS -->
+<script src="../../cdn.jsdelivr.net/npm/aos%402.3.4/dist/aos.js"></script>
+<script>
+jQuery(document).ready(function($) {
+var deviceAgent = navigator.userAgent.toLowerCase();
+if (deviceAgent.match(/(iphone|ipod|ipad)/)) {
+$("html").addClass("ios");
+$("html").addClass("mobile");
+}
+if (deviceAgent.match(/(Android)/)) {
+$("html").addClass("android");
+$("html").addClass("mobile");
+}
+if (navigator.userAgent.search("MSIE") >= 0) {
+$("html").addClass("ie");
+}
+else if (navigator.userAgent.search("Chrome") >= 0) {
+$("html").addClass("chrome");
+}
+else if (navigator.userAgent.search("Firefox") >= 0) {
+$("html").addClass("firefox");
+}
+else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) {
+$("html").addClass("safari");
+}
+else if (navigator.userAgent.search("Opera") >= 0) {
+$("html").addClass("opera");
+}
+});
+</script>
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "../wp-admin/admin-ajax.html";
+</script>
+<script type="text/javascript" src="../wp-includes/js/dist/vendor/wp-polyfill-inert.min0226.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="../wp-includes/js/dist/vendor/regenerator-runtime.min6c85.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="../wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="../wp-includes/js/dist/hooks.min2757.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script type="text/javascript" src="../wp-includes/js/dist/i18n.minc33c.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="../wp-content/plugins/contact-form-7/includes/swv/js/index658f.js?ver=6.1.2" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/livpower.in\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../wp-content/plugins/contact-form-7/includes/js/index658f.js?ver=6.1.2" id="contact-form-7-js"></script>
+<script type="text/javascript" id="hostinger-reach-subscription-block-view-js-extra">
+/* <![CDATA[ */
+var hostinger_reach_subscription_block_data = {"endpoint":"https:\/\/livpower.in\/wp-json\/hostinger-reach\/v1\/contact","nonce":"591687d6cd","translations":{"thanks":"Thanks for subscribing.","error":"Something went wrong. Please try again."}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../wp-content/plugins/hostinger-reach/frontend/dist/blocks/subscription-view79a5.js?ver=1764189803" id="hostinger-reach-subscription-block-view-js"></script>
+<script>
+
+
+
+$('.mobile-togle').click(function(){
+    $('#menu-menu-1').append('<button class="close-menu"><i class="fa-solid fa-xmark"></i></button>');
+    $('#menu-menu-1').toggleClass('active-filter');
+});
+
+// Use event delegation for dynamically added elements
+$(document).on('click', '.close-menu', function(){
+    $('#menu-menu-1').toggleClass('active-filter');
+});
+
+
+
+
+
+</script>
+
+
+<script>
+   
+ $(document).ready(function(){
+    $('.srvices-slider').slick({
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        arrows: true,
+        dots: false,
+        speed: 300,
+        autoplaySpeed: 3000,
+        
+        centerPadding: '20px' ,
+        autoplay: true,
+        prevArrow: '<button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button"><i class="fa-solid fa-arrow-left"></i></button>',
+        nextArrow: '<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button"><i class="fa-solid fa-arrow-right"></i></button>',
+        responsive: [
+            {
+                breakpoint: 991,
+                settings: {
+                    slidesToShow: 2,
+                    centerPadding: '0px'  // Adjust padding to fit the slide properly
+                }
+            },
+            {
+                breakpoint: 767,
+                settings: {
+                    slidesToShow: 1,
+                    arrows: false,
+                    
+                    centerPadding: '0px'  // Adjust padding to fit the slide properly
+                }
+            }
+        ]
+    });
+});
+
+	$(document).ready(function(){
+    $('.clients-slide').slick({
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        arrows: true,
+        dots: false,
+        speed: 300,
+        autoplaySpeed: 3000,
+        
+        centerPadding: '10px' ,
+        autoplay: true,
+        prevArrow: '<button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button"><i class="fa-solid fa-arrow-left"></i></button>',
+        nextArrow: '<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button"><i class="fa-solid fa-arrow-right"></i></button>',
+        responsive: [
+            {
+                breakpoint: 991,
+                settings: {
+                    slidesToShow: 1,
+                    centerPadding: '0px'  // Adjust padding to fit the slide properly
+                }
+            },
+            {
+                breakpoint: 767,
+                settings: {
+                    arrows: false,
+                    slidesToShow: 1,
+                    centerPadding: '0px'  // Adjust padding to fit the slide properly
+                }
+            }
+        ]
+    });
+});
+$(document).ready(function(){
+    $('.slide-story').slick({
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        arrows: false,
+        dots: true,
+        speed: 300,
+        autoplaySpeed: 3000,
+        
+        // centerPadding: '20px' ,
+        autoplay: true,
+        // prevArrow: '<button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button"><i class="fa-solid fa-arrow-left"></i></button>',
+        // nextArrow: '<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button"><i class="fa-solid fa-arrow-right"></i></button>',
+        responsive: [
+            {
+                breakpoint: 991,
+                settings: {
+                    slidesToShow: 1,
+                    centerPadding: '0px'  // Adjust padding to fit the slide properly
+                }
+            },
+            {
+                breakpoint: 767,
+                settings: {
+                    slidesToShow: 1,
+                    centerPadding: '0px'  // Adjust padding to fit the slide properly
+                }
+            }
+        ]
+    });
+});
+$(document).ready(function(){
+    $('.choos-slide').slick({
+        slidesToShow: 3,
+    slidesToScroll: 1,
+    arrows: true,
+    dots: true,
+    speed: 300,
+    infinite: true, // <-- this is the correct option
+    autoplay: true,
+    autoplaySpeed: 3000,
+        // centerPadding: '20px' ,
+        autoplay: true,
+        prevArrow: '<button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button"><i class="fa-solid fa-arrow-left"></i></button>',
+        nextArrow: '<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button"><i class="fa-solid fa-arrow-right"></i></button>',
+        responsive: [
+            {
+                breakpoint: 991,
+                settings: {
+                    slidesToShow: 1,
+                    centerPadding: '0px'  // Adjust padding to fit the slide properly
+                }
+            },
+            {
+                breakpoint: 767,
+                settings: {
+                    slidesToShow: 1,
+                    centerPadding: '0px'  // Adjust padding to fit the slide properly
+                }
+            }
+        ]
+    });
+});
+$(document).ready(function(){
+    $('.gallery-slider').slick({
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        arrows: true,
+        dots: true,
+        speed: 300,
+        autoplaySpeed: 3000,
+        
+        // centerPadding: '20px' ,
+        autoplay: true,
+        prevArrow: '<button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button"><i class="fa-solid fa-arrow-left"></i></button>',
+        nextArrow: '<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button"><i class="fa-solid fa-arrow-right"></i></button>',
+        responsive: [
+            {
+                breakpoint: 991,
+                settings: {
+                    slidesToShow: 1,
+                    centerPadding: '0px'  // Adjust padding to fit the slide properly
+                }
+            },
+            {
+                breakpoint: 767,
+                settings: {
+                    slidesToShow: 1,
+                    centerPadding: '0px'  // Adjust padding to fit the slide properly
+                }
+            }
+        ]
+    });
+});
+
+$(document).ready(function(){
+    $('.blog-slider').slick({
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        arrows: true,
+        dots: true,
+        speed: 300,
+        autoplaySpeed: 3000,
+        
+        // centerPadding: '20px' ,
+        autoplay: true,
+        prevArrow: '<button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button"><i class="fa-solid fa-arrow-left"></i></button>',
+        nextArrow: '<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button"><i class="fa-solid fa-arrow-right"></i></button>',
+        responsive: [
+            {
+                breakpoint: 991,
+                settings: {
+                    slidesToShow: 1,
+                    centerPadding: '0px'  // Adjust padding to fit the slide properly
+                }
+            },
+            {
+                breakpoint: 767,
+                settings: {
+                    slidesToShow: 1,
+                    centerPadding: '0px'  // Adjust padding to fit the slide properly
+                }
+            }
+        ]
+    });
+});
+
+
+
+</script>
+
+<script>
+// section scroll
+
+$('.navbar a[href^="#"]').click(function (e) {
+    e.preventDefault();
+    $('html, body').animate({
+        scrollTop: $($(this).attr('href')).offset().top - 100
+    }, 500);
+});
+
+</script>
+
+<script>
+  AOS.init({
+    duration: 1200,  // animation speed (ms)
+    once: true,      // sirf ek baar chale scroll par
+  });
+</script>
+
+
+<!-- ===================================================== -->
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const track = document.querySelector(".brands-track");
+  const clone = track.innerHTML;
+  track.innerHTML += clone; // 👈 logos को auto-clone करके infinite loop बनाएगा
+});
+</script>
+
+<script>
+     function initSlick() {
+    $('.product-slider').not('.slick-initialized').slick({
+      slidesToShow: 4,
+      slidesToScroll: 1,
+      dots: true,
+      arrows: true,
+      infinite: true,
+      prevArrow: '<button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button"><i class="fa-solid fa-arrow-left"></i></button>',
+        nextArrow: '<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button"><i class="fa-solid fa-arrow-right"></i></button>',
+      responsive: [
+        { breakpoint: 992, settings: { slidesToShow: 3 } },
+        { breakpoint: 768, settings: { slidesToShow: 2 } },
+        { breakpoint: 576, settings: { slidesToShow: 1 } }
+      ]
+    });
+  }
+
+  $(document).ready(function(){
+    initSlick();
+
+    $('a[data-bs-toggle="tab"]').on('shown.bs.tab', function () {
+      initSlick();
+    });
+  });
+
+</script>
+
+
+<script>
+jQuery(document).ready(function($){
+  $('.coming-soon-slider').slick({
+    dots: true,
+    infinite: true,
+    speed: 800,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: true,
+    autoplaySpeed: 1000,
+    arrows: false,
+    fade: true,
+    dots:false,
+    cssEase: 'linear'
+  });
+});
+</script>
+</body>
+
+<!-- Mirrored from livpower.in/power-that-protects-reliable-efficient-and-always-stable/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 14 Jan 2026 20:10:47 GMT -->
+</html>
+
+<!-- Page cached by LiteSpeed Cache 7.6.2 on 2026-01-14 20:10:21 -->
+
+
+product listing info:
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Amplifier-and-DJ-Mainline-Voltage-Stabilizers.json:
+{
+  "product_category": "Digital Voltage Stabilizer",
+  "product_line": "Amplifier / DJ Mainline Voltage Stabilizers",
+  "brand": "Livpower",
+  "stabilizer_type": "Automatic servo type (microprocessor controlled)",
+  "technology": {
+    "controller": "Latest microprocessor IC based control",
+    "platform": "ANESE technology (first time in India)"
+  },
+  "typical_applications": [
+    "DJ / PA systems",
+    "Sound system",
+    "LED screen",
+    "Treadmill",
+    "Medical equipment",
+    "CNC machines",
+    "Other special applications"
+  ],
+  "output_regulation": {
+    "target_output": "225V ± 5%",
+    "output_voltage_range": "200V - 250V (from input 100V)"
+  },
+  "display_and_controls": {
+    "display": "Digital display / digital meter",
+    "metering": [
+      "Ampere meter"
+    ]
+  },
+  "connectivity": {
+    "sockets": "Multiple sockets"
+  },
+  "delay": {
+    "type": "Instant",
+    "system_feature": "Intelligent time delay system"
+  },
+  "protection_features": [
+    "Spike protection",
+    "Surge protection",
+    "Overheat protection",
+    "Overload protection",
+    "High-low cut off protection",
+    "Short circuit protection",
+    "Enhanced T.O.P. protection"
+  ],
+  "positioning": [
+    "Safety",
+    "Security",
+    "Reliability"
+  ],
+  "certifications": [
+    "ISO (listed on catalog)"
+  ],
+  "warranty": {
+    "duration": 2,
+    "unit": "Years"
+  }
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Amplifier-and-DJ-Mainline-Voltage-Stabilizers.p
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Amplifier-and-DJ-Mainline-Voltage-Stabilizers.pngdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP0.5050-PRIME.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "product_name": "LIVPOWER Refrigerator Voltage Stabilizer L-LIVP0.5050 PRIME",
+  "brand": "LIVPOWER",
+  "type": "Voltage Stabilizer",
+  "used_for": "2 Amp, one refrigerator up to 300L",
+  "working_range": {
+    "min": 50,
+    "max": 270,
+    "unit": "VAC"
+  },
+  "model_id": "L-LIVP0.5050",
+  "build": {
+    "body": "Metal cabinet",
+    "mount_type": ["Wall mount", "Table top"],
+    "display_type": "Digital meter"
+  },
+  "compatibility": {
+    "generator_compatible": true
+  },
+  "capacity": {
+    "value": 0.5,
+    "unit": "kVA"
+  },
+  "performance_features": {
+    "spike_suppressor": true,
+    "tds": true,
+    "output_voltage_correction": true
+  },
+  "power_features": {
+    "trip_delay": true,
+    "accuracy_percent": 2.5,
+    "automatic_reset": true
+  },
+  "safety_features": {
+    "under_voltage_protection": true,
+    "over_voltage_protection": true,
+    "surge_protection": true
+  },
+  "dimensions": {
+    "inner_w_x_h_x_d_mm": [190, 100, 275],
+    "outer_w_x_h_x_d_mm": [260, 165, 335]
+  },
+  "weight": {
+    "value": 6.1,
+    "unit": "kg"
+  }
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP0.5050-PRIME.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP0.5050-PRIME.png
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP1050-PRIME.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "product_name": "LIVPOWER Refrigerator Voltage Stabilizer L-LIVP1050 PRIME",
+  "brand": "LIVPOWER",
+  "type": "Voltage Stabilizer",
+  "used_for": "Deep freezers / air cooler / 1000VA digital UPS / refrigerators (above 600L)",
+  "working_range": {
+    "min": 50,
+    "max": 280,
+    "unit": "VAC"
+  },
+  "model_id": "L-LIVP1050",
+  "build": {
+    "body": "Metal cabinet",
+    "mount_type": ["Wall mount", "Table top"],
+    "display_type": "Digital meter"
+  },
+  "compatibility": {
+    "generator_compatible": true
+  },
+  "capacity": {
+    "value": 1.0,
+    "unit": "KVA"
+  },
+  "performance_features": {
+    "spike_suppressor": true,
+    "tds": true,
+    "output_voltage_correction": true
+  },
+  "power_features": {
+    "trip_delay": true,
+    "accuracy_percent": 2.5,
+    "automatic_reset": true
+  },
+  "safety_features": {
+    "under_voltage_protection": true,
+    "over_voltage_protection": true,
+    "surge_protection": true
+  },
+  "dimensions": {
+    "inner_w_x_h_x_d_mm": [140, 245, 365],
+    "outer_w_x_h_x_d_mm": [210, 315, 425]
+  },
+  "weight": {
+    "value": 10.4,
+    "unit": "kg"
+  },
+  "additional_notes": [
+    "Electromagnetic Interference (EMI) filter to suppress electromagnetic noises in power lines",
+    "Surge and spike protector to help protect connected appliances from voltage spikes"
+  ]
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP1050-PRIME.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP1050-PRIME.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP2050-PRIME.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "product_name": "LIVPOWER Voltage Stabilizer L-LIVP2050 PRIME",
+  "brand": "LIVPOWER",
+  "type": "Voltage Stabilizer",
+  "used_for": "Multipurpose voltage stabilizer for home",
+  "working_range": {
+    "min": 50,
+    "max": 280,
+    "unit": "VAC"
+  },
+  "model_id": "L-LIVP2050",
+  "build": {
+    "body": "Metal cabinet",
+    "mount_type": ["Wall mount", "Table top"],
+    "display_type": "Digital meter"
+  },
+  "compatibility": {
+    "generator_compatible": true
+  },
+  "capacity": {
+    "value": 2.0,
+    "unit": "KVA"
+  },
+  "performance_features": {
+    "spike_suppressor": true,
+    "tds": true,
+    "output_voltage_correction": true
+  },
+  "power_features": {
+    "trip_delay": true,
+    "accuracy_percent": 2.5,
+    "automatic_reset": true
+  },
+  "safety_features": {
+    "under_voltage_protection": true,
+    "over_voltage_protection": true,
+    "surge_protection": true
+  },
+  "dimensions": {
+    "inner_w_x_h_x_d_mm": [245, 140, 365],
+    "outer_w_x_h_x_d_mm": [315, 210, 425]
+  },
+  "weight": {
+    "value": 13.5,
+    "unit": "kg"
+  },
+  "additional_notes": [
+    "Electromagnetic Interference (EMI) filter to suppress electromagnetic noises in power lines",
+    "Surge and spike protector to help protect connected appliances from voltage spikes"
+  ]
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP2050-PRIME.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP2050-PRIME.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP3050ML-PRIME.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "product_name": "LIVPOWER Voltage Stabilizer L-LIVP3050ML PRIME",
+  "brand": "LIVPOWER",
+  "type": "Voltage Stabilizer",
+  "used_for": "Multipurpose voltage stabilizer for home & e-ricksaw battery charging",
+  "working_range": {
+    "min": 50,
+    "max": 280,
+    "unit": "VAC"
+  },
+  "model_id": "L-LIVP3050 ML",
+  "build": {
+    "body": "Metal cabinet",
+    "mount_type": ["Wall mount", "Table top"],
+    "display_type": "Digital meter"
+  },
+  "compatibility": {
+    "generator_compatible": true
+  },
+  "capacity": {
+    "value": 3.0,
+    "unit": "KVA"
+  },
+  "performance_features": {
+    "spike_suppressor": true,
+    "tds": true,
+    "output_voltage_correction": true
+  },
+  "power_features": {
+    "trip_delay": true,
+    "accuracy_percent": 2.5,
+    "automatic_reset": true
+  },
+  "safety_features": {
+    "under_voltage_protection": true,
+    "over_voltage_protection": true,
+    "surge_protection": true
+  },
+  "dimensions": {
+    "inner_w_x_h_x_d_mm": [310, 160, 355],
+    "outer_w_x_h_x_d_mm": [395, 235, 435]
+  },
+  "weight": {
+    "value": 19.6,
+    "unit": "kg"
+  },
+  "additional_notes": [
+    "Electromagnetic Interference (EMI) filter to suppress electromagnetic noises in power lines",
+    "Surge and spike protector to help protect connected appliances from voltage spikes"
+  ]
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP3050ML-PRIME.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP3050ML-PRIME.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP4070-PRIME.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "product_name": "LIVPOWER Voltage Stabilizer L-LIVP4070 PRIME",
+  "brand": "LIVPOWER",
+  "type": "Voltage Stabilizer",
+  "used_for": "Inverter AC up to 1.5 ton",
+  "working_range": {
+    "min": 70,
+    "max": 280,
+    "unit": "VAC"
+  },
+  "model_id": "L-LIVP4070 PRIME",
+  "build": {
+    "body": "Metal cabinet",
+    "mount_type": ["Wall mount", "Table top"],
+    "display_type": "Digital meter"
+  },
+  "compatibility": {
+    "generator_compatible": true
+  },
+  "capacity": {
+    "value": 4.0,
+    "unit": "KVA"
+  },
+  "performance_features": {
+    "spike_suppressor": true,
+    "tds": true,
+    "output_voltage_correction": true
+  },
+  "power_features": {
+    "trip_delay": true,
+    "accuracy_percent": 2.5,
+    "automatic_reset": true
+  },
+  "safety_features": {
+    "under_voltage_protection": true,
+    "over_voltage_protection": true,
+    "surge_protection": true
+  },
+  "dimensions": {
+    "inner_w_x_h_x_d_mm": [245, 140, 365],
+    "outer_w_x_h_x_d_mm": [315, 210, 425]
+  },
+  "weight": {
+    "value": 15.8,
+    "unit": "kg"
+  },
+  "additional_notes": [
+    "Electromagnetic Interference (EMI) filter to suppress electromagnetic noises in power lines",
+    "Surge and spike protector to help protect inverter air conditioner from voltage spikes"
+  ]
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP4070-PRIME.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP4070-PRIME.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP4090-PRIME.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "product_name": "LIVPOWER Voltage Stabilizer L-LIVP4090 PRIME",
+  "brand": "LIVPOWER",
+  "type": "Voltage Stabilizer",
+  "used_for": "Inverter AC up to 1.5 ton",
+  "working_range": {
+    "min": 90,
+    "max": 290,
+    "unit": "VAC"
+  },
+  "model_id": "L-LIVP4090 PRIME",
+  "build": {
+    "body": "Metal cabinet",
+    "mount_type": ["Wall mount", "Table top"],
+    "display_type": "Digital meter"
+  },
+  "compatibility": {
+    "generator_compatible": true
+  },
+  "capacity": {
+    "value": 4.0,
+    "unit": "KVA"
+  },
+  "performance_features": {
+    "spike_suppressor": true,
+    "tds": true,
+    "output_voltage_correction": true
+  },
+  "power_features": {
+    "trip_delay": true,
+    "accuracy_percent": 2.5,
+    "automatic_reset": true
+  },
+  "safety_features": {
+    "under_voltage_protection": true,
+    "over_voltage_protection": true,
+    "surge_protection": true
+  },
+  "dimensions": {
+    "inner_w_x_h_x_d_mm": [245, 140, 365],
+    "outer_w_x_h_x_d_mm": [315, 210, 425]
+  },
+  "weight": {
+    "value": 13.2,
+    "unit": "kg"
+  },
+  "additional_notes": [
+    "Electromagnetic Interference (EMI) filter to suppress electromagnetic noises in power lines",
+    "Surge and spike protector to help protect inverter air conditioner from voltage spikes"
+  ]
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP4090-PRIME.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP4090-PRIME.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP5590-PRIME.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "product_name": "LIVPOWER Inverter AC Voltage Stabilizer L-LIVP5590 PRIME",
+  "brand": "LIVPOWER",
+  "type": "Voltage Stabilizer",
+  "category": "Inverter AC up to 2.0 ton",
+  "used_for": "Inverter AC up to 2.0 ton",
+  "working_range": {
+    "min": 90,
+    "max": 290,
+    "unit": "VAC"
+  },
+  "phase": "1, with surge protection",
+  "color": "Gray White",
+  "model_id": "L-LIVP5590 PRIME",
+  "build": {
+    "body": "Metal cabinet",
+    "mount_type": ["Wall mount"],
+    "display_type": "Digital meter"
+  },
+  "compatibility": {
+    "generator_compatible": true
+  },
+  "performance_features": {
+    "spike_suppressor": true,
+    "tds": true,
+    "output_voltage_correction": true
+  },
+  "power_features": {
+    "trip_delay": true,
+    "maximum_power_w": 2300,
+    "nominal_input_voltage_vac": 100,
+    "accuracy_percent": 2.5,
+    "power_rating_va": 2800,
+    "automatic_reset": true
+  },
+  "safety_features": {
+    "under_voltage_protection": true,
+    "over_voltage_protection": true,
+    "overload_protection": true,
+    "surge_protection": true
+  },
+  "dimensions": {
+    "product_w_x_h_x_d_mm": [140, 245, 365],
+    "box_w_x_h_x_d_mm": [210, 315, 425]
+  },
+  "weight": {
+    "value": 14.5,
+    "unit": "kg"
+  }
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP5590-PRIME.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP5590-PRIME.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP6590-PRIME.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "product_name": "LIVPOWER Inverter AC Voltage Stabilizer L-LIVP6590 PRIME",
+  "brand": "LIVPOWER",
+  "type": "Voltage Stabilizer",
+  "category": "Inverter AC up to 2.5 ton",
+  "used_for": "Inverter AC up to 2.5 ton",
+  "working_range": {
+    "min": 90,
+    "max": 290,
+    "unit": "VAC"
+  },
+  "phase": {
+    "phase_count": 1,
+    "notes": "With surge protection"
+  },
+  "color": "Gray White",
+  "model_id": "L-LIVP6590 PRIME",
+  "build": {
+    "body": "Metal cabinet",
+    "mount_type": ["Wall mount"],
+    "display_type": "Digital meter"
+  },
+  "compatibility": {
+    "generator_compatible": true
+  },
+  "performance_features": {
+    "spike_suppressor": true,
+    "tds": true,
+    "output_voltage_correction": true
+  },
+  "power_features": {
+    "trip_delay": true,
+    "automatic_reset": true,
+    "accuracy_percent": 2.5,
+    "maximum_power_w": 2300,
+    "nominal_input_voltage_vac": 100,
+    "power_rating_va": 2800
+  },
+  "safety_features": {
+    "under_voltage_protection": true,
+    "over_voltage_protection": true,
+    "overload_protection": true,
+    "surge_protection": true
+  },
+  "dimensions": {
+    "product_w_x_h_x_d_mm": [140, 245, 365],
+    "box_w_x_h_x_d_mm": [210, 315, 425]
+  },
+  "weight": {
+    "value": 16.0,
+    "unit": "kg"
+  }
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP6590-PRIME.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP6590-PRIME.png
+
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP50050ML-PRIME.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "product_name": "LIVPOWER Voltage Stabilizer L-LIVP50050ML PRIME",
+  "brand": "LIVPOWER",
+  "type": "Voltage Stabilizer",
+  "used_for": "Multipurpose voltage stabilizer for home",
+  "working_range": {
+    "min": 50,
+    "max": 270,
+    "unit": "VAC"
+  },
+  "model_id": "L-LIVP50050ML",
+  "build": {
+    "body": "Metal cabinet",
+    "mount_type": ["Wall mount", "Table top"],
+    "display_type": "Digital meter"
+  },
+  "compatibility": {
+    "generator_compatible": true
+  },
+  "capacity": {
+    "value": 5.0,
+    "unit": "KVA"
+  },
+  "performance_features": {
+    "spike_suppressor": true,
+    "tds": true,
+    "output_voltage_correction": true
+  },
+  "power_features": {
+    "trip_delay": true,
+    "accuracy_percent": 2.5,
+    "automatic_reset": true
+  },
+  "safety_features": {
+    "under_voltage_protection": true,
+    "over_voltage_protection": true,
+    "surge_protection": true
+  },
+  "dimensions": {
+    "inner_w_x_h_x_d_mm": [310, 160, 355],
+    "outer_w_x_h_x_d_mm": [420, 260, 455]
+  },
+  "weight": {
+    "value": 23.6,
+    "unit": "kg"
+  },
+  "additional_notes": [
+    "Electromagnetic Interference (EMI) filter to suppress electromagnetic noises in power lines",
+    "Surge and spike protector to help protect home appliances from voltage spikes"
+  ]
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP50050ML-PRIME.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP50050ML-PRIME.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livpower-Digital-Voltage.json:
+{
+  "source_document": "Voltage Stabilizer Price List 2025.pdf",
+  "product_category": "Voltage Stabilizer",
+  "brand": "Livpower",
+  "common_features": {
+    "core_technology": {
+      "control_system": "Digital stabilizer control",
+      "controller": "Microprocessor IC based (Japanese technology)"
+    },
+    "protection_and_safety": [
+      "High voltage cut-off",
+      "Low voltage cut-off",
+      "Overload protection",
+      "Overheat protection",
+      "Spike protection",
+      "Surge protection"
+    ],
+    "smart_functions": [
+      "Intelligent time delay system (safe start / compressor protection use-case)",
+      "Automatic voltage correction/stabilization"
+    ],
+    "indication_and_user_interface": [
+      "Digital display / digital meter for voltage indication"
+    ],
+    "build_and_quality": [
+      "Designed for home appliance voltage fluctuation protection"
+    ]
+  }
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livpower-Digital-Voltage.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livpower-Digital-Voltage.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livsafe-Digital-Voltage.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "brand_family": "LivSafe (LivPower)",
+  "stabilizer_type": "Digital Voltage Stabilizer",
+  "positioning": {
+    "designed_for": "Low voltage areas"
+  },
+  "common_use_cases": [
+    "Air conditioner protection (tonnage-based variants)",
+    "Refrigerator protection (capacity-based variants)",
+    "Deep freezer / water cooler / air cooler support",
+    "Home mainline protection (flat / multi-room load variants)",
+    "Washing machine support",
+    "Treadmill / microwave oven support",
+    "Digital UPS support (mentioned with select use-cases)"
+  ],
+  "capacity_and_range_overview": {
+    "kva_span_across_brochure": {
+      "min": 0.5,
+      "max": 7.0,
+      "unit": "kVA",
+      "note": "Different models cover different appliances and loads."
+    },
+    "input_voltage_range_span_across_brochure": {
+      "min": 50,
+      "max": 500,
+      "unit": "V",
+      "note": "Model-dependent voltage ranges across AC + mainline variants."
+    }
+  },
+  "application_notes_common_across_models": {
+    "low_current_appliances_examples": [
+      "2 Amp: 1 refrigerator up to 300L"
+    ],
+    "medium_current_appliances_examples": [
+      "4 Amp: refrigerator up to 600L / deep freezer / water cooler / air cooler / 1000VA digital UPS"
+    ],
+    "mainline_and_multi_appliance_examples": [
+      "6 Amp: refrigerator + deep freezer + water cooler/air cooler + 0.5 ton AC + digital UPS + e-rickshaw battery charging",
+      "General purpose mainline (flat load combos with lights, bulbs, fans, TV, washing machine)",
+      "Higher-load home combos including cooler and single-phase submersible pump (as listed in brochure)"
+    ]
+  },
+  "compliance_and_markings": {
+    "approval_marking": "USA ANSY Y32.2 approved (as shown on brochure cover)"
+  }
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livsafe-Digital-Voltage.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livsafe-Digital-Voltage.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livsmart-Digital-Voltage.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "brand": "LIVSMART",
+  "product_line_name": "LIVSMART Digital Voltage Stabilizer",
+  "stabilizer_type": "Digital (model-specific ratings/variants)",
+  "common_features": {
+    "digital_output_display": true,
+    "designed_for_home_appliances": true,
+    "application_based_variants": [
+      "Air Conditioner",
+      "Refrigerator / Deep Freezer",
+      "Mainline (Home power)"
+    ],
+    "capacity_range_overall": {
+      "kva_range": "0.5 kVA to 7 kVA (model dependent)"
+    },
+    "input_voltage_range_options": {
+      "range_seen_in_brochure": "50V to 500V (model dependent)"
+    },
+    "standards_and_compliance": {
+      "wiring_diagram_standard": "USA ANSY Y32.2",
+      "approval_note": "Approved for use in United States of America (as shown in brochure)"
+    },
+    "warranty": {
+      "duration": 36,
+      "unit": "Months"
+    }
+  },
+  "common_supported_use_cases_examples": [
+    "Air conditioner protection (tonnage-based models listed in brochure tables)",
+    "Refrigerator up to ~300L (model dependent)",
+    "Deep freezer / water cooler / air cooler (model dependent)",
+    "Digital UPS support (model dependent)",
+    "Washing machine (top/front load) (model dependent)",
+    "Microwave oven / treadmill (model dependent)",
+    "E-rickshaw battery charging (model dependent)",
+    "Home mainline for flats (2–4 bedroom examples shown, model dependent)",
+    "Single phase submersible pump support (examples shown, model dependent)"
+  ],
+  "note": "Exact KVA rating, voltage range, and supported load vary by model/series in the brochure tables."
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livsmart-Digital-Voltage.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livsmart-Digital-Voltage.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livvolt-Digital-Voltage.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "brand": "Livvolt",
+  "manufacturer": "Livpower Industries India Pvt. Ltd.",
+  "product_type": "Digital Voltage Stabilizer",
+  "tagline": ["Precision", "Power", "Performance"],
+  "compliance_and_approval": {
+    "wiring_diagram_standard": "USA ANSY Y32.2 (as printed on brochure)",
+    "approved_for_use_in": "United States of America (as printed on brochure)"
+  },
+  "warranty": {
+    "duration": 36,
+    "unit": "Months"
+  },
+  "range_segments": [
+    {
+      "segment_name": "For Air Conditioner",
+      "notes": "Catalogue section lists models for air conditioners with the same spec fields across models."
+    },
+    {
+      "segment_name": "For Refrigerator & Mainline",
+      "notes": "Catalogue section lists models for refrigerators and general-purpose/mainline loads with the same spec fields across models."
+    }
+  ],
+  "common_model_spec_fields_schema": {
+    "series": "string (e.g., series name shown in the table)",
+    "model_name": "string (model code/name as listed)",
+    "capacity": {
+      "kva_rating": "number",
+      "kva_unit": "KVA",
+      "notes": "AC models may also mention supported tonnage in the KVA rating field (e.g., 'up to X ton')."
+    },
+    "input_voltage_range": {
+      "min_voltage": "number",
+      "max_voltage": "number",
+      "unit": "V",
+      "format_example": "170V-270V"
+    },
+    "application": "string (intended usage/load description as listed)",
+    "aluminium_value": {
+      "value": "number",
+      "unit": "unspecified (listed as 'ALUMINIUM' in the table)"
+    },
+    "mrp": {
+      "value": "number",
+      "currency": "INR",
+      "notes": "Listed as MRP in the table."
+    }
+  },
+  "application_text_patterns_seen_in_catalogue": [
+    "Air conditioner usage (e.g., 1.5 ton / 2.0 ton / etc. as listed per model)",
+    "Refrigerator usage by amp + fridge capacity (e.g., '2 Amp, 1 Ref. up to 300L')",
+    "Multi-appliance loads (deep freezer, water cooler, air cooler, UPS, etc.)",
+    "General purpose mainline (home load examples like rooms/lights/fans/TV/washing machine)"
+  ],
+  "support_contact": {
+    "toll_free_number": "1800-202-2269",
+    "email": "info@livpower.in",
+    "website": "www.livpower.in"
+  },
+  "source_file": "Livvolt Single Fold Brochure.pdf"
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livvolt-Digital-Voltage.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livvolt-Digital-Voltage.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Single-Phase-Solar.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "product_line": "Single Phase Stabilizer for Solar",
+  "brand": "LivPower",
+  "stabilizer_type": "Single phase digital voltage stabilizer",
+  "input_voltage_range": {
+    "min": 140,
+    "max": 450,
+    "unit": "V"
+  },
+  "display_and_controls": {
+    "digital_meter": true,
+    "bypass": "Emergency stabilizer bypass"
+  },
+  "control_and_correction": {
+    "controller": "Latest microprocessor IC based",
+    "correction_technology": "Zero crossing relay for fast voltage correction",
+    "protection_logic": "Micro-controller based overload protection (MCB)"
+  },
+  "protection_features": [
+    "High-low voltage cutoff",
+    "Delay time circuits",
+    "Overload protection (MCB)",
+    "Spike protection",
+    "Overheat protection",
+    "Intelligent time delay system",
+    "Surge protection"
+  ],
+  "build_and_form_factor": {
+    "model_type": "Table top model",
+    "body": "7 tank process powder coated body (IP-60)",
+    "components": "Standard parts and components"
+  },
+  "quality_and_origin": {
+    "quality_assurance": "Quality assured",
+    "origin": "Make in India"
+  },
+  "range_notes": {
+    "available_variants": [
+      "5KVA (18A)",
+      "10KVA (30A)",
+      "15KVA (50A)",
+      "20KVA (70A)"
+    ]
+  },
+  "warranty": {
+    "duration": 12,
+    "unit": "Months"
+  }
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Single-Phase-Solar.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Single-Phase-Solar.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Submersible-Pump.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "product_line": "Submersible Pump Voltage Stabilizers",
+  "brand": "LivPower",
+  "stabilizer_type": "Automatic voltage stabilizer",
+  "intended_use": "Specially designed for submersible pumps",
+  "technology": {
+    "highlight": "New Japanese technology"
+  },
+  "operating_range": {
+    "range": "50V operating range"
+  },
+  "common_protection_features": [
+    "Overload protection",
+    "Intelligent time delay system",
+    "Surge protection"
+  ],
+  "positioning": [
+    "Safety",
+    "Security",
+    "Reliability"
+  ],
+  "range_notes": {
+    "available_capacities_va": [
+      1500,
+      2500,
+      3500,
+      5500,
+      8500,
+      11000
+    ],
+    "pump_support_upto_hp": {
+      "min": 0.5,
+      "max": 4.0
+    }
+  },
+  "manufacturer_contact": {
+    "address": "BLOCK-H, DSIDC INDUSTRIAL AREA, DELHI-110040",
+    "phone": "+91 70119 43712",
+    "email": "rehaaninternational17@gmail.com",
+    "website": "www.livpower.in"
+  }
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Submersible-Pump.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Submersible-Pump.png
+
+
+the paths are similar to that of the inspiration page. Their is just a few things different that have to be done in this page: i have two kinds of products in this, products that are just singular models and products that are a group of models, the singular models are the files names with the numbers on them and the rest are the group of models. In the filters add one filter that chooses between group and single apart from all the other filters you get from the jsons. Also instead of the view specs button, make a view catalog button that opens the pds whose paths are also given:
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Amplifier-and-DJ-Mainline-Voltage-Stabilizers.json:
+{
+  "product_category": "Digital Voltage Stabilizer",
+  "product_line": "Amplifier / DJ Mainline Voltage Stabilizers",
+  "brand": "Livpower",
+  "stabilizer_type": "Automatic servo type (microprocessor controlled)",
+  "technology": {
+    "controller": "Latest microprocessor IC based control",
+    "platform": "ANESE technology (first time in India)"
+  },
+  "typical_applications": [
+    "DJ / PA systems",
+    "Sound system",
+    "LED screen",
+    "Treadmill",
+    "Medical equipment",
+    "CNC machines",
+    "Other special applications"
+  ],
+  "output_regulation": {
+    "target_output": "225V ± 5%",
+    "output_voltage_range": "200V - 250V (from input 100V)"
+  },
+  "display_and_controls": {
+    "display": "Digital display / digital meter",
+    "metering": [
+      "Ampere meter"
+    ]
+  },
+  "connectivity": {
+    "sockets": "Multiple sockets"
+  },
+  "delay": {
+    "type": "Instant",
+    "system_feature": "Intelligent time delay system"
+  },
+  "protection_features": [
+    "Spike protection",
+    "Surge protection",
+    "Overheat protection",
+    "Overload protection",
+    "High-low cut off protection",
+    "Short circuit protection",
+    "Enhanced T.O.P. protection"
+  ],
+  "positioning": [
+    "Safety",
+    "Security",
+    "Reliability"
+  ],
+  "certifications": [
+    "ISO (listed on catalog)"
+  ],
+  "warranty": {
+    "duration": 2,
+    "unit": "Years"
+  }
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Amplifier-and-DJ-Mainline-Voltage-Stabilizers.p
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Amplifier-and-DJ-Mainline-Voltage-Stabilizers.pngdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP0.5050-PRIME.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "product_name": "LIVPOWER Refrigerator Voltage Stabilizer L-LIVP0.5050 PRIME",
+  "brand": "LIVPOWER",
+  "type": "Voltage Stabilizer",
+  "used_for": "2 Amp, one refrigerator up to 300L",
+  "working_range": {
+    "min": 50,
+    "max": 270,
+    "unit": "VAC"
+  },
+  "model_id": "L-LIVP0.5050",
+  "build": {
+    "body": "Metal cabinet",
+    "mount_type": ["Wall mount", "Table top"],
+    "display_type": "Digital meter"
+  },
+  "compatibility": {
+    "generator_compatible": true
+  },
+  "capacity": {
+    "value": 0.5,
+    "unit": "kVA"
+  },
+  "performance_features": {
+    "spike_suppressor": true,
+    "tds": true,
+    "output_voltage_correction": true
+  },
+  "power_features": {
+    "trip_delay": true,
+    "accuracy_percent": 2.5,
+    "automatic_reset": true
+  },
+  "safety_features": {
+    "under_voltage_protection": true,
+    "over_voltage_protection": true,
+    "surge_protection": true
+  },
+  "dimensions": {
+    "inner_w_x_h_x_d_mm": [190, 100, 275],
+    "outer_w_x_h_x_d_mm": [260, 165, 335]
+  },
+  "weight": {
+    "value": 6.1,
+    "unit": "kg"
+  }
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP0.5050-PRIME.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP0.5050-PRIME.png
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP1050-PRIME.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "product_name": "LIVPOWER Refrigerator Voltage Stabilizer L-LIVP1050 PRIME",
+  "brand": "LIVPOWER",
+  "type": "Voltage Stabilizer",
+  "used_for": "Deep freezers / air cooler / 1000VA digital UPS / refrigerators (above 600L)",
+  "working_range": {
+    "min": 50,
+    "max": 280,
+    "unit": "VAC"
+  },
+  "model_id": "L-LIVP1050",
+  "build": {
+    "body": "Metal cabinet",
+    "mount_type": ["Wall mount", "Table top"],
+    "display_type": "Digital meter"
+  },
+  "compatibility": {
+    "generator_compatible": true
+  },
+  "capacity": {
+    "value": 1.0,
+    "unit": "KVA"
+  },
+  "performance_features": {
+    "spike_suppressor": true,
+    "tds": true,
+    "output_voltage_correction": true
+  },
+  "power_features": {
+    "trip_delay": true,
+    "accuracy_percent": 2.5,
+    "automatic_reset": true
+  },
+  "safety_features": {
+    "under_voltage_protection": true,
+    "over_voltage_protection": true,
+    "surge_protection": true
+  },
+  "dimensions": {
+    "inner_w_x_h_x_d_mm": [140, 245, 365],
+    "outer_w_x_h_x_d_mm": [210, 315, 425]
+  },
+  "weight": {
+    "value": 10.4,
+    "unit": "kg"
+  },
+  "additional_notes": [
+    "Electromagnetic Interference (EMI) filter to suppress electromagnetic noises in power lines",
+    "Surge and spike protector to help protect connected appliances from voltage spikes"
+  ]
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP1050-PRIME.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP1050-PRIME.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP2050-PRIME.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "product_name": "LIVPOWER Voltage Stabilizer L-LIVP2050 PRIME",
+  "brand": "LIVPOWER",
+  "type": "Voltage Stabilizer",
+  "used_for": "Multipurpose voltage stabilizer for home",
+  "working_range": {
+    "min": 50,
+    "max": 280,
+    "unit": "VAC"
+  },
+  "model_id": "L-LIVP2050",
+  "build": {
+    "body": "Metal cabinet",
+    "mount_type": ["Wall mount", "Table top"],
+    "display_type": "Digital meter"
+  },
+  "compatibility": {
+    "generator_compatible": true
+  },
+  "capacity": {
+    "value": 2.0,
+    "unit": "KVA"
+  },
+  "performance_features": {
+    "spike_suppressor": true,
+    "tds": true,
+    "output_voltage_correction": true
+  },
+  "power_features": {
+    "trip_delay": true,
+    "accuracy_percent": 2.5,
+    "automatic_reset": true
+  },
+  "safety_features": {
+    "under_voltage_protection": true,
+    "over_voltage_protection": true,
+    "surge_protection": true
+  },
+  "dimensions": {
+    "inner_w_x_h_x_d_mm": [245, 140, 365],
+    "outer_w_x_h_x_d_mm": [315, 210, 425]
+  },
+  "weight": {
+    "value": 13.5,
+    "unit": "kg"
+  },
+  "additional_notes": [
+    "Electromagnetic Interference (EMI) filter to suppress electromagnetic noises in power lines",
+    "Surge and spike protector to help protect connected appliances from voltage spikes"
+  ]
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP2050-PRIME.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP2050-PRIME.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP3050ML-PRIME.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "product_name": "LIVPOWER Voltage Stabilizer L-LIVP3050ML PRIME",
+  "brand": "LIVPOWER",
+  "type": "Voltage Stabilizer",
+  "used_for": "Multipurpose voltage stabilizer for home & e-ricksaw battery charging",
+  "working_range": {
+    "min": 50,
+    "max": 280,
+    "unit": "VAC"
+  },
+  "model_id": "L-LIVP3050 ML",
+  "build": {
+    "body": "Metal cabinet",
+    "mount_type": ["Wall mount", "Table top"],
+    "display_type": "Digital meter"
+  },
+  "compatibility": {
+    "generator_compatible": true
+  },
+  "capacity": {
+    "value": 3.0,
+    "unit": "KVA"
+  },
+  "performance_features": {
+    "spike_suppressor": true,
+    "tds": true,
+    "output_voltage_correction": true
+  },
+  "power_features": {
+    "trip_delay": true,
+    "accuracy_percent": 2.5,
+    "automatic_reset": true
+  },
+  "safety_features": {
+    "under_voltage_protection": true,
+    "over_voltage_protection": true,
+    "surge_protection": true
+  },
+  "dimensions": {
+    "inner_w_x_h_x_d_mm": [310, 160, 355],
+    "outer_w_x_h_x_d_mm": [395, 235, 435]
+  },
+  "weight": {
+    "value": 19.6,
+    "unit": "kg"
+  },
+  "additional_notes": [
+    "Electromagnetic Interference (EMI) filter to suppress electromagnetic noises in power lines",
+    "Surge and spike protector to help protect connected appliances from voltage spikes"
+  ]
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP3050ML-PRIME.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP3050ML-PRIME.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP4070-PRIME.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "product_name": "LIVPOWER Voltage Stabilizer L-LIVP4070 PRIME",
+  "brand": "LIVPOWER",
+  "type": "Voltage Stabilizer",
+  "used_for": "Inverter AC up to 1.5 ton",
+  "working_range": {
+    "min": 70,
+    "max": 280,
+    "unit": "VAC"
+  },
+  "model_id": "L-LIVP4070 PRIME",
+  "build": {
+    "body": "Metal cabinet",
+    "mount_type": ["Wall mount", "Table top"],
+    "display_type": "Digital meter"
+  },
+  "compatibility": {
+    "generator_compatible": true
+  },
+  "capacity": {
+    "value": 4.0,
+    "unit": "KVA"
+  },
+  "performance_features": {
+    "spike_suppressor": true,
+    "tds": true,
+    "output_voltage_correction": true
+  },
+  "power_features": {
+    "trip_delay": true,
+    "accuracy_percent": 2.5,
+    "automatic_reset": true
+  },
+  "safety_features": {
+    "under_voltage_protection": true,
+    "over_voltage_protection": true,
+    "surge_protection": true
+  },
+  "dimensions": {
+    "inner_w_x_h_x_d_mm": [245, 140, 365],
+    "outer_w_x_h_x_d_mm": [315, 210, 425]
+  },
+  "weight": {
+    "value": 15.8,
+    "unit": "kg"
+  },
+  "additional_notes": [
+    "Electromagnetic Interference (EMI) filter to suppress electromagnetic noises in power lines",
+    "Surge and spike protector to help protect inverter air conditioner from voltage spikes"
+  ]
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP4070-PRIME.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP4070-PRIME.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP4090-PRIME.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "product_name": "LIVPOWER Voltage Stabilizer L-LIVP4090 PRIME",
+  "brand": "LIVPOWER",
+  "type": "Voltage Stabilizer",
+  "used_for": "Inverter AC up to 1.5 ton",
+  "working_range": {
+    "min": 90,
+    "max": 290,
+    "unit": "VAC"
+  },
+  "model_id": "L-LIVP4090 PRIME",
+  "build": {
+    "body": "Metal cabinet",
+    "mount_type": ["Wall mount", "Table top"],
+    "display_type": "Digital meter"
+  },
+  "compatibility": {
+    "generator_compatible": true
+  },
+  "capacity": {
+    "value": 4.0,
+    "unit": "KVA"
+  },
+  "performance_features": {
+    "spike_suppressor": true,
+    "tds": true,
+    "output_voltage_correction": true
+  },
+  "power_features": {
+    "trip_delay": true,
+    "accuracy_percent": 2.5,
+    "automatic_reset": true
+  },
+  "safety_features": {
+    "under_voltage_protection": true,
+    "over_voltage_protection": true,
+    "surge_protection": true
+  },
+  "dimensions": {
+    "inner_w_x_h_x_d_mm": [245, 140, 365],
+    "outer_w_x_h_x_d_mm": [315, 210, 425]
+  },
+  "weight": {
+    "value": 13.2,
+    "unit": "kg"
+  },
+  "additional_notes": [
+    "Electromagnetic Interference (EMI) filter to suppress electromagnetic noises in power lines",
+    "Surge and spike protector to help protect inverter air conditioner from voltage spikes"
+  ]
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP4090-PRIME.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP4090-PRIME.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP5590-PRIME.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "product_name": "LIVPOWER Inverter AC Voltage Stabilizer L-LIVP5590 PRIME",
+  "brand": "LIVPOWER",
+  "type": "Voltage Stabilizer",
+  "category": "Inverter AC up to 2.0 ton",
+  "used_for": "Inverter AC up to 2.0 ton",
+  "working_range": {
+    "min": 90,
+    "max": 290,
+    "unit": "VAC"
+  },
+  "phase": "1, with surge protection",
+  "color": "Gray White",
+  "model_id": "L-LIVP5590 PRIME",
+  "build": {
+    "body": "Metal cabinet",
+    "mount_type": ["Wall mount"],
+    "display_type": "Digital meter"
+  },
+  "compatibility": {
+    "generator_compatible": true
+  },
+  "performance_features": {
+    "spike_suppressor": true,
+    "tds": true,
+    "output_voltage_correction": true
+  },
+  "power_features": {
+    "trip_delay": true,
+    "maximum_power_w": 2300,
+    "nominal_input_voltage_vac": 100,
+    "accuracy_percent": 2.5,
+    "power_rating_va": 2800,
+    "automatic_reset": true
+  },
+  "safety_features": {
+    "under_voltage_protection": true,
+    "over_voltage_protection": true,
+    "overload_protection": true,
+    "surge_protection": true
+  },
+  "dimensions": {
+    "product_w_x_h_x_d_mm": [140, 245, 365],
+    "box_w_x_h_x_d_mm": [210, 315, 425]
+  },
+  "weight": {
+    "value": 14.5,
+    "unit": "kg"
+  }
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP5590-PRIME.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP5590-PRIME.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP6590-PRIME.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "product_name": "LIVPOWER Inverter AC Voltage Stabilizer L-LIVP6590 PRIME",
+  "brand": "LIVPOWER",
+  "type": "Voltage Stabilizer",
+  "category": "Inverter AC up to 2.5 ton",
+  "used_for": "Inverter AC up to 2.5 ton",
+  "working_range": {
+    "min": 90,
+    "max": 290,
+    "unit": "VAC"
+  },
+  "phase": {
+    "phase_count": 1,
+    "notes": "With surge protection"
+  },
+  "color": "Gray White",
+  "model_id": "L-LIVP6590 PRIME",
+  "build": {
+    "body": "Metal cabinet",
+    "mount_type": ["Wall mount"],
+    "display_type": "Digital meter"
+  },
+  "compatibility": {
+    "generator_compatible": true
+  },
+  "performance_features": {
+    "spike_suppressor": true,
+    "tds": true,
+    "output_voltage_correction": true
+  },
+  "power_features": {
+    "trip_delay": true,
+    "automatic_reset": true,
+    "accuracy_percent": 2.5,
+    "maximum_power_w": 2300,
+    "nominal_input_voltage_vac": 100,
+    "power_rating_va": 2800
+  },
+  "safety_features": {
+    "under_voltage_protection": true,
+    "over_voltage_protection": true,
+    "overload_protection": true,
+    "surge_protection": true
+  },
+  "dimensions": {
+    "product_w_x_h_x_d_mm": [140, 245, 365],
+    "box_w_x_h_x_d_mm": [210, 315, 425]
+  },
+  "weight": {
+    "value": 16.0,
+    "unit": "kg"
+  }
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP6590-PRIME.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP6590-PRIME.png
+
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP50050ML-PRIME.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "product_name": "LIVPOWER Voltage Stabilizer L-LIVP50050ML PRIME",
+  "brand": "LIVPOWER",
+  "type": "Voltage Stabilizer",
+  "used_for": "Multipurpose voltage stabilizer for home",
+  "working_range": {
+    "min": 50,
+    "max": 270,
+    "unit": "VAC"
+  },
+  "model_id": "L-LIVP50050ML",
+  "build": {
+    "body": "Metal cabinet",
+    "mount_type": ["Wall mount", "Table top"],
+    "display_type": "Digital meter"
+  },
+  "compatibility": {
+    "generator_compatible": true
+  },
+  "capacity": {
+    "value": 5.0,
+    "unit": "KVA"
+  },
+  "performance_features": {
+    "spike_suppressor": true,
+    "tds": true,
+    "output_voltage_correction": true
+  },
+  "power_features": {
+    "trip_delay": true,
+    "accuracy_percent": 2.5,
+    "automatic_reset": true
+  },
+  "safety_features": {
+    "under_voltage_protection": true,
+    "over_voltage_protection": true,
+    "surge_protection": true
+  },
+  "dimensions": {
+    "inner_w_x_h_x_d_mm": [310, 160, 355],
+    "outer_w_x_h_x_d_mm": [420, 260, 455]
+  },
+  "weight": {
+    "value": 23.6,
+    "unit": "kg"
+  },
+  "additional_notes": [
+    "Electromagnetic Interference (EMI) filter to suppress electromagnetic noises in power lines",
+    "Surge and spike protector to help protect home appliances from voltage spikes"
+  ]
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP50050ML-PRIME.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\L-LIVP50050ML-PRIME.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livpower-Digital-Voltage.json:
+{
+  "source_document": "Voltage Stabilizer Price List 2025.pdf",
+  "product_category": "Voltage Stabilizer",
+  "brand": "Livpower",
+  "common_features": {
+    "core_technology": {
+      "control_system": "Digital stabilizer control",
+      "controller": "Microprocessor IC based (Japanese technology)"
+    },
+    "protection_and_safety": [
+      "High voltage cut-off",
+      "Low voltage cut-off",
+      "Overload protection",
+      "Overheat protection",
+      "Spike protection",
+      "Surge protection"
+    ],
+    "smart_functions": [
+      "Intelligent time delay system (safe start / compressor protection use-case)",
+      "Automatic voltage correction/stabilization"
+    ],
+    "indication_and_user_interface": [
+      "Digital display / digital meter for voltage indication"
+    ],
+    "build_and_quality": [
+      "Designed for home appliance voltage fluctuation protection"
+    ]
+  }
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livpower-Digital-Voltage.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livpower-Digital-Voltage.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livsafe-Digital-Voltage.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "brand_family": "LivSafe (LivPower)",
+  "stabilizer_type": "Digital Voltage Stabilizer",
+  "positioning": {
+    "designed_for": "Low voltage areas"
+  },
+  "common_use_cases": [
+    "Air conditioner protection (tonnage-based variants)",
+    "Refrigerator protection (capacity-based variants)",
+    "Deep freezer / water cooler / air cooler support",
+    "Home mainline protection (flat / multi-room load variants)",
+    "Washing machine support",
+    "Treadmill / microwave oven support",
+    "Digital UPS support (mentioned with select use-cases)"
+  ],
+  "capacity_and_range_overview": {
+    "kva_span_across_brochure": {
+      "min": 0.5,
+      "max": 7.0,
+      "unit": "kVA",
+      "note": "Different models cover different appliances and loads."
+    },
+    "input_voltage_range_span_across_brochure": {
+      "min": 50,
+      "max": 500,
+      "unit": "V",
+      "note": "Model-dependent voltage ranges across AC + mainline variants."
+    }
+  },
+  "application_notes_common_across_models": {
+    "low_current_appliances_examples": [
+      "2 Amp: 1 refrigerator up to 300L"
+    ],
+    "medium_current_appliances_examples": [
+      "4 Amp: refrigerator up to 600L / deep freezer / water cooler / air cooler / 1000VA digital UPS"
+    ],
+    "mainline_and_multi_appliance_examples": [
+      "6 Amp: refrigerator + deep freezer + water cooler/air cooler + 0.5 ton AC + digital UPS + e-rickshaw battery charging",
+      "General purpose mainline (flat load combos with lights, bulbs, fans, TV, washing machine)",
+      "Higher-load home combos including cooler and single-phase submersible pump (as listed in brochure)"
+    ]
+  },
+  "compliance_and_markings": {
+    "approval_marking": "USA ANSY Y32.2 approved (as shown on brochure cover)"
+  }
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livsafe-Digital-Voltage.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livsafe-Digital-Voltage.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livsmart-Digital-Voltage.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "brand": "LIVSMART",
+  "product_line_name": "LIVSMART Digital Voltage Stabilizer",
+  "stabilizer_type": "Digital (model-specific ratings/variants)",
+  "common_features": {
+    "digital_output_display": true,
+    "designed_for_home_appliances": true,
+    "application_based_variants": [
+      "Air Conditioner",
+      "Refrigerator / Deep Freezer",
+      "Mainline (Home power)"
+    ],
+    "capacity_range_overall": {
+      "kva_range": "0.5 kVA to 7 kVA (model dependent)"
+    },
+    "input_voltage_range_options": {
+      "range_seen_in_brochure": "50V to 500V (model dependent)"
+    },
+    "standards_and_compliance": {
+      "wiring_diagram_standard": "USA ANSY Y32.2",
+      "approval_note": "Approved for use in United States of America (as shown in brochure)"
+    },
+    "warranty": {
+      "duration": 36,
+      "unit": "Months"
+    }
+  },
+  "common_supported_use_cases_examples": [
+    "Air conditioner protection (tonnage-based models listed in brochure tables)",
+    "Refrigerator up to ~300L (model dependent)",
+    "Deep freezer / water cooler / air cooler (model dependent)",
+    "Digital UPS support (model dependent)",
+    "Washing machine (top/front load) (model dependent)",
+    "Microwave oven / treadmill (model dependent)",
+    "E-rickshaw battery charging (model dependent)",
+    "Home mainline for flats (2–4 bedroom examples shown, model dependent)",
+    "Single phase submersible pump support (examples shown, model dependent)"
+  ],
+  "note": "Exact KVA rating, voltage range, and supported load vary by model/series in the brochure tables."
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livsmart-Digital-Voltage.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livsmart-Digital-Voltage.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livvolt-Digital-Voltage.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "brand": "Livvolt",
+  "manufacturer": "Livpower Industries India Pvt. Ltd.",
+  "product_type": "Digital Voltage Stabilizer",
+  "tagline": ["Precision", "Power", "Performance"],
+  "compliance_and_approval": {
+    "wiring_diagram_standard": "USA ANSY Y32.2 (as printed on brochure)",
+    "approved_for_use_in": "United States of America (as printed on brochure)"
+  },
+  "warranty": {
+    "duration": 36,
+    "unit": "Months"
+  },
+  "range_segments": [
+    {
+      "segment_name": "For Air Conditioner",
+      "notes": "Catalogue section lists models for air conditioners with the same spec fields across models."
+    },
+    {
+      "segment_name": "For Refrigerator & Mainline",
+      "notes": "Catalogue section lists models for refrigerators and general-purpose/mainline loads with the same spec fields across models."
+    }
+  ],
+  "common_model_spec_fields_schema": {
+    "series": "string (e.g., series name shown in the table)",
+    "model_name": "string (model code/name as listed)",
+    "capacity": {
+      "kva_rating": "number",
+      "kva_unit": "KVA",
+      "notes": "AC models may also mention supported tonnage in the KVA rating field (e.g., 'up to X ton')."
+    },
+    "input_voltage_range": {
+      "min_voltage": "number",
+      "max_voltage": "number",
+      "unit": "V",
+      "format_example": "170V-270V"
+    },
+    "application": "string (intended usage/load description as listed)",
+    "aluminium_value": {
+      "value": "number",
+      "unit": "unspecified (listed as 'ALUMINIUM' in the table)"
+    },
+    "mrp": {
+      "value": "number",
+      "currency": "INR",
+      "notes": "Listed as MRP in the table."
+    }
+  },
+  "application_text_patterns_seen_in_catalogue": [
+    "Air conditioner usage (e.g., 1.5 ton / 2.0 ton / etc. as listed per model)",
+    "Refrigerator usage by amp + fridge capacity (e.g., '2 Amp, 1 Ref. up to 300L')",
+    "Multi-appliance loads (deep freezer, water cooler, air cooler, UPS, etc.)",
+    "General purpose mainline (home load examples like rooms/lights/fans/TV/washing machine)"
+  ],
+  "support_contact": {
+    "toll_free_number": "1800-202-2269",
+    "email": "info@livpower.in",
+    "website": "www.livpower.in"
+  },
+  "source_file": "Livvolt Single Fold Brochure.pdf"
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livvolt-Digital-Voltage.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Livvolt-Digital-Voltage.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Single-Phase-Solar.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "product_line": "Single Phase Stabilizer for Solar",
+  "brand": "LivPower",
+  "stabilizer_type": "Single phase digital voltage stabilizer",
+  "input_voltage_range": {
+    "min": 140,
+    "max": 450,
+    "unit": "V"
+  },
+  "display_and_controls": {
+    "digital_meter": true,
+    "bypass": "Emergency stabilizer bypass"
+  },
+  "control_and_correction": {
+    "controller": "Latest microprocessor IC based",
+    "correction_technology": "Zero crossing relay for fast voltage correction",
+    "protection_logic": "Micro-controller based overload protection (MCB)"
+  },
+  "protection_features": [
+    "High-low voltage cutoff",
+    "Delay time circuits",
+    "Overload protection (MCB)",
+    "Spike protection",
+    "Overheat protection",
+    "Intelligent time delay system",
+    "Surge protection"
+  ],
+  "build_and_form_factor": {
+    "model_type": "Table top model",
+    "body": "7 tank process powder coated body (IP-60)",
+    "components": "Standard parts and components"
+  },
+  "quality_and_origin": {
+    "quality_assurance": "Quality assured",
+    "origin": "Make in India"
+  },
+  "range_notes": {
+    "available_variants": [
+      "5KVA (18A)",
+      "10KVA (30A)",
+      "15KVA (50A)",
+      "20KVA (70A)"
+    ]
+  },
+  "warranty": {
+    "duration": 12,
+    "unit": "Months"
+  }
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Single-Phase-Solar.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Single-Phase-Solar.png
+
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Submersible-Pump.json:
+{
+  "product_category": "Voltage Stabilizer",
+  "product_line": "Submersible Pump Voltage Stabilizers",
+  "brand": "LivPower",
+  "stabilizer_type": "Automatic voltage stabilizer",
+  "intended_use": "Specially designed for submersible pumps",
+  "technology": {
+    "highlight": "New Japanese technology"
+  },
+  "operating_range": {
+    "range": "50V operating range"
+  },
+  "common_protection_features": [
+    "Overload protection",
+    "Intelligent time delay system",
+    "Surge protection"
+  ],
+  "positioning": [
+    "Safety",
+    "Security",
+    "Reliability"
+  ],
+  "range_notes": {
+    "available_capacities_va": [
+      1500,
+      2500,
+      3500,
+      5500,
+      8500,
+      11000
+    ],
+    "pump_support_upto_hp": {
+      "min": 0.5,
+      "max": 4.0
+    }
+  },
+  "manufacturer_contact": {
+    "address": "BLOCK-H, DSIDC INDUSTRIAL AREA, DELHI-110040",
+    "phone": "+91 70119 43712",
+    "email": "rehaaninternational17@gmail.com",
+    "website": "www.livpower.in"
+  }
+}
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Submersible-Pump.pdf
+C:\My Web Sites\LivPower\livpower.in\categories\stabilizers\Submersible-Pump.png

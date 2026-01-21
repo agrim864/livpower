@@ -1,0 +1,51 @@
+{
+  "product_category": "Voltage Stabilizer",
+  "product_name": "LIVPOWER Inverter AC Voltage Stabilizer L-LIVP5590 PRIME",
+  "brand": "LIVPOWER",
+  "type": "Voltage Stabilizer",
+  "category": "Inverter AC up to 2.0 ton",
+  "used_for": "Inverter AC up to 2.0 ton",
+  "working_range": {
+    "min": 90,
+    "max": 290,
+    "unit": "VAC"
+  },
+  "phase": "1, with surge protection",
+  "color": "Gray White",
+  "model_id": "L-LIVP5590 PRIME",
+  "build": {
+    "body": "Metal cabinet",
+    "mount_type": ["Wall mount"],
+    "display_type": "Digital meter"
+  },
+  "compatibility": {
+    "generator_compatible": true
+  },
+  "performance_features": {
+    "spike_suppressor": true,
+    "tds": true,
+    "output_voltage_correction": true
+  },
+  "power_features": {
+    "trip_delay": true,
+    "maximum_power_w": 2300,
+    "nominal_input_voltage_vac": 100,
+    "accuracy_percent": 2.5,
+    "power_rating_va": 2800,
+    "automatic_reset": true
+  },
+  "safety_features": {
+    "under_voltage_protection": true,
+    "over_voltage_protection": true,
+    "overload_protection": true,
+    "surge_protection": true
+  },
+  "dimensions": {
+    "product_w_x_h_x_d_mm": [140, 245, 365],
+    "box_w_x_h_x_d_mm": [210, 315, 425]
+  },
+  "weight": {
+    "value": 14.5,
+    "unit": "kg"
+  }
+}

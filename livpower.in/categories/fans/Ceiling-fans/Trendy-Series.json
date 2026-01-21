@@ -1,0 +1,59 @@
+{
+  "product_category": "Ceiling Fan",
+  "series": "Trendy Series",
+  "model_number": "LPCF1071",
+  "fan_type": "Non-BLDC (AC Motor)",
+  "available_sizes": [
+    "36 inch",
+    "48 inch",
+    "56 inch"
+  ],
+  "motor_and_efficiency": {
+    "motor_type": "High performance AC motor",
+    "energy_efficient": true,
+    "bearing_type": "Double Ball Bearing",
+    "inverter_compatible": true,
+    "noise_level": "Noiseless operation"
+  },
+  "design_and_build": {
+    "blade_material": "Wider Aluminum Blades",
+    "design_style": "Modern and minimal design",
+    "finish": "Superior paint finish",
+    "color_variants": [
+      "Pearl White",
+      "Ivory",
+      "Glossy Brown"
+    ]
+  },
+  "performance": {
+    "speed_rpm": 350,
+    "power_input": {
+      "voltage": "230V",
+      "frequency": "50Hz"
+    },
+    "air_delivery": {
+      "value": 230,
+      "unit": "CMM"
+    },
+    "sweep": {
+      "value": 1200,
+      "unit": "mm"
+    },
+    "low_voltage_operation": true
+  },
+  "key_features": [
+    "Wider aluminum blades for better air thrust",
+    "60% more efficient than conventional fans",
+    "Energy efficient operation",
+    "Smooth and noiseless performance",
+    "No humming sound while running on inverter",
+    "Powerful motor with long life ball bearings"
+  ],
+  "certifications_and_origin": {
+    "manufacturing_origin": "India"
+  },
+  "warranty": {
+    "duration": 2,
+    "unit": "Years"
+  }
+}

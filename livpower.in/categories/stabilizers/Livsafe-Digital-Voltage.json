@@ -1,0 +1,47 @@
+{
+  "product_category": "Voltage Stabilizer",
+  "brand_family": "LivSafe (LivPower)",
+  "stabilizer_type": "Digital Voltage Stabilizer",
+  "positioning": {
+    "designed_for": "Low voltage areas"
+  },
+  "common_use_cases": [
+    "Air conditioner protection (tonnage-based variants)",
+    "Refrigerator protection (capacity-based variants)",
+    "Deep freezer / water cooler / air cooler support",
+    "Home mainline protection (flat / multi-room load variants)",
+    "Washing machine support",
+    "Treadmill / microwave oven support",
+    "Digital UPS support (mentioned with select use-cases)"
+  ],
+  "capacity_and_range_overview": {
+    "kva_span_across_brochure": {
+      "min": 0.5,
+      "max": 7.0,
+      "unit": "kVA",
+      "note": "Different models cover different appliances and loads."
+    },
+    "input_voltage_range_span_across_brochure": {
+      "min": 50,
+      "max": 500,
+      "unit": "V",
+      "note": "Model-dependent voltage ranges across AC + mainline variants."
+    }
+  },
+  "application_notes_common_across_models": {
+    "low_current_appliances_examples": [
+      "2 Amp: 1 refrigerator up to 300L"
+    ],
+    "medium_current_appliances_examples": [
+      "4 Amp: refrigerator up to 600L / deep freezer / water cooler / air cooler / 1000VA digital UPS"
+    ],
+    "mainline_and_multi_appliance_examples": [
+      "6 Amp: refrigerator + deep freezer + water cooler/air cooler + 0.5 ton AC + digital UPS + e-rickshaw battery charging",
+      "General purpose mainline (flat load combos with lights, bulbs, fans, TV, washing machine)",
+      "Higher-load home combos including cooler and single-phase submersible pump (as listed in brochure)"
+    ]
+  },
+  "compliance_and_markings": {
+    "approval_marking": "USA ANSY Y32.2 approved (as shown on brochure cover)"
+  }
+}

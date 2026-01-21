@@ -1,0 +1,12 @@
+{
+  "model_name": "JAI",
+  "sub_woofer": {
+    "size_inch": 6.5,
+    "quantity": 1
+  },
+  "category": "Sound Bar System",
+  "mrp": {
+    "amount": 12500,
+    "currency": "INR"
+  }
+}

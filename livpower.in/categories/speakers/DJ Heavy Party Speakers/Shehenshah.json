@@ -1,0 +1,24 @@
+{
+  "model_name": "SHEHENSHAH",
+  "sub_woofer": {
+    "size_inch": 12.0,
+    "quantity": 4,
+    "configuration": "Bass"
+  },
+  "power_output": {
+    "w_rms": 180,
+    "unit": "Watts"
+  },
+  "category": "DJ Party Speakers",
+  "view_type": "Heavy Look",
+  "finish": "Wooden High Bass",
+  "rgb_light": true,
+  "microphone": {
+    "type": "UHF Wireless",
+    "quantity": 2
+  },
+  "mrp": {
+    "amount": 59000,
+    "currency": "INR"
+  }
+}

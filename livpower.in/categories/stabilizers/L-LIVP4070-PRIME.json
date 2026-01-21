@@ -1,0 +1,52 @@
+{
+  "product_category": "Voltage Stabilizer",
+  "product_name": "LIVPOWER Voltage Stabilizer L-LIVP4070 PRIME",
+  "brand": "LIVPOWER",
+  "type": "Voltage Stabilizer",
+  "used_for": "Inverter AC up to 1.5 ton",
+  "working_range": {
+    "min": 70,
+    "max": 280,
+    "unit": "VAC"
+  },
+  "model_id": "L-LIVP4070 PRIME",
+  "build": {
+    "body": "Metal cabinet",
+    "mount_type": ["Wall mount", "Table top"],
+    "display_type": "Digital meter"
+  },
+  "compatibility": {
+    "generator_compatible": true
+  },
+  "capacity": {
+    "value": 4.0,
+    "unit": "KVA"
+  },
+  "performance_features": {
+    "spike_suppressor": true,
+    "tds": true,
+    "output_voltage_correction": true
+  },
+  "power_features": {
+    "trip_delay": true,
+    "accuracy_percent": 2.5,
+    "automatic_reset": true
+  },
+  "safety_features": {
+    "under_voltage_protection": true,
+    "over_voltage_protection": true,
+    "surge_protection": true
+  },
+  "dimensions": {
+    "inner_w_x_h_x_d_mm": [245, 140, 365],
+    "outer_w_x_h_x_d_mm": [315, 210, 425]
+  },
+  "weight": {
+    "value": 15.8,
+    "unit": "kg"
+  },
+  "additional_notes": [
+    "Electromagnetic Interference (EMI) filter to suppress electromagnetic noises in power lines",
+    "Surge and spike protector to help protect inverter air conditioner from voltage spikes"
+  ]
+}

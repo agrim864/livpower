@@ -1,0 +1,23 @@
+{
+  "model_name": "DHOOM",
+  "sub_woofer": {
+    "size_inch": 10.0,
+    "quantity": 1
+  },
+  "power_output": {
+    "w_rms": 8000,
+    "unit": "Watts"
+  },
+  "category": "Trolley Speakers",
+  "view_type": "Single Trolley",
+  "finish": "Wooden Mega Bass",
+  "rgb_light": true,
+  "microphone": {
+    "type": "UHF Wireless",
+    "quantity": 2
+  },
+  "mrp": {
+    "amount": 12000,
+    "currency": "INR"
+  }
+}

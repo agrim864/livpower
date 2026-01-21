@@ -1,0 +1,60 @@
+{
+  "product_category": "Ceiling Fan",
+  "series": "Decora Prime Series",
+  "model_number": "LPCF1121",
+  "fan_type": "Non-BLDC (AC Motor)",
+  "available_sizes": [
+    "36 inch",
+    "48 inch",
+    "56 inch"
+  ],
+  "motor_and_efficiency": {
+    "motor_type": "Powerful AC motor",
+    "energy_efficient": true,
+    "bearing_type": "Double Ball Bearing",
+    "inverter_compatible": true,
+    "noise_level": "Noiseless operation (incredibly quiet)"
+  },
+  "design_and_build": {
+    "design_style": "Elegant design for modern interiors",
+    "blade_design": "3-blade design for exceptional air flow",
+    "finish": "Superior metallic paint finish",
+    "color_variants": [
+      "Stone White",
+      "Smoke Brown",
+      "Pearl Ivory"
+    ]
+  },
+  "performance": {
+    "speed_rpm": 350,
+    "power_input": {
+      "voltage": "230V",
+      "frequency": "50Hz"
+    },
+    "air_delivery": {
+      "value": 230,
+      "unit": "CMM"
+    },
+    "sweep": {
+      "value": 1200,
+      "unit": "mm"
+    }
+  },
+  "key_features": [
+    "Incredibly quiet",
+    "Elegant design",
+    "Amazingly efficient",
+    "Exceptional air flow",
+    "Superior metallic paint finish",
+    "Double ball bearing for longer life",
+    "Power saving",
+    "Noiseless operation"
+  ],
+  "certifications_and_origin": {
+    "manufacturing_origin": null
+  },
+  "warranty": {
+    "duration": 2,
+    "unit": "Years"
+  }
+}

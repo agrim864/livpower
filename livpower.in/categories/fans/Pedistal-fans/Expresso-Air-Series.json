@@ -1,0 +1,54 @@
+{
+  "product_category": "Pedestal Fan",
+  "series": "Expresso Air Series",
+  "model_number": "LPCF1211",
+  "fan_type": "Non-BLDC (AC Motor)",
+  "design_and_build": {
+    "design_style": "Pedestal fan with protective grill",
+    "color_variants": null
+  },
+  "motor_and_efficiency": {
+    "motor_type": "High performance AC motor",
+    "energy_efficient": true,
+    "bearing_type": null,
+    "noise_level": null,
+    "power_saving": true
+  },
+  "performance": {
+    "speed_rpm": 1300,
+    "speed_control": {
+      "levels": 3,
+      "type": "Manual"
+    },
+    "power_input": {
+      "voltage": "230V",
+      "frequency": "50Hz"
+    },
+    "air_delivery": {
+      "value": 65,
+      "unit": "m3/min"
+    },
+    "sweep": {
+      "value": 400,
+      "unit": "mm"
+    }
+  },
+  "safety_features": [
+    "Enhanced T.O.P. protection"
+  ],
+  "key_features": [
+    "Powerful cooling",
+    "1300 RPM motor speed",
+    "Air delivery 65 m3/min",
+    "3 speed control",
+    "400mm sweep",
+    "Enhanced T.O.P. protection"
+  ],
+  "certifications_and_origin": {
+    "manufacturing_origin": null
+  },
+  "warranty": {
+    "duration": 2,
+    "unit": "Years"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "product_category": "Voltage Stabilizer",
+  "product_name": "LIVPOWER Refrigerator Voltage Stabilizer L-LIVP0.5050 PRIME",
+  "brand": "LIVPOWER",
+  "type": "Voltage Stabilizer",
+  "used_for": "2 Amp, one refrigerator up to 300L",
+  "working_range": {
+    "min": 50,
+    "max": 270,
+    "unit": "VAC"
+  },
+  "model_id": "L-LIVP0.5050",
+  "build": {
+    "body": "Metal cabinet",
+    "mount_type": ["Wall mount", "Table top"],
+    "display_type": "Digital meter"
+  },
+  "compatibility": {
+    "generator_compatible": true
+  },
+  "capacity": {
+    "value": 0.5,
+    "unit": "kVA"
+  },
+  "performance_features": {
+    "spike_suppressor": true,
+    "tds": true,
+    "output_voltage_correction": true
+  },
+  "power_features": {
+    "trip_delay": true,
+    "accuracy_percent": 2.5,
+    "automatic_reset": true
+  },
+  "safety_features": {
+    "under_voltage_protection": true,
+    "over_voltage_protection": true,
+    "surge_protection": true
+  },
+  "dimensions": {
+    "inner_w_x_h_x_d_mm": [190, 100, 275],
+    "outer_w_x_h_x_d_mm": [260, 165, 335]
+  },
+  "weight": {
+    "value": 6.1,
+    "unit": "kg"
+  }
+}

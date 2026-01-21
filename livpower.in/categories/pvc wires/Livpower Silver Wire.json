@@ -1,0 +1,41 @@
+{
+  "product_name": "LIVPOWER SILVER WIRE",
+  "product_type": "PVC Insulated Building Wires",
+  "key_features": [
+    "Lead Free",
+    "Flame Retardant (FR)",
+    "Low Smoke Halogen (FR-LSH)"
+  ],
+  "electrical_specifications": {
+    "voltage_rating": {
+      "max_voltage": 1100,
+      "supply_type": "AC"
+    }
+  },
+  "thermal_specifications": {
+    "temperature_range_celsius": {
+      "min": -10,
+      "max": 70
+    }
+  },
+  "insulation_material": {
+    "type": "PVC",
+    "properties": [
+      "Flame Retardant (FR)",
+      "Low Smoke Halogen (FR-LSH)"
+    ]
+  },
+  "conductor": {
+    "material": "Copper",
+    "type": "High Conductivity Annealed Bunched Copper",
+    "class": [2, 5]
+  },
+  "available_sizes": {
+    "min_mm2": 0.5,
+    "max_mm2": 50.0
+  },
+  "compliance": {
+    "lead_free": true
+  },
+  "brand": "Livpower"
+}

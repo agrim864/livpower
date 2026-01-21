@@ -1,0 +1,38 @@
+{
+  "product_name": "VICTOR",
+  "product_type": "Mixer Grinder",
+  "power_output": {
+    "wattage": 400,
+    "unit": "Watts",
+    "note": "Also available in 450 Watts variant"
+  },
+  "jar_details": [
+    {
+      "jar_type": "Liquidiser",
+      "capacity_liters": 1.25,
+      "material": "Stainless Steel"
+    },
+    {
+      "jar_type": "Grinder",
+      "capacity_liters": 0.3,
+      "material": "Stainless Steel"
+    }
+  ],
+  "control_features": {
+    "speed_settings": 3,
+    "control_type": "Rotary Switch",
+    "pulse_function": true
+  },
+  "features": [
+    "Heavy Duty Jars",
+    "Finest Quality Stainless Steel Jar Set",
+    "Multi-Grinding Capability"
+  ],
+  "warranty": {
+    "duration_months": 12
+  },
+  "packaging": {
+    "units_per_master_pack": 16
+  },
+  "brand": "Livpower"
+}

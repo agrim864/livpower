@@ -1,0 +1,70 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 15 Jan 2026 01:40:10 at https://livpower.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js +.livpower.in/ +*.livpower.in/** -/wp-admin/ -/wp-login.php -/cart/* -/checkout/ -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr5%e0C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://livpower.in/ -O1 "C:\My Web Sites\LivPower" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js +.livpower.in/ +*.livpower.in/** -/wp-admin/ -/wp-login.php -/cart/* -/checkout/ -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:41:27	Error: 	"Bad Request" (400) at link https://livpower.in/wp-admin/admin-ajax.php (from https://livpower.in/)
+01:41:28	Warning: 	Moved Permanently for https://livpower.in/?p=22
+01:41:28	Warning: 	File has moved from https://livpower.in/?p=22 to https://livpower.in/about-us/
+01:41:28	Warning: 	Moved Permanently for https://livpower.in/?p=362
+01:41:28	Warning: 	File has moved from https://livpower.in/?p=362 to https://livpower.in/categories/
+01:41:38	Warning: 	Moved Permanently for https://livpower.in/?p=30
+01:41:38	Warning: 	File has moved from https://livpower.in/?p=30 to https://livpower.in/contact-us/
+01:41:38	Error: 	"Not Found" (404) at link https://livpower.in/contact-us/mail-to:operations@pisceser1marine.com (from https://livpower.in/contact-us/)
+01:41:38	Error: 	"Not Found" (404) at link https://livpower.in/wp-content/themes/blankslate/assets/img/woodpecker/8.png (from https://livpower.in/contact-us/)
+01:41:38	Warning: 	Moved Permanently for https://livpower.in/?p=399
+01:41:38	Warning: 	File has moved from https://livpower.in/?p=399 to https://livpower.in/power-that-protects-reliable-efficient-and-always-stable/
+01:41:38	Error: 	"Method Not Allowed" (405) at link https://livpower.in/xmlrpc.php (from https://livpower.in/power-that-protects-reliable-efficient-and-always-stable/)
+01:41:38	Warning: 	Moved Permanently for https://livpower.in/?p=442
+01:41:38	Warning: 	File has moved from https://livpower.in/?p=442 to https://livpower.in/precision-power-for-every-device-reliable-smart-and-efficient/
+01:41:38	Warning: 	Moved Permanently for https://livpower.in/?p=409
+01:41:38	Warning: 	File has moved from https://livpower.in/?p=409 to https://livpower.in/sound-that-moves-you-clear-powerful-and-immersive/
+01:41:38	Warning: 	Moved Permanently for https://livpower.in/?p=411
+01:41:38	Warning: 	File has moved from https://livpower.in/?p=411 to https://livpower.in/picture-perfect-living-brilliant-smart-and-immersive/
+01:41:38	Warning: 	Moved Permanently for https://livpower.in/?p=423
+01:41:38	Warning: 	File has moved from https://livpower.in/?p=423 to https://livpower.in/warmth-that-cares-fast-safe-and-energy-efficient/
+01:41:38	Warning: 	Moved Permanently for https://livpower.in/?p=445
+01:41:38	Warning: 	File has moved from https://livpower.in/?p=445 to https://livpower.in/blend-it-better-powerful-versatile-and-easy-to-clean/
+01:41:38	Warning: 	Moved Permanently for https://livpower.in/?p=430
+01:41:38	Warning: 	File has moved from https://livpower.in/?p=430 to https://livpower.in/boil-in-style-fast-safe-and-energy-smart/
+01:41:38	Warning: 	Moved Permanently for https://livpower.in/?p=439
+01:41:38	Warning: 	File has moved from https://livpower.in/?p=439 to https://livpower.in/organized-power-simplified-safe-compact-and-efficient/
+01:41:38	Warning: 	Moved Permanently for https://livpower.in/?p=435
+01:41:38	Warning: 	File has moved from https://livpower.in/?p=435 to https://livpower.in/protection-you-can-trust-smart-safe-and-reliable/
+01:41:38	Warning: 	Moved Permanently for https://livpower.in/?p=421
+01:41:38	Warning: 	File has moved from https://livpower.in/?p=421 to https://livpower.in/power-that-performs-efficient-durable-and-easy-to-use/
+01:41:38	Warning: 	Moved Permanently for https://livpower.in/?p=419
+01:41:38	Warning: 	File has moved from https://livpower.in/?p=419 to https://livpower.in/cool-comfort-every-day-silent-stylish-and-efficient/
+01:41:38	Warning: 	Moved Permanently for https://livpower.in/?p=413
+01:41:38	Warning: 	File has moved from https://livpower.in/?p=413 to https://livpower.in/safety-in-every-strand-durable-reliable-and-built-to-last/
+01:41:38	Warning: 	Moved Permanently for https://livpower.in/?p=34
+01:41:38	Warning: 	File has moved from https://livpower.in/?p=34 to https://livpower.in/blogs/
+01:41:50	Error: 	"Not Found" (404) at link https://livpower.in/wp-content/themes/blankslate/assets/img/placeholder.jpg (from https://livpower.in/blogs/)
+01:41:51	Warning: 	Moved Permanently for https://livpower.in/?p=404
+01:41:51	Warning: 	File has moved from https://livpower.in/?p=404 to https://livpower.in/bright-power-even-in-the-dark-efficient-reliable-and-always-on/
+01:41:51	Warning: 	Moved Permanently for https://livpower.in/?p=433
+01:41:51	Warning: 	File has moved from https://livpower.in/?p=433 to https://livpower.in/fresh-breeze-every-moment-powerful-eco-friendly-and-refreshing/
+01:41:51	Warning: 	Moved Permanently for https://livpower.in/?p=448
+01:41:51	Warning: 	File has moved from https://livpower.in/?p=448 to https://livpower.in/smart-air-smarter-savings-efficient-silent-and-long-lasting/
+01:41:51	Warning: 	Moved Permanently for https://livpower.in/?p=425
+01:41:51	Warning: 	File has moved from https://livpower.in/?p=425 to https://livpower.in/wake-up-to-perfection-reliable-toasters-smart-design-and-everyday-ease/
+01:41:55	Warning: 	Moved Permanently for https://livpower.in/?p=379
+01:41:55	Warning: 	File has moved from https://livpower.in/?p=379 to https://livpower.in/the-evolution-of-the-toaster-from-basics-to-smart-tech/
+01:41:55	Warning: 	Moved Permanently for https://livpower.in/?p=376
+01:41:55	Warning: 	File has moved from https://livpower.in/?p=376 to https://livpower.in/energy-efficient-appliances-save-power-save-money/
+01:41:55	Warning: 	Moved Permanently for https://livpower.in/?p=373
+01:41:55	Warning: 	File has moved from https://livpower.in/?p=373 to https://livpower.in/bluetooth-speakers-that-bring-the-party-home/
+01:41:55	Warning: 	Moved Permanently for https://livpower.in/?p=370
+01:41:55	Warning: 	File has moved from https://livpower.in/?p=370 to https://livpower.in/choosing-the-right-inverter-a-simple-buyers-guide/
+01:41:55	Warning: 	Moved Permanently for https://livpower.in/?p=367
+01:41:55	Warning: 	File has moved from https://livpower.in/?p=367 to https://livpower.in/top-5-must-have-home-appliances-for-a-smarter-kitchen/
+01:41:55	Warning: 	Moved Permanently for https://livpower.in/?p=39
+01:41:55	Warning: 	File has moved from https://livpower.in/?p=39 to https://livpower.in/lorem-ipsum/
+01:41:55	Warning: 	Moved Permanently for https://livpower.in/?p=1
+01:41:55	Warning: 	File has moved from https://livpower.in/?p=1 to https://livpower.in/hello-world/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 45 seconds : 344 links scanned, 311 files written (55820456 bytes overall) [53626145 bytes received at 510725 bytes/sec], 3347545 bytes transferred using HTTP compression in 188 files, ratio 23%, 24.0 requests per connection
+(5 errors, 54 warnings, 0 messages)

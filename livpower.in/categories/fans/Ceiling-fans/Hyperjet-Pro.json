@@ -1,0 +1,59 @@
+{
+  "product_category": "Ceiling Fan",
+  "series": "Hyperjet Pro Series",
+  "model_number": "LPCF1161",
+  "fan_type": "Non-BLDC (AC Motor)",
+  "available_sizes": [
+    "24 inch",
+    "36 inch"
+  ],
+  "motor_and_efficiency": {
+    "motor_type": "Powerful AC motor",
+    "energy_efficient": true,
+    "bearing_type": "Double Ball Bearing",
+    "inverter_compatible": true,
+    "noise_level": "Noiseless operation"
+  },
+  "design_and_build": {
+    "design_style": "Clean, sophisticated design with stylish trims",
+    "blade_design": "5-blade design for better air circulation",
+    "finish": "Premium paint finish with decorative trims",
+    "color_variants": [
+      "Choco Brown",
+      "Stone White",
+      "Smoke Brown"
+    ]
+  },
+  "performance": {
+    "speed_rpm": 850,
+    "power_input": {
+      "voltage": "65V",
+      "frequency": "15Hz"
+    },
+    "air_delivery": {
+      "value": 230,
+      "unit": "CMM"
+    },
+    "sweep": {
+      "value": 600,
+      "unit": "mm"
+    }
+  },
+  "key_features": [
+    "Ultra high speed",
+    "Clean sophisticated design",
+    "Amazingly efficient",
+    "Better air circulation",
+    "Elegant design with stylish trims",
+    "Double ball bearing for longer life",
+    "Noiseless operation",
+    "Power saving"
+  ],
+  "certifications_and_origin": {
+    "manufacturing_origin": null
+  },
+  "warranty": {
+    "duration": 2,
+    "unit": "Years"
+  }
+}

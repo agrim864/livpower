@@ -1,0 +1,28 @@
+{
+  "product_name": "Delight DL12120 (12V12AH)",
+  "product_type": "Sealed lead-acid battery (non-spillable)",
+  "model": "DL12120(12V12AH)",
+  "rating_label_on_product": "12V 12Ah / 20HR",
+  "features": [
+    "Maintenance free (no water topping-up required)",
+    "No free acid (non-spillable battery)",
+    "Can be used in any orientation (excluding used inverted)",
+    "Designed for heavy duty cyclic application",
+    "Low self-discharge rate (lower than 3% capacity loss per month)"
+  ],
+  "applications_listed": ["UPS", "Toy-Cars", "Power Packs", "Fishing Lights"],
+  "charging_characteristics_shown_in_table": {
+    "standby_use": {
+      "voltage_regulation": "13.70–13.90V",
+      "initial_current": "Less than 3.60A"
+    },
+    "cycle_use": {
+      "voltage_regulation": "14.60–14.80V",
+      "initial_current": "Less than 3.60A"
+    },
+    "note": "Table shown on the brochure page with the product image."
+  },
+  "quality_claims_on_page": ["Extremely durable", "High performance", "Long cycle life"],
+  "source_pdf": "Delight Solar Brochure_Web (2).pdf",
+  "source_pages": [9]
+}

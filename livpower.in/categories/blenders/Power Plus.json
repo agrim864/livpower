@@ -1,0 +1,32 @@
+{
+  "product_name": "POWER PLUS",
+  "product_type": "Mixer Grinder / Blender",
+  "power_output": {
+    "wattage": 400,
+    "unit": "Watts"
+  },
+  "jar_details": {
+    "jar_material": "Polycarbonate",
+    "jar_capacity_liters": 1.25,
+    "jar_features": [
+      "Heavy Duty Jars",
+      "Finest Quality Stainless Steel Jar Set"
+    ]
+  },
+  "control_features": {
+    "speed_settings": 3,
+    "control_type": "Rotary Switch",
+    "pulse_function": true
+  },
+  "motor": {
+    "winding": "100% Copper",
+    "motor_type": "Pure Copper Winding Motor"
+  },
+  "warranty": {
+    "duration_months": 12
+  },
+  "packaging": {
+    "units_per_master_pack": 24
+  },
+  "brand": "Livpower"
+}

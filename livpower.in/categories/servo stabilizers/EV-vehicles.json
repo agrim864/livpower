@@ -1,0 +1,219 @@
+{
+  "product_type": "Servo Voltage Stabilizer",
+  "brand": "Livpower",
+  "application": [
+    "Electric Vehicles"
+  ],
+  "technology": "Digital Servo Voltage Stabilizer",
+  "cooling_types": ["Air Cooled", "Oil Cooled"],
+  "phases_supported": ["Single Phase", "Three Phase"],
+
+  "air_cooled": {
+    "single_phase": [
+      {
+        "rating_kva": 2,
+        "input_voltage_ranges": {
+          "160-260V": 15500,
+          "140-260V": 17700,
+          "90-260V": 20900
+        }
+      },
+      {
+        "rating_kva": 3,
+        "input_voltage_ranges": {
+          "160-260V": 18000,
+          "140-260V": 19250,
+          "90-260V": 24800
+        }
+      },
+      {
+        "rating_kva": 5,
+        "input_voltage_ranges": {
+          "160-260V": 21200,
+          "140-260V": 23100,
+          "90-260V": 34100
+        }
+      },
+      {
+        "rating_kva": 7.5,
+        "input_voltage_ranges": {
+          "160-260V": 35500,
+          "140-260V": 37200,
+          "90-260V": 50500
+        }
+      },
+      {
+        "rating_kva": 10,
+        "input_voltage_ranges": {
+          "160-260V": 42000,
+          "140-260V": 43250,
+          "90-260V": 66800
+        }
+      },
+      {
+        "rating_kva": 15,
+        "input_voltage_ranges": {
+          "160-260V": 54300,
+          "140-260V": 58500
+        }
+      }
+    ],
+
+    "three_phase": [
+      {
+        "rating_kva": 6,
+        "input_voltage_ranges": {
+          "340-460V": 41500,
+          "300-460V": 43100,
+          "250-460V": 47100
+        }
+      },
+      {
+        "rating_kva": 10,
+        "input_voltage_ranges": {
+          "340-460V": 61000,
+          "300-460V": 67400,
+          "250-460V": 68500
+        }
+      },
+      {
+        "rating_kva": 15,
+        "input_voltage_ranges": {
+          "340-460V": 63500,
+          "300-460V": 68300,
+          "250-460V": 73100
+        }
+      },
+      {
+        "rating_kva": 20,
+        "input_voltage_ranges": {
+          "340-460V": 73000,
+          "300-460V": 82000,
+          "250-460V": 87200
+        }
+      },
+      {
+        "rating_kva": 25,
+        "input_voltage_ranges": {
+          "340-460V": 84300,
+          "300-460V": 94400,
+          "250-460V": 130800
+        }
+      },
+      {
+        "rating_kva": 30,
+        "input_voltage_ranges": {
+          "340-460V": 102500,
+          "300-460V": 123900,
+          "250-460V": 132100
+        }
+      }
+    ]
+  },
+
+  "oil_cooled": {
+    "single_phase": [
+      {
+        "rating_kva": 10,
+        "prices": {
+          "160-260V": { "price": 46200, "oil_liters": 50 },
+          "140-260V": { "price": 48200, "oil_liters": 50 },
+          "90-260V": { "price": 67100, "oil_liters": 50 }
+        }
+      },
+      {
+        "rating_kva": 15,
+        "prices": {
+          "160-260V": { "price": 61500, "oil_liters": 50 },
+          "140-260V": { "price": 65700, "oil_liters": 50 },
+          "90-260V": { "price": 84900, "oil_liters": 60 }
+        }
+      },
+      {
+        "rating_kva": 20,
+        "prices": {
+          "160-260V": { "price": 84200, "oil_liters": 50 },
+          "140-260V": { "price": 92500, "oil_liters": 50 },
+          "90-260V": { "price": 110800, "oil_liters": 60 }
+        }
+      },
+      {
+        "rating_kva": 25,
+        "prices": {
+          "160-260V": { "price": 97600, "oil_liters": 80 },
+          "140-260V": { "price": 105480, "oil_liters": 80 },
+          "90-260V": { "price": 123300, "oil_liters": 80 }
+        }
+      },
+      {
+        "rating_kva": 30,
+        "prices": {
+          "160-260V": { "price": 109200, "oil_liters": 200 },
+          "140-260V": { "price": 118300, "oil_liters": 200 },
+          "90-260V": { "price": 135900, "oil_liters": 200 }
+        }
+      }
+    ],
+
+    "three_phase": [
+      {
+        "rating_kva": 10,
+        "prices": {
+          "300-460V": { "price": 57800, "oil_liters": 60 },
+          "250-460V": { "price": 62900, "oil_liters": 60 },
+          "150-460V": { "price": 93700, "oil_liters": 80 }
+        }
+      },
+      {
+        "rating_kva": 15,
+        "prices": {
+          "300-460V": { "price": 65900, "oil_liters": 60 },
+          "250-460V": { "price": 71200, "oil_liters": 60 },
+          "150-460V": { "price": 102700, "oil_liters": 80 }
+        }
+      },
+      {
+        "rating_kva": 20,
+        "prices": {
+          "300-460V": { "price": 87200, "oil_liters": 80 },
+          "250-460V": { "price": 92300, "oil_liters": 80 },
+          "150-460V": { "price": 120700, "oil_liters": 80 }
+        }
+      },
+      {
+        "rating_kva": 25,
+        "prices": {
+          "300-460V": { "price": 99800, "oil_liters": 80 },
+          "250-460V": { "price": 103200, "oil_liters": 80 },
+          "150-460V": { "price": 154900, "oil_liters": 80 }
+        }
+      },
+      {
+        "rating_kva": 30,
+        "prices": {
+          "300-460V": { "price": 117500, "oil_liters": 100 },
+          "250-460V": { "price": 124500, "oil_liters": 100 },
+          "150-460V": { "price": 187500, "oil_liters": 120 }
+        }
+      },
+      {
+        "rating_kva": 400,
+        "prices": {
+          "300-460V": { "price": 699200, "oil_liters": 1000 }
+        }
+      },
+      {
+        "rating_kva": 500,
+        "prices": {
+          "300-460V": { "price": 825900, "oil_liters": 1100 }
+        }
+      }
+    ]
+  },
+
+  "notes": [
+    "Prices are indicative",
+    "High KVA models available on request",
+    "Designed for stable output and surge protection"
+  ]
+}

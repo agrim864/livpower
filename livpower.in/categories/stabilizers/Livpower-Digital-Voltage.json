@@ -1,0 +1,29 @@
+{
+  "source_document": "Voltage Stabilizer Price List 2025.pdf",
+  "product_category": "Voltage Stabilizer",
+  "brand": "Livpower",
+  "common_features": {
+    "core_technology": {
+      "control_system": "Digital stabilizer control",
+      "controller": "Microprocessor IC based (Japanese technology)"
+    },
+    "protection_and_safety": [
+      "High voltage cut-off",
+      "Low voltage cut-off",
+      "Overload protection",
+      "Overheat protection",
+      "Spike protection",
+      "Surge protection"
+    ],
+    "smart_functions": [
+      "Intelligent time delay system (safe start / compressor protection use-case)",
+      "Automatic voltage correction/stabilization"
+    ],
+    "indication_and_user_interface": [
+      "Digital display / digital meter for voltage indication"
+    ],
+    "build_and_quality": [
+      "Designed for home appliance voltage fluctuation protection"
+    ]
+  }
+}
