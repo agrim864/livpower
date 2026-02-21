@@ -260,7 +260,8 @@ footer.footer a:hover{
   filter: brightness(0) saturate(100%) invert(33%) sepia(61%) saturate(476%) hue-rotate(86deg) brightness(95%) contrast(92%) !important;
 }
 </style>
-
+<link rel="stylesheet" href="../mobile-fixes.css?v=3" />
+<script defer src="../mobile-fixes.js?v=1"></script>
 </head>
 
 <style>
@@ -1008,7 +1009,7 @@ $(document).ready(function(){
     nextArrow: '<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button"><i class="fa-solid fa-arrow-right"></i></button>',
     responsive: [
       { breakpoint: 991, settings: { slidesToShow: 1, centerPadding: '0px' } },
-      { breakpoint: 767, settings: { arrows: false, slidesToShow: 1, centerPadding: '0px' } }
+      { breakpoint: 767, settings: { arrows: true, slidesToShow: 1, centerPadding: '0px' } }
     ]
   });
 });

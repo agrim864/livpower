@@ -82,7 +82,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 
 <!-- Google font Second -->
-
+<link rel="stylesheet" href="../mobile-fixes.css?v=3" />
+<script defer src="../mobile-fixes.js?v=1"></script>
 </head>
 <style>
     .item-brands img{
@@ -1661,7 +1662,7 @@ $(document).on('click', '.close-menu', function(){
             {
                 breakpoint: 767,
                 settings: {
-                    arrows: false,
+                    arrows: true,
                     slidesToShow: 1,
                     centerPadding: '0px'  // Adjust padding to fit the slide properly
                 }

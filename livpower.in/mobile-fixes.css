@@ -1,0 +1,671 @@
+/* Global mobile responsiveness fixes for Liv Power mirror */
+html,
+body {
+  max-width: 100%;
+}
+
+img,
+svg,
+video,
+canvas,
+iframe {
+  max-width: 100%;
+  height: auto;
+}
+
+body.page-template-templatecontact-php .skip-link,
+body.page-template-templatecontact-php .skip-link.screen-reader-text {
+  display: none !important;
+}
+
+@media (max-width: 991px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
+
+  body {
+    font-size: 15px;
+    line-height: 1.5;
+  }
+
+  .container,
+  .container-fluid {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+  }
+
+  .row {
+    margin-left: -8px !important;
+    margin-right: -8px !important;
+  }
+
+  .row > [class*="col-"] {
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+  }
+
+  header .container {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+  }
+
+  .site-logo img,
+  .site-logo-scroll img,
+  .logo img {
+    max-width: 180px !important;
+    height: auto !important;
+  }
+
+  #menu-menu-1 {
+    width: min(90vw, 360px) !important;
+    max-width: 90vw !important;
+    height: 100vh !important;
+    overflow-y: auto !important;
+    padding: 18px 14px 26px !important;
+  }
+
+  #menu-menu-1 .menu-item {
+    display: block !important;
+    width: 100% !important;
+    margin: 0 0 8px !important;
+  }
+
+  #menu-menu-1 .menu-item a {
+    display: block !important;
+    padding: 10px 12px !important;
+    line-height: 1.35 !important;
+    white-space: normal !important;
+  }
+
+  .menu-toggle {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    min-width: 42px;
+    min-height: 36px;
+    cursor: pointer;
+  }
+
+  .menu-toggle i {
+    font-size: 22px !important;
+  }
+
+  header,
+  header .container,
+  header .row,
+  header [class*="col-"],
+  header .inner-menu {
+    position: relative;
+    overflow: visible !important;
+  }
+
+  .menu-toggle.mobile-togle {
+    position: relative;
+    width: 42px;
+    height: 36px;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.45);
+    background: rgba(20, 83, 45, 0.95);
+    color: #ffffff !important;
+    z-index: 1000002;
+  }
+
+  .menu-toggle.mobile-togle i {
+    display: none !important;
+  }
+
+  .menu-toggle.mobile-togle::before {
+    content: "";
+    width: 18px;
+    height: 2px;
+    background: currentColor;
+    box-shadow: 0 -6px 0 currentColor, 0 6px 0 currentColor;
+  }
+
+  #menu-menu-1 {
+    position: absolute !important;
+    top: calc(100% + 8px) !important;
+    right: 0 !important;
+    left: auto !important;
+    width: min(78vw, 260px) !important;
+    max-width: 260px !important;
+    max-height: none !important;
+    height: auto !important;
+    padding: 8px !important;
+    border-radius: 12px !important;
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;
+    background: #0f2f20 !important;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.35) !important;
+    overflow-y: hidden !important;
+    display: none !important;
+    z-index: 1000001 !important;
+    scrollbar-width: none !important;
+  }
+
+  #menu-menu-1::-webkit-scrollbar {
+    width: 0 !important;
+    height: 0 !important;
+    display: none !important;
+  }
+
+  #menu-menu-1.active-filter {
+    position: absolute !important;
+    left: auto !important;
+    right: 0 !important;
+    display: block !important;
+    border-radius: 12px !important;
+  }
+
+  #menu-menu-1 .menu-item a {
+    background: rgba(255, 255, 255, 0.06) !important;
+    color: #ffffff !important;
+  }
+
+  #menu-menu-1 .close-menu {
+    color: #ffffff !important;
+  }
+
+  .find-job {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 8px !important;
+    width: 100% !important;
+    margin-top: 10px !important;
+  }
+
+  .find-job a,
+  .contact-btn,
+  .page-link,
+  .btn,
+  .wp-block-button__link,
+  .wpcf7-submit {
+    display: block !important;
+    width: 100% !important;
+    text-align: center !important;
+    margin-left: 0 !important;
+  }
+
+  h1 {
+    font-size: clamp(1.6rem, 7.2vw, 2.2rem) !important;
+    line-height: 1.2 !important;
+  }
+
+  h2 {
+    font-size: clamp(1.35rem, 6vw, 1.9rem) !important;
+    line-height: 1.25 !important;
+  }
+
+  h3 {
+    font-size: clamp(1.15rem, 5.2vw, 1.5rem) !important;
+    line-height: 1.3 !important;
+  }
+
+  p,
+  li,
+  a,
+  button,
+  input,
+  select,
+  textarea {
+    font-size: clamp(0.95rem, 3.6vw, 1rem);
+  }
+
+  .home-banner img,
+  .inner-banner img,
+  .banner img,
+  .hero img,
+  .slick-slide img,
+  [class*="slider"] img,
+  [class*="carousel"] img {
+    width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+  }
+
+  .slick-track {
+    display: flex !important;
+  }
+
+  .slick-slide {
+    height: auto !important;
+  }
+
+  .footer-main,
+  .footer-container,
+  .footer-links {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 16px;
+  }
+
+  .footer-main > [class*="col-"],
+  .footer-container > [class*="col-"],
+  .footer-links > [class*="col-"] {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  form input,
+  form select,
+  form textarea {
+    width: 100% !important;
+  }
+
+  table {
+    display: block !important;
+    max-width: 100% !important;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+@media (max-width: 575px) {
+  header,
+  header .container,
+  header .row,
+  header [class*="col-"],
+  header .inner-menu {
+    position: relative;
+    overflow: visible !important;
+  }
+
+  .menu-toggle.mobile-togle {
+    position: relative;
+    width: 42px;
+    height: 36px;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.45);
+    background: rgba(20, 83, 45, 0.95);
+    color: #ffffff !important;
+    z-index: 1000002;
+  }
+
+  .menu-toggle.mobile-togle i {
+    display: none !important;
+  }
+
+  .menu-toggle.mobile-togle::before {
+    content: "";
+    width: 18px;
+    height: 2px;
+    background: currentColor;
+    box-shadow: 0 -6px 0 currentColor, 0 6px 0 currentColor;
+  }
+
+  #menu-menu-1 {
+    position: absolute !important;
+    top: calc(100% + 8px) !important;
+    right: 0 !important;
+    left: auto !important;
+    width: min(76vw, 250px) !important;
+    max-height: none !important;
+    height: auto !important;
+    padding: 8px !important;
+    border-radius: 12px !important;
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;
+    background: #0f2f20 !important;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.35) !important;
+    overflow-y: hidden !important;
+    display: none !important;
+    z-index: 1000001 !important;
+  }
+
+  #menu-menu-1::-webkit-scrollbar {
+    width: 0 !important;
+    height: 0 !important;
+    display: none !important;
+  }
+
+  #menu-menu-1.active-filter {
+    left: auto !important;
+    right: 0 !important;
+    display: block !important;
+  }
+
+  #menu-menu-1 .close-menu {
+    border: 0;
+    background: transparent;
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 1;
+    margin-left: auto;
+    margin-bottom: 8px;
+    display: block;
+  }
+
+  #menu-menu-1 .menu-item {
+    margin-bottom: 6px !important;
+  }
+
+  #menu-menu-1 .menu-item a {
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.06);
+    padding: 9px 10px !important;
+    font-size: 14px !important;
+  }
+
+  body.page-template-templatecontact-php #content,
+  body.page-template-templatecontact-php .lp-page,
+  body.page-template-templatecontact-php .lp-top,
+  body.page-template-templatecontact-php .lp-shell,
+  body.page-template-templatecontact-php .lp-visit,
+  body.page-template-templatecontact-php .lp-faq {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+
+  body.page-template-templatecontact-php .lp-page {
+    padding-top: 14px !important;
+  }
+
+  body.page-template-templatecontact-php .lp-top {
+    margin-top: 8px !important;
+  }
+
+  body.page-template-templatecontact-php .lp-quick-row,
+  body.page-template-templatecontact-php .lp-visit-grid,
+  body.page-template-templatecontact-php .lp-bulk-grid,
+  body.page-template-templatecontact-php .lp-form {
+    grid-template-columns: 1fr !important;
+  }
+
+  body.page-template-templatecontact-php .lp-map {
+    min-height: 260px !important;
+  }
+
+  .container,
+  .container-fluid {
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+  }
+
+  .site-logo img,
+  .site-logo-scroll img,
+  .logo img {
+    max-width: 150px !important;
+  }
+
+  .find-job a,
+  .contact-btn,
+  .page-link,
+  .btn {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .our-clients {
+    padding-top: 22px !important;
+    padding-bottom: 20px !important;
+  }
+
+  .our-clients .clients {
+    padding-left: 4px !important;
+    padding-right: 4px !important;
+  }
+
+  .our-clients .clients-slide .slick-list {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .our-clients .clients-item {
+    padding: 0 4px !important;
+  }
+
+  .our-clients .clients-item .clients-detail {
+    padding: 14px !important;
+    min-height: 0 !important;
+    height: auto !important;
+  }
+
+  .our-clients .clients-detail ul {
+    margin: 0 0 8px !important;
+    padding: 0 !important;
+    gap: 3px;
+  }
+
+  .our-clients .clients-detail p {
+    margin-bottom: 10px !important;
+    font-size: 14px !important;
+    line-height: 1.5 !important;
+    text-align: left !important;
+  }
+
+  .our-clients .clients-detail h3 {
+    margin: 0 !important;
+    font-size: 15px !important;
+    line-height: 1.3 !important;
+  }
+
+  .our-clients .clients-img img {
+    width: 44px !important;
+    height: 44px !important;
+    border-radius: 999px !important;
+    object-fit: cover !important;
+  }
+
+  .faq {
+    padding-top: 20px !important;
+    padding-bottom: 24px !important;
+  }
+
+  .faq .row {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  .faq .left-faq-title h2 {
+    font-size: clamp(1.4rem, 6vw, 1.8rem) !important;
+    margin-bottom: 10px !important;
+  }
+
+  .faq .faq-list ul {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .faq .faq-list li {
+    margin-bottom: 10px !important;
+    border-radius: 12px !important;
+    overflow: hidden !important;
+    background: #ffffff !important;
+    border: 1px solid rgba(20, 83, 45, 0.12) !important;
+  }
+
+  .faq .faq-list a {
+    position: relative;
+    display: block !important;
+    padding: 12px 40px 12px 12px !important;
+    font-size: 14px !important;
+    line-height: 1.45 !important;
+  }
+
+  .faq .faq-list a i {
+    position: absolute !important;
+    right: 12px !important;
+    top: 50% !important;
+    transform: translateY(-50%);
+    margin: 0 !important;
+  }
+
+  .faq .faq-list .collapse p,
+  .faq .faq-list .collapsing p {
+    margin: 0 !important;
+    padding: 0 12px 12px !important;
+    font-size: 13px !important;
+    line-height: 1.55 !important;
+  }
+
+  .our-clients .slick-prev,
+  .our-clients .slick-next {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    width: 32px !important;
+    height: 32px !important;
+    border-radius: 999px !important;
+    border: 1px solid #16a34a !important;
+    background: #16a34a !important;
+    color: #ffffff !important;
+    z-index: 30 !important;
+    top: 10px !important;
+    transform: none !important;
+  }
+
+  .our-clients .slick-prev {
+    left: auto !important;
+    right: 42px !important;
+  }
+
+  .our-clients .slick-next {
+    right: 6px !important;
+  }
+
+  .our-clients .slick-prev::before,
+  .our-clients .slick-next::before {
+    display: none !important;
+  }
+
+  .our-clients .slick-prev i,
+  .our-clients .slick-next i {
+    display: block !important;
+    font-size: 12px !important;
+    color: #ffffff !important;
+    line-height: 1;
+  }
+}
+
+@media (max-width: 991px) {
+  html body #menu-menu-1,
+  html body #wrapper #menu-menu-1 {
+    position: absolute !important;
+    top: calc(100% + 8px) !important;
+    right: 0 !important;
+    left: auto !important;
+    width: min(78vw, 260px) !important;
+    max-width: 260px !important;
+    height: auto !important;
+    max-height: none !important;
+    overflow-y: hidden !important;
+    background: #0f2f20 !important;
+    border-radius: 12px !important;
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.35) !important;
+    display: none !important;
+    z-index: 1000001 !important;
+    scrollbar-width: none !important;
+  }
+
+  html body #menu-menu-1::-webkit-scrollbar,
+  html body #wrapper #menu-menu-1::-webkit-scrollbar {
+    width: 0 !important;
+    height: 0 !important;
+    display: none !important;
+  }
+
+  html body #menu-menu-1.active-filter,
+  html body #wrapper #menu-menu-1.active-filter {
+    position: absolute !important;
+    left: auto !important;
+    right: 0 !important;
+    display: block !important;
+  }
+
+  html body #menu-menu-1 .menu-item a,
+  html body #wrapper #menu-menu-1 .menu-item a {
+    color: #ffffff !important;
+    background: rgba(255, 255, 255, 0.06) !important;
+  }
+}
+
+@media (max-width: 991px) {
+  /* Final high-priority mobile menu override */
+  html body #menu-menu-1,
+  html body #wrapper #menu-menu-1 {
+    position: fixed !important;
+    top: 70px !important;
+    right: 10px !important;
+    left: auto !important;
+    bottom: auto !important;
+    width: min(74vw, 240px) !important;
+    max-width: 240px !important;
+    height: auto !important;
+    max-height: none !important;
+    padding: 8px !important;
+    background: #0f2f20 !important;
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;
+    border-radius: 12px !important;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.35) !important;
+    overflow-y: hidden !important;
+    display: none !important;
+    z-index: 2147483000 !important;
+    scrollbar-width: none !important;
+  }
+
+  html body #menu-menu-1.active-filter,
+  html body #wrapper #menu-menu-1.active-filter {
+    display: block !important;
+    left: auto !important;
+    right: 10px !important;
+  }
+
+  html body #menu-menu-1,
+  html body #wrapper #menu-menu-1,
+  html body #menu-menu-1 ul,
+  html body #wrapper #menu-menu-1 ul {
+    background-color: #0f2f20 !important;
+  }
+
+  html body #menu-menu-1 .menu-item a,
+  html body #wrapper #menu-menu-1 .menu-item a {
+    color: #ffffff !important;
+    background: rgba(255, 255, 255, 0.06) !important;
+    border-radius: 8px !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .our-clients .clients-slide {
+    position: relative !important;
+    padding-bottom: 50px !important;
+  }
+
+  .our-clients .slick-prev,
+  .our-clients .slick-next {
+    top: auto !important;
+    bottom: 0 !important;
+    width: 34px !important;
+    height: 34px !important;
+    background: #16a34a !important;
+    border: 1px solid #16a34a !important;
+    color: #ffffff !important;
+    border-radius: 999px !important;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    z-index: 40 !important;
+  }
+
+  .our-clients .slick-prev {
+    left: calc(50% - 42px) !important;
+    right: auto !important;
+  }
+
+  .our-clients .slick-next {
+    left: calc(50% + 8px) !important;
+    right: auto !important;
+  }
+
+  .our-clients .slick-prev i,
+  .our-clients .slick-next i {
+    color: #ffffff !important;
+    font-size: 12px !important;
+    display: block !important;
+  }
+}
