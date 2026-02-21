@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en-US" itemscope itemtype="https://schema.org/WebPage">
 
@@ -21,7 +20,6 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 
 <link rel='stylesheet' id='sbi_styles-css' href='wp-content/plugins/instagram-feed/css/sbi-styles.min4d80.css?ver=6.9.1' type='text/css' media='all' />
 <style id='wp-emoji-styles-inline-css' type='text/css'>
-
 	img.wp-smiley, img.emoji {
 		display: inline !important;
 		border: none !important;
@@ -71,242 +69,511 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 <link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-
 <link href="../cdn.jsdelivr.net/npm/boxicons%402.1.2/css/boxicons.min.css" rel="stylesheet">
-
 
 <!-- Google font -->
 <link rel="preconnect" href="https://fonts.googleapis.com/">
 <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
 
-
 <!-- Google font Second -->
 
 </head>
+
 <style>
-    .item-brands img{
-        max-height: 150px !important;
-    }
-    .brands {
-      padding-bottom: 10px !important;
-    }
-    .hero-video{
-        position: inherit !important;
-    }
-    .hero-video video{
-        width: 100%;
-    }
-.item-image{
-    margin-right: 10px;
-}
-.category-card{
-    text-decoration: none;
-}
-.shipping-item_detail:hover p {
-  color: #fff !important;
-}
-.shipping-item_detail:hover h3 {
-  color: #fff;
-}
-.shipping-item_detail:hover {
-  background: rgb(235, 105, 29);
-}
-.shipping-item_detail:hover img {
-  filter: brightness(0) invert(1);
-  transition: 0.3s ease;
-}
-/*============*/
+/* =========================================================
+   LivPower palette (Modern Emerald) - APPLY EVERYWHERE
+   ========================================================= */
+:root{
+  /* Background */
+  --lp-bg: #FFFFFF;      /* Base */
+  --lp-soft: #F2F8F5;    /* Soft Section */
 
+  /* Text */
+  --lp-text: #0B1F16;    /* Primary */
+  --lp-text-2: #2F5D4A;  /* Secondary */
+  --lp-muted: #6FA89A;   /* Muted */
 
-    .home-banner {
-  margin-top: 36px;
+  /* Primary */
+  --lp-primary: #16A34A; /* Emerald Green */
+
+  /* Secondary */
+  --lp-mint: #DCFCE7;    /* Soft Mint */
+
+  /* Accent */
+  --lp-accent: #14532D;  /* Deep Teal */
 }
 
-    .product-card .price{
-        display: none;
-    }
-    
-   
-    .item-slide-choose p{
-        min-height: 108px;
-        font-size: 16px !important;
-    }
-    .item-slide-choose{
-        padding: 20px !important;
-    }
-    .item-slide-choose h3{
-          
-          font-weight: 500 !important;
-          
-        }
-  .img-choos-icon img{
-    height: 112px;
-  }
-    .alert-upload span {
-  font-size: 12px;
-  font-weight: 300;
-  margin-left: 5px;
-  letter-spacing: 0.5px;
+/* Global defaults */
+html, body{
+  background: var(--lp-bg) !important;
+  color: var(--lp-text) !important;
 }
-    .float {
-  position: fixed;
-  width: 60px;
-  height: 60px;
-  bottom: 40px !important;
-  right: 40px;
-  background-color: #25d366;
-  color: #FFF;
-  border-radius: 50px;
-  text-align: center;
-  font-size: 30px;
-  box-shadow: 2px 2px 3px #999;
-  z-index: 100;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-decoration: none;
+p{ color: var(--lp-text-2); }
+small,.muted,.text-muted{ color: var(--lp-muted) !important; }
+a{ color: var(--lp-primary); }
+a:hover{ color: var(--lp-accent); }
+
+/* Focus rings (forms + accessibility) */
+:focus-visible{
+  outline: 3px solid rgba(22,163,74,0.35);
+  outline-offset: 2px;
 }
-.all-product .product-img img {
-  max-height: 270px;
-  width: 100%;
-  object-fit: cover;
+
+/* =========================================================
+   wp-emoji-styles-inline-css
+   ========================================================= */
+img.wp-smiley, img.emoji{
+  display:inline !important;
+  border:none !important;
+  box-shadow:none !important;
+  height:1em !important;
+  width:1em !important;
+  margin:0 0.07em !important;
+  vertical-align:-0.1em !important;
+  background:none !important;
+  padding:0 !important;
 }
+
+/* =========================================================
+   classic-theme-styles-inline-css (override to palette)
+   ========================================================= */
+.wp-block-button__link{
+  color:#fff !important;
+  background-color: var(--lp-primary) !important;
+  border-radius:9999px;
+  box-shadow:none;
+  text-decoration:none;
+}
+.wp-block-file__button{
+  background: var(--lp-primary) !important;
+  color:#fff !important;
+  text-decoration:none;
+}
+
+/* =========================================================
+   global-styles-inline-css (kept), then overridden below
+   ========================================================= */
+body{
+  --wp--preset--color--black: var(--lp-text);
+  --wp--preset--color--white: var(--lp-bg);
+  --wp--preset--color--cyan-bluish-gray: var(--lp-muted);
+  --wp--preset--color--vivid-green-cyan: var(--lp-primary);
+  --wp--preset--color--luminous-vivid-orange: var(--lp-primary);
+  --wp--preset--color--luminous-vivid-amber: var(--lp-mint);
+  --wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange:
+    linear-gradient(135deg, var(--lp-mint) 0%, var(--lp-primary) 100%);
+  --wp--preset--gradient--luminous-vivid-orange-to-vivid-red:
+    linear-gradient(135deg, var(--lp-primary) 0%, var(--lp-accent) 100%);
+}
+
+/* =========================================================
+   wp-custom-css
+   ========================================================= */
+.home-banner img{
+  width:100% !important;
+  max-height:500px;
+  object-fit:cover;
+}
+
+/* =========================================================
+   Existing inline custom styles (kept)
+   ========================================================= */
+.item-brands img{max-height:150px !important;}
+.brands{padding-bottom:10px !important;}
+.hero-video{position:inherit !important;}
+.hero-video video{width:100%;}
+.item-image{margin-right:10px;}
+.category-card{text-decoration:none;}
+
+.shipping-item_detail:hover p{color:#fff !important;}
+.shipping-item_detail:hover h3{color:#fff;}
+.shipping-item_detail:hover{background:var(--lp-primary);}
+.shipping-item_detail:hover img{filter:brightness(0) invert(1);transition:0.3s ease;}
+
+.home-banner{margin-top:36px;}
+.product-card .price{display:none;}
+
+.item-slide-choose p{min-height:108px;font-size:16px !important;}
+.item-slide-choose{padding:20px !important;}
+.item-slide-choose h3{font-weight:500 !important;}
+.img-choos-icon img{height:112px;}
+
+.alert-upload span{font-size:12px;font-weight:300;margin-left:5px;letter-spacing:0.5px;}
+
+.float{
+  position:fixed;
+  width:60px;
+  height:60px;
+  bottom:40px !important;
+  right:40px;
+  background-color: var(--lp-primary);
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
+  font-size:30px;
+  box-shadow:2px 2px 3px rgba(0,0,0,0.25);
+  z-index:100;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-decoration:none;
+}
+
+.all-product .product-img img{max-height:270px;width:100%;object-fit:cover;}
 
 @media (max-width:900px){
-    .coming-soon-content h2 {
-    font-weight: 600;
-    font-size: 24px;
-    line-height: 32px;
-}
-     .leadership-info h3 {
-  font-size: 14px;
-}
-.leadership-info p {
-  font-size: 8px;
-  text-shadow: 1px 1px 2px #000;
-}
-    .leadership-info{
-        opacity: 1;
-    }
+  .coming-soon-content h2{font-weight:600;font-size:24px;line-height:32px;}
+  .leadership-info h3{font-size:14px;}
+  .leadership-info p{font-size:8px;text-shadow:1px 1px 2px #000;}
+  .leadership-info{opacity:1;}
+  .text-section-info p{font-size:16PX !important;text-align:justify !important;}
+  .item-slide-choose p{height:inherit !important;}
 
-    .text-section-info p{
-        font-size: 16PX !important;
-        text-align: justify !important;
-    }
-.item-slide-choose p{
-height: inherit !important;
-}
+  .form-title h2{font-size:28px;font-weight:600;line-height:0px;}
+  .form-submit.text-center p span{position:absolute;bottom:9px;left:77%;}
 
-      .form-title h2 {
-  font-size: 28px;
-  font-weight: 600;
-  line-height: 0px;
-}
- .form-submit.text-center p span {
-    position: absolute;
-    bottom: 9px;
-    left: 77%;
+  #menu-menu-1{
+    position:fixed;
+    left:-200%;
+    transition:.3s all ease;
+    width:80%;
+    background-color: var(--lp-accent);
+    top:0;
+    border-radius:0 !important;
+    height:100%;
   }
-    #menu-menu-1 {
-        position: fixed;
-        left: -200%;
-        transition: .3s all ease;
-        width: 80%;
-        background-color: #000;
-        top: 0;
-         border-radius: 0 !important;
-         height: 100%;
-
-    }
-    .close-menu{
-        display: block;
-    }
-    #menu-menu-1.active-filter{
-        position: fixed;
-        left: 0%;
-        transition: .3s all ease;
-        border-radius: 20px 20px  0 0;
-    }
-    .menu-toggle i {
-  color: #fff;
-  font-size: 20px;
+  .close-menu{display:block;}
+  #menu-menu-1.active-filter{
+    position:fixed;
+    left:0%;
+    transition:.3s all ease;
+    border-radius:20px 20px 0 0;
+  }
+  .menu-toggle i{color:#fff;font-size:20px;}
+  .menu li a{color:#fff !important;}
+  .inner-menu{padding:8px 0px;}
+  .home-modal h2{font-size:50px !important;font-weight:400;line-height:35px !important;}
+  .home-modal h3{font-size:30px !important;}
 }
 
-.menu li a{
-    color: #fff !important;
+.site-logo img{transition:opacity 0.5s ease-in-out;}
+.site-logo img[src*="scrolled-logo"]{opacity:0;}
+.site-logo img[src*="default-logo"]{opacity:1;}
+.site-logo img{height:70px;width:80%;object-fit:contain;}
+
+.footer-container{display:flex;justify-content:center;align-items:center;}
+.footer-contact ul{margin-bottom:0px;}
+.footer-links{align-items:center !important;}
+
+.site-logo-scroll img{height:70px;width:80%;object-fit:contain;}
+
+.find-job a{
+  padding:8px 10px;
+  border:solid 1px var(--lp-mint);
+  border-radius:4px;
+  color:#fff;
+  text-decoration:none;
+  font-size:16px;
+  text-align:center;
+  font-weight:500;
+  line-height:18px;
+  letter-spacing:-2%;
+  background: var(--lp-primary);
+  display:inline-block;
+  margin-left:10px;
+}
+
+header{z-index:999999999999999999;}
+
+.brands{padding:40px 0px !important;}
+
+/* Hide cards after the 8th one */
+.category-wrapper .col-6:nth-child(n+9){display:none;}
+.category-wrapper .col-6.show{display:block;animation:smoothFadeIn 0.4s ease forwards;}
+@keyframes smoothFadeIn{
+  from{opacity:0;transform:translateY(20px);}
+  to{opacity:1;transform:translateY(0);}
+}
+.show-all.categories{text-align:center;margin-top:25px;}
+
+.show-all.categories a{
+  color: var(--lp-primary);
+  text-decoration:none;
+}
+
+.coming-soon-slider{position:relative;overflow:hidden;}
+.coming-soon-section{
+  background-size:cover;
+  background-position:center;
+  height:500px;
+  display:flex !important;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+  color:#fff;
+}
+
+.clients-img img{object-fit:cover;}
+
+.site-logo{padding:0px;}
+
+/* Soft section backgrounds */
+.brands,
+.instagram-section,
+.faq,
+.our-clients{
+  background: var(--lp-soft);
+}
+
+/* Headings default */
+h1,h2,h3,h4,h5{color: var(--lp-text);}
+
+/* =========================================================
+   HARD OVERRIDES: Make sure ALL components use the palette
+   ========================================================= */
+
+/* Header + nav */
+header{
+  background: var(--lp-accent) !important;
+  border-bottom: 1px solid rgba(255,255,255,0.12);
 }
 .inner-menu{
-    padding: 8px 0px;
+  background: var(--lp-accent) !important;
 }
-.home-modal h2 {
-  font-size: 50px !important;
-  font-weight: 400;
-  line-height: 35px !important;
+.navbar .menu a{
+  color: var(--lp-mint) !important;
 }
-.home-modal h3 {
-  font-size: 30px !important;
+.navbar .menu a:hover{
+  color: #fff !important;
 }
-
-
+.navbar .menu .current-menu-item > a{
+  color: #fff !important;
 }
 
-.site-logo img {
-    transition: opacity 0.5s ease-in-out;
+/* Cards: categories + testimonials */
+.category-card,
+.clients-item .clients-detail{
+  background: var(--lp-bg) !important;
+  border: 1px solid rgba(20,83,45,0.10);
+  border-radius: 14px;
+}
+.category-card:hover{
+  border-color: rgba(22,163,74,0.45);
+  box-shadow: 0 8px 24px rgba(11,31,22,0.08);
+}
+.category-title{ color: var(--lp-text) !important; }
+.category-subtext{ color: var(--lp-muted) !important; }
+
+/* Section titles look consistent */
+.section-title_hc h2,
+.brands-title h2,
+.our-clients-title h2,
+.instagram-section h4,
+.left-faq-title h2,
+.form-title h2{
+  color: var(--lp-text) !important;
 }
 
-.site-logo img[src*="scrolled-logo"] {
-    opacity: 0;
+/* Hero banner highlight */
+.banner-position{
+  background: rgba(22,163,74,0.22);
+  backdrop-filter: blur(2px);
+  opacity: 1 !important;
 }
-
-.site-logo img[src*="default-logo"] {
-    opacity: 1;
-}
-.site-logo img {
- height: 70px;
-  width: 80%;
-  object-fit: contain;
-}
-.footer-container{
-    display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.footer-contact ul{
-    margin-bottom: 0px;
-}
-.footer-links{
-    align-items: center !important;
-}
-
-
-
- .site-logo-scroll img {
- height: 70px;
-  width: 80%;
-  object-fit: contain;
-}
-
-.find-job a {
-  padding: 8px 10px;
-  border: solid 1px #fff;
-  border-radius: 4px;
-  color: #fff;
-  text-decoration: none;
-  font-size: 16px;
-  text-align: center;
-  font-weight: 500;
-  line-height: 18px;
-  letter-spacing: -2%;
-  background: rgba(240, 90, 40, 1);
+.hero-content .text{
+  background: transparent !important;
+  color: #fff !important;
+  padding: 12px 18px;
+  border-radius: 12px;
   display: inline-block;
-  margin-left: 10px;
+  text-shadow: 0 6px 18px rgba(0,0,0,0.35);
+}
+.hero-content .text h2{
+  color: #fff !important;
+  margin: 0;
+  opacity: 1 !important;
 }
 
-header{
-    z-index: 999999999999999999;
+/* Buttons: force palette everywhere */
+button,
+.btn,
+input[type="submit"],
+.wpcf7-submit,
+.wp-block-button__link,
+.find-job a{
+  background: var(--lp-primary) !important;
+  border-color: var(--lp-primary) !important;
+  color: #fff !important;
+}
+
+/* Outline buttons */
+.btn-outline,
+.btn-outline-primary,
+.btn-outline-secondary{
+  background: transparent !important;
+  color: var(--lp-primary) !important;
+  border-color: var(--lp-primary) !important;
+}
+.btn-outline:hover,
+.btn-outline-primary:hover,
+.btn-outline-secondary:hover{
+  background: var(--lp-accent) !important;
+  color: #fff !important;
+  border-color: var(--lp-accent) !important;
+}
+button:hover,
+.btn:hover,
+input[type="submit"]:hover,
+.wpcf7-submit:hover,
+.wp-block-button__link:hover,
+.find-job a:hover{
+  background: var(--lp-accent) !important;
+  border-color: var(--lp-accent) !important;
+  color:#fff !important;
+}
+
+/* Contact form submit button (force same as Bulk Enquiries) */
+.reach-out .form-submit input[type="submit"],
+.reach-out .wpcf7-submit{
+  background: var(--lp-primary) !important;
+  border-color: var(--lp-primary) !important;
+  color: #fff !important;
+}
+.reach-out .form-submit input[type="submit"]:hover,
+.reach-out .wpcf7-submit:hover{
+  background: var(--lp-accent) !important;
+  border-color: var(--lp-accent) !important;
+}
+
+/* Contact form inputs */
+.form-control,
+.wpcf7-form-control{
+  background: var(--lp-bg) !important;
+  color: var(--lp-text) !important;
+  border: 1px solid rgba(20,83,45,0.18) !important;
+}
+.form-control::placeholder,
+.wpcf7-form-control::placeholder{
+  color: rgba(111,168,154,0.95) !important;
+}
+.form-control:focus,
+.wpcf7-form-control:focus{
+  border-color: rgba(22,163,74,0.6) !important;
+  box-shadow: 0 0 0 0.2rem rgba(22,163,74,0.18) !important;
+}
+
+/* FAQ accordion */
+.faq .faq-list a{
+  color: var(--lp-text) !important;
+}
+.faq .faq-list a:hover{
+  color: var(--lp-accent) !important;
+}
+.faq .faq-list .collapse,
+.faq .faq-list .collapsing{
+  background: var(--lp-bg) !important;
+  border-left: 3px solid var(--lp-mint);
+}
+.faq .faq-list p{
+  color: var(--lp-text-2) !important;
+}
+.faq .faq-list .icon-show,
+.faq .faq-list .icon-close{
+  color: var(--lp-primary) !important;
+}
+.faq .faq-list i.bx{
+  color: var(--lp-primary) !important;
+}
+.faq .faq-list a i{
+  color: var(--lp-primary) !important;
+}
+
+/* Coming soon overlay text (keep white, but ensure accent feel if needed) */
+.coming-soon-content p{
+  color: #fff !important;
+  letter-spacing: 0.08em;
+}
+.coming-soon-content h2{
+  color: #fff !important;
+  text-shadow: 0 8px 24px rgba(0,0,0,0.35);
+}
+
+/* Footer - force deep teal with mint accents */
+footer.footer{
+  background: var(--lp-accent) !important;
+  color: #fff !important;
+}
+footer.footer a{
+  color: var(--lp-mint) !important;
+}
+footer.footer a:hover{
+  color: #fff !important;
+}
+.footer-page-link p,
+.footer-page-link ul li a,
+#copyright{
+  color: rgba(255,255,255,0.92) !important;
+}
+.footer-page-link ul li a span{
+  color: rgba(255,255,255,0.45) !important;
+}
+
+/* Instagram section text */
+.instagram-section p{
+  color: var(--lp-text-2) !important;
+}
+
+/* WhatsApp floating button already set, make hover accent */
+.float:hover{
+  background: var(--lp-accent) !important;
+}
+
+/* Make "soft sections" clearly soft */
+.brands,
+.instagram-section,
+.faq,
+.our-clients{
+  background: var(--lp-soft) !important;
+}
+
+/* Ensure marquee area doesn't look off */
+.brands-marquee{
+  border-top: 1px solid rgba(20,83,45,0.10);
+  border-bottom: 1px solid rgba(20,83,45,0.10);
+}
+
+/* Slick arrows + dots (avoid any orange defaults) */
+.slick-prev,
+.slick-next{
+  background: var(--lp-primary) !important;
+  color: #fff !important;
+  border: 1px solid var(--lp-primary) !important;
+}
+.slick-prev:hover,
+.slick-next:hover{
+  background: var(--lp-accent) !important;
+  border-color: var(--lp-accent) !important;
+}
+.slick-dots li button:before{
+  color: var(--lp-primary) !important;
+  opacity: 0.55;
+}
+.slick-dots li.slick-active button:before{
+  color: var(--lp-accent) !important;
+  opacity: 1;
+}
+
+/* Mobile menu close button styling */
+.close-menu{
+  background: transparent !important;
+  border: none !important;
+  color: #fff !important;
+  font-size: 22px;
+  padding: 16px;
 }
 </style>
+
 <body class="home page-template page-template-template page-template-homepage page-template-templatehomepage-php page page-id-6 wp-embed-responsive">
 <a href="#content" class="skip-link screen-reader-text">Skip to the content</a><div id="wrapper" class="hfeed">
 <header>
@@ -328,15 +595,11 @@ header{
                         <div class="menu-menu-1-container"><ul id="menu-menu-1" class="menu"><li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-45"><a href="index.html" aria-current="page" itemprop="url">Home</a></li>
 <li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="about-us/index.html" itemprop="url">About us</a></li>
 <li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-366"><a href="categories/index.html" itemprop="url">Categories</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="blogs/index.html" itemprop="url">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="shop-with-us/index.html" itemprop="url">Shop With Us</a></li>
 <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="contact-us/index.html" itemprop="url">Contact us</a></li>
 </ul></div>                        
                     </nav>
-                    <div class="find-job">
-                      
-                      <a href="contact-us/index.html">  Bulk Enquiries</a>
-                    </div>
-                    <!-- <img src="< ?php echo get_stylesheet_directory_uri(); ?>/assets/img/liv-power/stash_question.svg" alt="" class="img-fluid">  -->
-                    
                     <div class="menu-toggle  mobile-togle">
                            <i class="fa-solid fa-bars"></i>
                         </div>
@@ -346,24 +609,8 @@ header{
     </div>
 </header>
 
-
-
-
-
-
-
-
-
-
    <script>
-  
    </script>
-<style>
-  .brands{
-    padding: 40px 0px !important;
-  }
-</style>
-
 
 <!-- ******************************************************************* -->
 
@@ -372,24 +619,10 @@ header{
             <source src="wp-content/themes/blankslate/assets/img/liv-power/banner-video.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video> 
-  <!-- <div class="image-banner" data-aos="fade-up">
-    <img src="https://livpower.in/wp-content/themes/blankslate/assets/img/liv-power/hero-banner.png" alt="">
-  </div> -->
 
-  <div class="banner-position">
-    <div class="container">
-      <div class="hero-content">
-        <div class="text" data-aos="fade-up">
-          <h2>SUPER DHAMAKA SALE <br>25% OFF</h2>
-        </div>
-        <div class="icon" data-aos="fade-up">
-          <img src="wp-content/themes/blankslate/assets/img/liv-power/circle.png" alt="">
-        </div>
-      </div>
-    </div>
-  </div>
-</section><!-- ================================================== -->
-<!-- ================================================== -->
+ 
+</section>
+
 <section class="brands pb-0" data-aos="fade-up">
   <div class="container">
     <div class="row justify-content-center">
@@ -459,8 +692,7 @@ header{
     </div>
   </div>
 </section>
-<!-- ================================================== -->
-<!-- ================================================== -->
+
 <section class="category-lest-card d-none" data-aos="fade-up">
   <div class="container">
     <div class="section-title_hc" data-aos="fade-up" data-aos-delay="100">
@@ -520,7 +752,7 @@ header{
             </div>
           </div>
         </div>
-              
+
               <div class="col-6 col-md-3" data-aos="fade-up" data-aos-delay="700">
           <div class="category-card">
             <div class="item-image">
@@ -547,22 +779,7 @@ header{
             </div>
           </div>
         </div>
-              <div class="col-6 col-md-3" data-aos="fade-up" data-aos-delay="900">
-          <div class="category-card">
-            <div class="item-image">
-              <img src="wp-content/themes/blankslate/assets/img/liv-power/item1.png" alt="Electric Kettle">
-            </div>
-            <div class="main-item">
-              <div class="item-name">
-                <div class="category-title">Electric Kettle</div>
-                <div class="category-subtext">1 Items</div>
-              </div>
-            </div>
-          </div>
-        </div>
-              
-              
-             
+
               <div class="col-6 col-md-3" data-aos="fade-up" data-aos-delay="1300">
           <div class="category-card">
             <div class="item-image">
@@ -576,7 +793,7 @@ header{
             </div>
           </div>
         </div>
-              
+
               <div class="col-6 col-md-3" data-aos="fade-up" data-aos-delay="1500">
           <div class="category-card">
             <div class="item-image">
@@ -616,16 +833,16 @@ header{
             </div>
           </div>
         </div>
-          </div>
+    </div>
 
     <div class="show-all categories" data-aos="fade-up" data-aos-delay="1800">
       <div class="flex">
         <a href="categories/index.html"><span>&#x25BC; More </span></a>
-        <!-- <a href="/categories" style="margin-left: 20px;"><span>Show All Categories</span></a> -->
       </div>
     </div>
   </div>
 </section>
+
 <section class="category-lest-card" data-aos="fade-up">
   <div class="container">
     <div class="section-title_hc" data-aos="fade-up" data-aos-delay="100">
@@ -633,160 +850,109 @@ header{
     </div>
 
     <div class="row g-3">
-                <div class="col-6 col-md-3" data-aos="fade-up" data-aos-delay="200">
-            <a href="power-that-protects-reliable-efficient-and-always-stable/index.html" class="category-card">
-              <div class="item-image">
-                <img src="wp-content/uploads/2025/10/eb752bc7849cccbe020b5589d6e703a5138dcda2-1-300x300.png" alt="Stabilizers">
-              </div>
-              <div class="main-item">
-                <div class="item-name">
-                  <div class="category-title">Stabilizers</div>
-                  <div class="category-subtext">click now</div>
-                </div>
-              </div>
-            </a>
+      <!-- CHANGED: col-md-3 -> col-md-4 to make 3 per row on desktop -->
+      <div class="col-6 col-md-4" data-aos="fade-up" data-aos-delay="200">
+        <a href="power-that-protects-reliable-efficient-and-always-stable/index.html" class="category-card">
+          <div class="item-image">
+            <img src="wp-content/uploads/2025/10/eb752bc7849cccbe020b5589d6e703a5138dcda2-1-300x300.png" alt="Stabilizers">
           </div>
-                <div class="col-6 col-md-3" data-aos="fade-up" data-aos-delay="300">
-            <a href="precision-power-for-every-device-reliable-smart-and-efficient/index.html" class="category-card">
-              <div class="item-image">
-                <img src="wp-content/uploads/2025/10/45eb58f9-aeba-4b5c-8a66-3691cba1b826-300x300.jpg" alt="Servo Stabilizers">
-              </div>
-              <div class="main-item">
-                <div class="item-name">
-                  <div class="category-title">Servo Stabilizers</div>
-                  <div class="category-subtext">click now</div>
-                </div>
-              </div>
-            </a>
+          <div class="main-item">
+            <div class="item-name">
+              <div class="category-title">Stabilizers</div>
+              <div class="category-subtext">click now</div>
+            </div>
           </div>
-                <div class="col-6 col-md-3" data-aos="fade-up" data-aos-delay="400">
-            <a href="sound-that-moves-you-clear-powerful-and-immersive/index.html" class="category-card">
-              <div class="item-image">
-                <img src="wp-content/uploads/2025/10/a2ac83dc18191951bc5c831f7accf4b3a1aa8010-1-300x300.png" alt="Speakers">
-              </div>
-              <div class="main-item">
-                <div class="item-name">
-                  <div class="category-title">Speakers</div>
-                  <div class="category-subtext">click now</div>
-                </div>
-              </div>
-            </a>
+        </a>
+      </div>
+
+      <div class="col-6 col-md-4" data-aos="fade-up" data-aos-delay="300">
+        <a href="precision-power-for-every-device-reliable-smart-and-efficient/index.html" class="category-card">
+          <div class="item-image">
+            <img src="wp-content/uploads/2025/10/45eb58f9-aeba-4b5c-8a66-3691cba1b826-300x300.jpg" alt="Servo Stabilizers">
           </div>
-                <div class="col-6 col-md-3" data-aos="fade-up" data-aos-delay="500">
-            <a href="picture-perfect-living-brilliant-smart-and-immersive/index.html" class="category-card">
-              <div class="item-image">
-                <img src="wp-content/uploads/2025/10/68ed2bb24223a8098b23a2589d1802b802d5d5db-1-300x300.png" alt="LED TV">
-              </div>
-              <div class="main-item">
-                <div class="item-name">
-                  <div class="category-title">LED TV</div>
-                  <div class="category-subtext">click now</div>
-                </div>
-              </div>
-            </a>
+          <div class="main-item">
+            <div class="item-name">
+              <div class="category-title">Servo Stabilizers</div>
+              <div class="category-subtext">click now</div>
+            </div>
           </div>
-                
-                <div class="col-6 col-md-3" data-aos="fade-up" data-aos-delay="700">
-            <a href="blend-it-better-powerful-versatile-and-easy-to-clean/index.html" class="category-card">
-              <div class="item-image">
-                <img src="wp-content/uploads/2025/10/istockphoto-1384863054-612x612-1-228x300.jpg" alt="Blenders">
-              </div>
-              <div class="main-item">
-                <div class="item-name">
-                  <div class="category-title">Blenders/Grinders</div>
-                  <div class="category-subtext">click now</div>
-                </div>
-              </div>
-            </a>
+        </a>
+      </div>
+
+      <div class="col-6 col-md-4" data-aos="fade-up" data-aos-delay="400">
+        <a href="sound-that-moves-you-clear-powerful-and-immersive/index.html" class="category-card">
+          <div class="item-image">
+            <img src="wp-content/uploads/2025/10/a2ac83dc18191951bc5c831f7accf4b3a1aa8010-1-300x300.png" alt="Speakers">
           </div>
-                <div class="col-6 col-md-3" data-aos="fade-up" data-aos-delay="800">
-            <a href="boil-in-style-fast-safe-and-energy-smart/index.html" class="category-card">
-              <div class="item-image">
-                <img src="wp-content/uploads/2025/10/fd7a17d5235702c258d6b97e2279844c8234957e-1-300x300.png" alt="Electric Kettle">
-              </div>
-              <div class="main-item">
-                <div class="item-name">
-                  <div class="category-title">Electric Kettle</div>
-                  <div class="category-subtext">click now</div>
-                </div>
-              </div>
-            </a>
+          <div class="main-item">
+            <div class="item-name">
+              <div class="category-title">Speakers</div>
+              <div class="category-subtext">click now</div>
+            </div>
           </div>
-                
-                
-                <div class="col-6 col-md-3" data-aos="fade-up" data-aos-delay="1100">
-            <a href="power-that-performs-efficient-durable-and-easy-to-use/index.html" class="category-card">
-              <div class="item-image">
-                <img src="wp-content/uploads/2025/10/cb8bc8a62f4c3ccf4e0c24c6b1079900346e81c5-1-238x300.png" alt="Grinders">
-              </div>
-              <div class="main-item">
-                <div class="item-name">
-                  <div class="category-title">Grinders</div>
-                  <div class="category-subtext">click now</div>
-                </div>
-              </div>
-            </a>
+        </a>
+      </div>
+
+      <div class="col-6 col-md-4" data-aos="fade-up" data-aos-delay="500">
+        <a href="picture-perfect-living-brilliant-smart-and-immersive/index.html" class="category-card">
+          <div class="item-image">
+            <img src="wp-content/uploads/2025/10/68ed2bb24223a8098b23a2589d1802b802d5d5db-1-300x300.png" alt="LED TV">
           </div>
-                <div class="col-6 col-md-3" data-aos="fade-up" data-aos-delay="1200">
-            <a href="cool-comfort-every-day-silent-stylish-and-efficient/index.html" class="category-card">
-              <div class="item-image">
-                <img src="wp-content/uploads/2025/10/WhatsApp-Image-2025-10-29-at-12.56.15-PM-1-300x300.jpg" alt="Fans">
-              </div>
-              <div class="main-item">
-                <div class="item-name">
-                  <div class="category-title">Fans</div>
-                  <div class="category-subtext">click now</div>
-                </div>
-              </div>
-            </a>
+          <div class="main-item">
+            <div class="item-name">
+              <div class="category-title">LED TV</div>
+              <div class="category-subtext">click now</div>
+            </div>
           </div>
-                
+        </a>
+      </div>
+
+      <div class="col-6 col-md-4" data-aos="fade-up" data-aos-delay="700">
+        <a href="blend-it-better-powerful-versatile-and-easy-to-clean/index.html" class="category-card">
+          <div class="item-image">
+            <img src="wp-content/uploads/2025/10/istockphoto-1384863054-612x612-1-228x300.jpg" alt="Blenders">
           </div>
+          <div class="main-item">
+            <div class="item-name">
+              <div class="category-title">Blenders/Grinders</div>
+              <div class="category-subtext">click now</div>
+            </div>
+          </div>
+        </a>
+      </div>
+
+      <div class="col-6 col-md-4" data-aos="fade-up" data-aos-delay="1200">
+        <a href="cool-comfort-every-day-silent-stylish-and-efficient/index.html" class="category-card">
+          <div class="item-image">
+            <img src="wp-content/uploads/2025/10/WhatsApp-Image-2025-10-29-at-12.56.15-PM-1-300x300.jpg" alt="Fans">
+          </div>
+          <div class="main-item">
+            <div class="item-name">
+              <div class="category-title">Fans</div>
+              <div class="category-subtext">click now</div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+
     <div class="show-all categories" data-aos="fade-up" data-aos-delay="1400">
       <div class="flex">
-        <a href="categories/index.html">View All</span></a>
-        <!-- <a href="/categories" style="margin-left: 20px;"><span>Show All Categories</span></a> -->
+        <a href="categories/index.html">View All</a>
       </div>
     </div>
   </div>
 </section>
- 
-<style>
-/* Hide cards after the 4th one */
-.category-wrapper .col-6:nth-child(n+9) {
-  display: none;
-}
-
-/* Animation for showing cards */
-.category-wrapper .col-6.show {
-  display: block;
-  animation: smoothFadeIn 0.4s ease forwards;
-}
-
-@keyframes smoothFadeIn {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
-/* Button styling */
-.show-all.categories {
-  text-align: center;
-  margin-top: 25px;
-}
-
-</style>
 
 <script>
 jQuery(document).ready(function($){
   let showingAll = false;
   const hiddenItems = $('.category-wrapper .col-6:nth-child(n+9)');
 
-  // Initially hide extra items
   hiddenItems.hide();
 
   $('#showAllBtn').on('click', function(){
     if (!showingAll) {
-      // Show all
       hiddenItems.each(function(i){
         $(this).delay(i * 100).queue(function(next){
           $(this).addClass('show').fadeIn(300);
@@ -796,7 +962,6 @@ jQuery(document).ready(function($){
       $(this).html('<span>&#x25B2; Less</span>');
       showingAll = true;
     } else {
-      // Hide extra again
       hiddenItems.removeClass('show').fadeOut(300);
       $(this).html('<span>&#x25BC; Show All</span>');
       showingAll = false;
@@ -805,21 +970,10 @@ jQuery(document).ready(function($){
 });
 </script>
 
-
-<style>
-  .show-all.categories a{
-    color: rgba(235, 105, 29, 1);
-    text-decoration: none;
-
-  }
-</style>
-<!-- ================================================== -->
-<!-- ================================================== -->
 <section class="product-section d-none">
   <div class="container" data-aos="fade-up">
     <h2 data-aos="fade-up">Perfect Collection For Your Every Need</h2>
 
-    <!-- Tabs -->
     <ul class="nav nav-tabs" id="productTabs" role="tablist" data-aos="fade-up" data-aos-delay="100">
       <li class="nav-item"><button class="nav-link active" data-bs-toggle="tab" data-bs-target="#speakers">Speakers</button></li>
       <li class="nav-item"><button class="nav-link" data-bs-toggle="tab" data-bs-target="#stabilizers">Stabilizers</button></li>
@@ -827,9 +981,7 @@ jQuery(document).ready(function($){
       <li class="nav-item"><button class="nav-link" data-bs-toggle="tab" data-bs-target="#ledtv">Led TV</button></li>
     </ul>
 
-    <!-- Tab Content -->
     <div class="tab-content" data-aos="fade-up" data-aos-delay="200">
-      <!-- Speakers Tab -->
       <div class="tab-pane fade show active" id="speakers">
         <div class="product-slider">
           <div class="product-card" data-aos="fade-up" data-aos-delay="100">
@@ -861,7 +1013,8 @@ jQuery(document).ready(function($){
                 <a href="#" class="btn enquiry"><i class="fa-brands fa-whatsapp"></i> Enquire Now</a>
                 <a href="#" class="btn bulk"><i class="fa-solid fa-arrow-right"></i> Bulk Enquiries</a>    
               </div>
-            </div>          </div>
+            </div>
+          </div>
 
           <div class="product-card" data-aos="fade-up" data-aos-delay="300">
              <div class="product-img">
@@ -916,30 +1069,8 @@ jQuery(document).ready(function($){
     </div>
   </div>
 </section>
-<!-- ================================================== -->
-<!-- ================================================== -->
 
-
-<style>
-  .coming-soon-slider {
-  position: relative;
-  overflow: hidden;
-}
-
-.coming-soon-section {
-  background-size: cover;
-  background-position: center;
-  height: 500px;
-  display: flex !important;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  color: #fff;
-}
-
-</style>
 <section class="coming-soon-slider">
-  <!-- Slide 1 -->
   <div class="coming-soon-section" style="background-image: url('wp-content/themes/blankslate/assets/img/liv-power/young-woman-using-home-technology.png');">
     <div class="coming-soon-content">
       <h2>Solar Inverters & Batteries</h2>
@@ -947,7 +1078,6 @@ jQuery(document).ready(function($){
     </div>
   </div>
 
-  <!-- Slide 2 -->
   <div class="coming-soon-section" style="background-image: url('wp-content/themes/blankslate/assets/img/liv-power/lit.jpg');">
     <div class="coming-soon-content">
       <h2>Lithium ion batteries </h2>
@@ -955,7 +1085,6 @@ jQuery(document).ready(function($){
     </div>
   </div>
 
-  <!-- Slide 3 -->
   <div class="coming-soon-section" style="background-image: url('wp-content/themes/blankslate/assets/img/liv-power/ro.webp');">
     <div class="coming-soon-content">
       <h2> RO water purifier </h2>
@@ -963,8 +1092,7 @@ jQuery(document).ready(function($){
     </div>
   </div>
 </section>
-<!-- ================================================== -->
-<!-- ================================================== -->
+
 <section class="our-clients">
   <div class="">
     <div class="row">
@@ -1056,21 +1184,13 @@ jQuery(document).ready(function($){
               </div>
             </div>
             
-
           </div>
         </div>
       </div>
     </div>
   </div>
 </section>
-<style>
-  .clients-img img{
-    object-fit: cover;
-  }
-</style>
-<!-- ================================================== -->
 
-<!-- ================================================== -->
 <section class="instagram-section">
   <div class="container" data-aos="fade-up">
     <h4 data-aos="fade-up" data-aos-delay="100">Connect on Instagram</h4>
@@ -1092,9 +1212,7 @@ jQuery(document).ready(function($){
     </div>
   </div>
 </section>
-<!-- ================================================== -->
 
-<!-- ================================================== -->
 <section id="faq" class="faq" data-aos="fade-up">
   <div class="container">
     <div class="row d-flex justify-content-center align-items-center">
@@ -1164,9 +1282,7 @@ jQuery(document).ready(function($){
     </div>
   </div>
 </section>
-<!-- ================================================== -->
 
-<!-- ================================================== -->
 <section id="contact" class="reach-out" style="
         text-align: left; 
         background-image: url('wp-content/themes/blankslate/assets/img/liv-power/bg-map1.png');
@@ -1230,14 +1346,8 @@ jQuery(document).ready(function($){
         </div>
     </div>
 </section>
-<!-- ********************************************************************** -->
 
 </div>
-<style>
-    .site-logo{
-        padding: 0px;
-    }
-</style>
 
 <footer id="footer" class="footer" role="contentinfo" data-aos="">
     <div class="container">
@@ -1251,10 +1361,8 @@ jQuery(document).ready(function($){
                     <div class="footer-contact">
                      <div class="footer-icon">
                         <ul>
-                            <!-- <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li> -->
                             <li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
                             <li><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
-                            <!-- <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li> -->
                         </ul>
                         </div>
                     </div>
@@ -1263,7 +1371,6 @@ jQuery(document).ready(function($){
 
             <div class="col-md-12" data-aos="" data-aos-delay="200">
                   <div class="footer-page-link">
-                            <!-- <p>Catalog</p> -->
                             <ul>
                                 <li><a href="index.html">Home <span>|</span></a></li>
                                 <li><a href="about-us/index.html">About <span>|</span></a></li>
@@ -1289,7 +1396,7 @@ for comfort and performance </p>
     </div>
 
 <div id="copyright" data-aos="" data-aos-delay="400">
-© 2025 Livpower | Developed by Digisparx Digital Solutions
+© 2025 Livpower 
 </div>
 
 <a href="https://wa.me/919355390355" class="float" target="_blank">
@@ -1298,12 +1405,11 @@ for comfort and performance </p>
 </footer>
 </div>
 
-
 <script src="wp-content/themes/blankslate/assets/js/jquery.min.js"></script>
 <script  src="wp-content/themes/blankslate/assets/js/bootstrap.bundle.min.js"></script>
 <script src="wp-content/themes/blankslate/assets/css/slick-1.8.1/slick/slick.min.js"></script>
 <script src="wp-content/themes/blankslate/assets/js/main.js"></script>
-<!-- AOS JS -->
+
 <script src="../cdn.jsdelivr.net/npm/aos%402.3.4/dist/aos.js"></script>
 <script>
 jQuery(document).ready(function($) {
@@ -1333,7 +1439,7 @@ $("html").addClass("opera");
 }
 });
 </script>
-<!-- Instagram Feed JS -->
+
 <script type="text/javascript">
 var sbiajaxurl = "wp-admin/admin-ajax.html";
 </script>
@@ -1366,30 +1472,19 @@ var hostinger_reach_subscription_block_data = {"endpoint":"https:\/\/livpower.in
 /* ]]> */
 </script>
 <script type="text/javascript" src="wp-content/plugins/hostinger-reach/frontend/dist/blocks/subscription-view79a5.js?ver=1764189803" id="hostinger-reach-subscription-block-view-js"></script>
+
 <script>
-
-
-
 $('.mobile-togle').click(function(){
     $('#menu-menu-1').append('<button class="close-menu"><i class="fa-solid fa-xmark"></i></button>');
     $('#menu-menu-1').toggleClass('active-filter');
 });
-
-// Use event delegation for dynamically added elements
 $(document).on('click', '.close-menu', function(){
     $('#menu-menu-1').toggleClass('active-filter');
 });
-
-
-
-
-
 </script>
 
-
 <script>
-   
- $(document).ready(function(){
+$(document).ready(function(){
     $('.srvices-slider').slick({
         slidesToShow: 3,
         slidesToScroll: 1,
@@ -1397,33 +1492,18 @@ $(document).on('click', '.close-menu', function(){
         dots: false,
         speed: 300,
         autoplaySpeed: 3000,
-        
         centerPadding: '20px' ,
         autoplay: true,
         prevArrow: '<button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button"><i class="fa-solid fa-arrow-left"></i></button>',
         nextArrow: '<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button"><i class="fa-solid fa-arrow-right"></i></button>',
         responsive: [
-            {
-                breakpoint: 991,
-                settings: {
-                    slidesToShow: 2,
-                    centerPadding: '0px'  // Adjust padding to fit the slide properly
-                }
-            },
-            {
-                breakpoint: 767,
-                settings: {
-                    slidesToShow: 1,
-                    arrows: false,
-                    
-                    centerPadding: '0px'  // Adjust padding to fit the slide properly
-                }
-            }
+            { breakpoint: 991, settings: { slidesToShow: 2, centerPadding: '0px' } },
+            { breakpoint: 767, settings: { slidesToShow: 1, arrows: false, centerPadding: '0px' } }
         ]
     });
 });
 
-	$(document).ready(function(){
+$(document).ready(function(){
     $('.clients-slide').slick({
         slidesToShow: 3,
         slidesToScroll: 1,
@@ -1431,30 +1511,17 @@ $(document).on('click', '.close-menu', function(){
         dots: false,
         speed: 300,
         autoplaySpeed: 3000,
-        
         centerPadding: '10px' ,
         autoplay: true,
         prevArrow: '<button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button"><i class="fa-solid fa-arrow-left"></i></button>',
         nextArrow: '<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button"><i class="fa-solid fa-arrow-right"></i></button>',
         responsive: [
-            {
-                breakpoint: 991,
-                settings: {
-                    slidesToShow: 1,
-                    centerPadding: '0px'  // Adjust padding to fit the slide properly
-                }
-            },
-            {
-                breakpoint: 767,
-                settings: {
-                    arrows: false,
-                    slidesToShow: 1,
-                    centerPadding: '0px'  // Adjust padding to fit the slide properly
-                }
-            }
+            { breakpoint: 991, settings: { slidesToShow: 1, centerPadding: '0px' } },
+            { breakpoint: 767, settings: { arrows: false, slidesToShow: 1, centerPadding: '0px' } }
         ]
     });
 });
+
 $(document).ready(function(){
     $('.slide-story').slick({
         slidesToShow: 1,
@@ -1463,61 +1530,33 @@ $(document).ready(function(){
         dots: true,
         speed: 300,
         autoplaySpeed: 3000,
-        
-        // centerPadding: '20px' ,
         autoplay: true,
-        // prevArrow: '<button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button"><i class="fa-solid fa-arrow-left"></i></button>',
-        // nextArrow: '<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button"><i class="fa-solid fa-arrow-right"></i></button>',
         responsive: [
-            {
-                breakpoint: 991,
-                settings: {
-                    slidesToShow: 1,
-                    centerPadding: '0px'  // Adjust padding to fit the slide properly
-                }
-            },
-            {
-                breakpoint: 767,
-                settings: {
-                    slidesToShow: 1,
-                    centerPadding: '0px'  // Adjust padding to fit the slide properly
-                }
-            }
+            { breakpoint: 991, settings: { slidesToShow: 1, centerPadding: '0px' } },
+            { breakpoint: 767, settings: { slidesToShow: 1, centerPadding: '0px' } }
         ]
     });
 });
+
 $(document).ready(function(){
     $('.choos-slide').slick({
         slidesToShow: 3,
-    slidesToScroll: 1,
-    arrows: true,
-    dots: true,
-    speed: 300,
-    infinite: true, // <-- this is the correct option
-    autoplay: true,
-    autoplaySpeed: 3000,
-        // centerPadding: '20px' ,
+        slidesToScroll: 1,
+        arrows: true,
+        dots: true,
+        speed: 300,
+        infinite: true,
         autoplay: true,
+        autoplaySpeed: 3000,
         prevArrow: '<button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button"><i class="fa-solid fa-arrow-left"></i></button>',
         nextArrow: '<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button"><i class="fa-solid fa-arrow-right"></i></button>',
         responsive: [
-            {
-                breakpoint: 991,
-                settings: {
-                    slidesToShow: 1,
-                    centerPadding: '0px'  // Adjust padding to fit the slide properly
-                }
-            },
-            {
-                breakpoint: 767,
-                settings: {
-                    slidesToShow: 1,
-                    centerPadding: '0px'  // Adjust padding to fit the slide properly
-                }
-            }
+            { breakpoint: 991, settings: { slidesToShow: 1, centerPadding: '0px' } },
+            { breakpoint: 767, settings: { slidesToShow: 1, centerPadding: '0px' } }
         ]
     });
 });
+
 $(document).ready(function(){
     $('.gallery-slider').slick({
         slidesToShow: 1,
@@ -1526,26 +1565,12 @@ $(document).ready(function(){
         dots: true,
         speed: 300,
         autoplaySpeed: 3000,
-        
-        // centerPadding: '20px' ,
         autoplay: true,
         prevArrow: '<button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button"><i class="fa-solid fa-arrow-left"></i></button>',
         nextArrow: '<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button"><i class="fa-solid fa-arrow-right"></i></button>',
         responsive: [
-            {
-                breakpoint: 991,
-                settings: {
-                    slidesToShow: 1,
-                    centerPadding: '0px'  // Adjust padding to fit the slide properly
-                }
-            },
-            {
-                breakpoint: 767,
-                settings: {
-                    slidesToShow: 1,
-                    centerPadding: '0px'  // Adjust padding to fit the slide properly
-                }
-            }
+            { breakpoint: 991, settings: { slidesToShow: 1, centerPadding: '0px' } },
+            { breakpoint: 767, settings: { slidesToShow: 1, centerPadding: '0px' } }
         ]
     });
 });
@@ -1558,91 +1583,66 @@ $(document).ready(function(){
         dots: true,
         speed: 300,
         autoplaySpeed: 3000,
-        
-        // centerPadding: '20px' ,
         autoplay: true,
         prevArrow: '<button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button"><i class="fa-solid fa-arrow-left"></i></button>',
         nextArrow: '<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button"><i class="fa-solid fa-arrow-right"></i></button>',
         responsive: [
-            {
-                breakpoint: 991,
-                settings: {
-                    slidesToShow: 1,
-                    centerPadding: '0px'  // Adjust padding to fit the slide properly
-                }
-            },
-            {
-                breakpoint: 767,
-                settings: {
-                    slidesToShow: 1,
-                    centerPadding: '0px'  // Adjust padding to fit the slide properly
-                }
-            }
+            { breakpoint: 991, settings: { slidesToShow: 1, centerPadding: '0px' } },
+            { breakpoint: 767, settings: { slidesToShow: 1, centerPadding: '0px' } }
         ]
     });
 });
-
-
-
 </script>
 
 <script>
 // section scroll
-
 $('.navbar a[href^="#"]').click(function (e) {
     e.preventDefault();
     $('html, body').animate({
         scrollTop: $($(this).attr('href')).offset().top - 100
     }, 500);
 });
-
 </script>
 
 <script>
   AOS.init({
-    duration: 1200,  // animation speed (ms)
-    once: true,      // sirf ek baar chale scroll par
+    duration: 1200,
+    once: true,
   });
 </script>
 
-
-<!-- ===================================================== -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   const track = document.querySelector(".brands-track");
   const clone = track.innerHTML;
-  track.innerHTML += clone; // 👈 logos को auto-clone करके infinite loop बनाएगा
+  track.innerHTML += clone;
 });
 </script>
 
 <script>
-     function initSlick() {
-    $('.product-slider').not('.slick-initialized').slick({
-      slidesToShow: 4,
-      slidesToScroll: 1,
-      dots: true,
-      arrows: true,
-      infinite: true,
-      prevArrow: '<button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button"><i class="fa-solid fa-arrow-left"></i></button>',
-        nextArrow: '<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button"><i class="fa-solid fa-arrow-right"></i></button>',
-      responsive: [
-        { breakpoint: 992, settings: { slidesToShow: 3 } },
-        { breakpoint: 768, settings: { slidesToShow: 2 } },
-        { breakpoint: 576, settings: { slidesToShow: 1 } }
-      ]
-    });
-  }
-
-  $(document).ready(function(){
-    initSlick();
-
-    $('a[data-bs-toggle="tab"]').on('shown.bs.tab', function () {
-      initSlick();
-    });
+function initSlick() {
+  $('.product-slider').not('.slick-initialized').slick({
+    slidesToShow: 4,
+    slidesToScroll: 1,
+    dots: true,
+    arrows: true,
+    infinite: true,
+    prevArrow: '<button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button"><i class="fa-solid fa-arrow-left"></i></button>',
+    nextArrow: '<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button"><i class="fa-solid fa-arrow-right"></i></button>',
+    responsive: [
+      { breakpoint: 992, settings: { slidesToShow: 3 } },
+      { breakpoint: 768, settings: { slidesToShow: 2 } },
+      { breakpoint: 576, settings: { slidesToShow: 1 } }
+    ]
   });
-
+}
+$(document).ready(function(){
+  initSlick();
+  $('a[data-bs-toggle="tab"]').on('shown.bs.tab', function () {
+    initSlick();
+  });
+});
 </script>
-
 
 <script>
 jQuery(document).ready(function($){
@@ -1661,6 +1661,7 @@ jQuery(document).ready(function($){
   });
 });
 </script>
+
 </body>
 
 <!-- Mirrored from livpower.in/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 14 Jan 2026 20:10:33 GMT -->

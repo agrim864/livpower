@@ -78,6 +78,124 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 <!-- Google font Second -->
 
+
+<style>
+/* =========================================================
+   Modern Emerald overrides (match about-us/index.html)
+   ========================================================= */
+:root{
+  --lp-bg: #FFFFFF;
+  --lp-soft: #F2F8F5;
+  --lp-text: #0B1F16;
+  --lp-text-2: #2F5D4A;
+  --lp-muted: #6FA89A;
+  --lp-primary: #16A34A;
+  --lp-mint: #DCFCE7;
+  --lp-accent: #14532D;
+  --lp-accent-soft: rgba(22,163,74,0.12);
+  --lp-border: rgba(20,83,45,0.12);
+}
+
+html, body{
+  background: var(--lp-bg) !important;
+  color: var(--lp-text) !important;
+}
+p{ color: var(--lp-text-2); }
+small,.muted,.text-muted{ color: var(--lp-muted) !important; }
+a{ color: var(--lp-primary); }
+a:hover{ color: var(--lp-accent); }
+
+body{
+  --wp--preset--color--black: var(--lp-text);
+  --wp--preset--color--white: var(--lp-bg);
+  --wp--preset--color--cyan-bluish-gray: var(--lp-muted);
+  --wp--preset--color--vivid-green-cyan: var(--lp-primary);
+  --wp--preset--color--luminous-vivid-orange: var(--lp-primary);
+  --wp--preset--color--luminous-vivid-amber: var(--lp-mint);
+  --wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange:
+    linear-gradient(135deg, var(--lp-mint) 0%, var(--lp-primary) 100%);
+  --wp--preset--gradient--luminous-vivid-orange-to-vivid-red:
+    linear-gradient(135deg, var(--lp-primary) 0%, var(--lp-accent) 100%);
+}
+
+header{
+  background: var(--lp-accent) !important;
+  border-bottom: 1px solid rgba(255,255,255,0.12);
+}
+.inner-menu{
+  background: var(--lp-accent) !important;
+}
+.navbar .menu a{
+  color: var(--lp-mint) !important;
+}
+.navbar .menu a:hover{
+  color: #fff !important;
+}
+.navbar .menu .current-menu-item > a{
+  color: #fff !important;
+}
+.menu-toggle i{
+  color:#fff !important;
+}
+
+.shipping-item_detail:hover{
+  background: var(--lp-primary) !important;
+}
+
+.float{
+  background-color: var(--lp-primary) !important;
+  box-shadow: 2px 2px 3px rgba(0,0,0,0.25) !important;
+}
+.float:hover{
+  background: var(--lp-accent) !important;
+}
+
+/* Footer matches header */
+footer.footer{
+  background: var(--lp-accent) !important;
+  color: #fff !important;
+}
+footer.footer a{
+  color: var(--lp-mint) !important;
+}
+footer.footer a:hover{
+  color: #fff !important;
+}
+.footer-page-link p,
+.footer-page-link ul li a,
+#copyright{
+  color: rgba(255,255,255,0.92) !important;
+}
+.footer-page-link ul li a span{
+  color: rgba(255,255,255,0.45) !important;
+}
+
+/* Soft sections */
+.brands,
+.instagram-section,
+.faq,
+.our-clients{
+  background: var(--lp-soft) !important;
+}
+
+@media (max-width:900px){
+  #menu-menu-1{
+    background-color: var(--lp-accent) !important;
+  }
+}
+</style>
+
+
+<style>
+/* Product-page specific color tweaks */
+.banner-title h2{ color:#16a34a !important; }
+.contact-btn{ background:#16a34a !important; border-color:#16a34a !important; color:#fff !important; }
+.contact-btn:hover{ background:#14532d !important; border-color:#14532d !important; color:#fff !important; }
+.shipping-item_detail img{
+  filter: brightness(0) saturate(100%) invert(33%) sepia(61%) saturate(476%) hue-rotate(86deg) brightness(95%) contrast(92%) !important;
+}
+</style>
+
 </head>
 
 <style>
@@ -106,7 +224,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   color: #fff;
 }
 .shipping-item_detail:hover {
-  background: rgb(235, 105, 29);
+  background: rgb(22, 163, 74);
 }
 .shipping-item_detail:hover img {
   filter: brightness(0) invert(1);
@@ -245,7 +363,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   font-weight: 500;
   line-height: 18px;
   letter-spacing: -2%;
-  background: rgba(240, 90, 40, 1);
+  background: rgba(22, 163, 74, 1);
   display: inline-block;
   margin-left: 10px;
 }
@@ -337,8 +455,8 @@ header{ z-index: 999999999999999999; }
   outline: none;
 }
 .filter-field input:focus, .filter-field select:focus{
-  border-color: rgba(235, 105, 29, 1);
-  box-shadow: 0 0 0 3px rgba(235, 105, 29, 0.12);
+  border-color: rgba(22, 163, 74, 1);
+  box-shadow: 0 0 0 3px rgba(22, 163, 74, 0.12);
 }
 .filter-actions{
   display: flex;
@@ -350,7 +468,7 @@ header{ z-index: 999999999999999999; }
   border-radius: 10px;
   padding: 10px 12px;
   font-weight: 600;
-  border: 1px solid rgba(235, 105, 29, 1);
+  border: 1px solid rgba(22, 163, 74, 1);
   text-decoration: none;
   transition: all ease 0.25s;
   display: inline-flex;
@@ -360,10 +478,10 @@ header{ z-index: 999999999999999999; }
   white-space: nowrap;
   font-size: 14px;
   background: #fff;
-  color: rgba(235, 105, 29, 1);
+  color: rgba(22, 163, 74, 1);
 }
 .btn-lite:hover{
-  background: rgba(235, 105, 29, 1);
+  background: rgba(22, 163, 74, 1);
   color: #fff;
 }
 
@@ -428,7 +546,7 @@ header{ z-index: 999999999999999999; }
   z-index: 2;
 }
 .badge{
-  background: rgba(235, 105, 29, 1);
+  background: rgba(22, 163, 74, 1);
   color: #fff;
   font-size: 12px;
   font-weight: 700;
@@ -519,25 +637,25 @@ details.specs summary{
   border-radius: 10px;
   font-weight: 700;
   text-decoration: none;
-  border: 1px solid rgba(235, 105, 29, 1);
+  border: 1px solid rgba(22, 163, 74, 1);
   transition: all ease 0.25s;
   font-size: 14px;
 }
 .tv-actions a.enquire{
   background: #fff;
-  color: rgba(235, 105, 29, 1);
+  color: rgba(22, 163, 74, 1);
 }
 .tv-actions a.enquire:hover{
-  background: rgba(235, 105, 29, 1);
+  background: rgba(22, 163, 74, 1);
   color: #fff;
 }
 .tv-actions a.whatsapp{
-  background: rgba(235, 105, 29, 1);
+  background: rgba(22, 163, 74, 1);
   color: #fff;
 }
 .tv-actions a.whatsapp:hover{
   background: #fff;
-  color: rgba(235, 105, 29, 1);
+  color: rgba(22, 163, 74, 1);
 }
 .json-link{
   display: inline-flex;
@@ -545,7 +663,7 @@ details.specs summary{
   gap: 8px;
   margin-top: 8px;
   font-size: 13px;
-  color: rgba(235, 105, 29, 1);
+  color: rgba(22, 163, 74, 1);
   text-decoration: none;
   font-weight: 700;
 }
@@ -564,24 +682,24 @@ details.specs summary{
   font-size: 16px;
   font-weight: 600;
   border-radius: 10px;
-  border: solid 1px rgba(235, 105, 29, 1);
+  border: solid 1px rgba(22, 163, 74, 1);
   transition: all ease 0.25s;
   text-decoration: none;
 }
 .button-bottom a.download{
-  background: rgba(235, 105, 29, 1);
+  background: rgba(22, 163, 74, 1);
   color: #fff;
 }
 .button-bottom a.download:hover{
   background: #fff;
-  color: rgba(235, 105, 29, 1);
+  color: rgba(22, 163, 74, 1);
 }
 .button-bottom a.page-link{
   background: #fff;
-  color: rgba(235, 105, 29, 1);
+  color: rgba(22, 163, 74, 1);
 }
 .button-bottom a.page-link:hover{
-  background: rgba(235, 105, 29, 1);
+  background: rgba(22, 163, 74, 1);
   color: #fff;
 }
 
@@ -625,12 +743,11 @@ details.specs summary{
                         <div class="menu-menu-1-container"><ul id="menu-menu-1" class="menu"><li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-45"><a href="../index.html" itemprop="url">Home</a></li>
 <li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="../about-us/index.html" itemprop="url">About us</a></li>
 <li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-366"><a href="../categories/index.html" itemprop="url">Categories</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../blogs/index.html" itemprop="url">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../shop-with-us/index.html" itemprop="url">Shop With Us</a></li>
 <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="../contact-us/index.html" itemprop="url">Contact us</a></li>
 </ul></div>                        
                     </nav>
-                    <div class="find-job">
-                      <a href="../contact-us/index.html">  Bulk Enquiries</a>
-                    </div>
                     
                     <div class="menu-toggle  mobile-togle">
                            <i class="fa-solid fa-bars"></i>
@@ -999,7 +1116,7 @@ for comfort and performance </p>
     </div>
 
 <div id="copyright" data-aos="" data-aos-delay="400">
-© 2025 Livpower | Developed by Digisparx Digital Solutions
+© 2025 Livpower
 </div>
 
 <a href="https://wa.me/919355390355" class="float" target="_blank">

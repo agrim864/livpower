@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shop With Us | Liv Power</title>
+  <style>
+    :root {
+      --bg-1: #0f172a;
+      --bg-2: #14532d;
+      --card: rgba(255, 255, 255, 0.1);
+      --text: #ffffff;
+      --muted: #d1d5db;
+      --accent: #22c55e;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      color: var(--text);
+      background: linear-gradient(135deg, var(--bg-1), var(--bg-2));
+      display: grid;
+      place-items: center;
+      padding: 24px;
+    }
+    .card {
+      width: min(680px, 100%);
+      background: var(--card);
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      border-radius: 16px;
+      padding: 36px 28px;
+      backdrop-filter: blur(6px);
+      text-align: center;
+    }
+    h1 {
+      margin: 0 0 10px;
+      font-size: clamp(30px, 5vw, 44px);
+      line-height: 1.1;
+    }
+    p {
+      margin: 0;
+      color: var(--muted);
+      font-size: clamp(16px, 2.6vw, 20px);
+    }
+    .home-link {
+      display: inline-block;
+      margin-top: 24px;
+      padding: 10px 18px;
+      border-radius: 999px;
+      text-decoration: none;
+      color: #ffffff;
+      background: var(--accent);
+      font-weight: 600;
+    }
+  </style>
+</head>
+<body>
+  <main class="card">
+    <h1>Shop With Us</h1>
+    <p>Online catalogs coming soon.</p>
+    <a class="home-link" href="../index.html">Back to Home</a>
+  </main>
+</body>
+</html>

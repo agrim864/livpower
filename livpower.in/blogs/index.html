@@ -110,7 +110,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   color: #fff;
 }
 .shipping-item_detail:hover {
-  background: rgb(235, 105, 29);
+  background: rgb(22, 163, 74);
 }
 .shipping-item_detail:hover img {
   filter: brightness(0) invert(1);
@@ -298,13 +298,127 @@ height: inherit !important;
   font-weight: 500;
   line-height: 18px;
   letter-spacing: -2%;
-  background: rgba(240, 90, 40, 1);
+  background: rgba(22, 163, 74, 1);
   display: inline-block;
   margin-left: 10px;
 }
 
 header{
     z-index: 999999999999999999;
+}
+/* =========================================================
+   Modern Emerald overrides (match categories/index.html)
+   ========================================================= */
+:root{
+  --lp-bg: #FFFFFF;
+  --lp-soft: #F2F8F5;
+  --lp-text: #0B1F16;
+  --lp-text-2: #2F5D4A;
+  --lp-muted: #6FA89A;
+  --lp-primary: #16A34A;
+  --lp-mint: #DCFCE7;
+  --lp-accent: #14532D;
+  --lp-accent-soft: rgba(22,163,74,0.12);
+  --lp-border: rgba(20,83,45,0.12);
+}
+
+html, body{
+  background: var(--lp-bg) !important;
+  color: var(--lp-text) !important;
+}
+p{ color: var(--lp-text-2); }
+small,.muted,.text-muted{ color: var(--lp-muted) !important; }
+a{ color: var(--lp-primary); }
+a:hover{ color: var(--lp-accent); }
+
+body{
+  --wp--preset--color--black: var(--lp-text);
+  --wp--preset--color--white: var(--lp-bg);
+  --wp--preset--color--cyan-bluish-gray: var(--lp-muted);
+  --wp--preset--color--vivid-green-cyan: var(--lp-primary);
+  --wp--preset--color--luminous-vivid-orange: var(--lp-primary);
+  --wp--preset--color--luminous-vivid-amber: var(--lp-mint);
+  --wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange:
+    linear-gradient(135deg, var(--lp-mint) 0%, var(--lp-primary) 100%);
+  --wp--preset--gradient--luminous-vivid-orange-to-vivid-red:
+    linear-gradient(135deg, var(--lp-primary) 0%, var(--lp-accent) 100%);
+}
+
+header{
+  background: var(--lp-accent) !important;
+  border-bottom: 1px solid rgba(255,255,255,0.12);
+}
+.inner-menu{
+  background: var(--lp-accent) !important;
+}
+.navbar .menu a{
+  color: var(--lp-mint) !important;
+}
+.navbar .menu a:hover{
+  color: #fff !important;
+}
+.navbar .menu .current-menu-item > a{
+  color: #fff !important;
+}
+.menu-toggle i{
+  color:#fff !important;
+}
+
+/* Banner heading */
+.banner-title h2{
+  color: #16a34a !important;
+}
+
+/* Blog tabs */
+.blog-tabs .tab-btn{
+  border-color: rgba(20,83,45,0.25) !important;
+  color: var(--lp-accent) !important;
+}
+.blog-tabs .tab-btn.active{
+  background: var(--lp-primary) !important;
+  border-color: var(--lp-primary) !important;
+  color: #fff !important;
+}
+
+/* Cards / accents */
+.total-posts{
+  background: var(--lp-accent-soft) !important;
+  color: var(--lp-primary) !important;
+}
+.blog-info h3 a:hover{
+  color: var(--lp-accent) !important;
+}
+.shipping-item_detail:hover{
+  background: var(--lp-primary) !important;
+}
+
+/* Floating button */
+.float{
+  background-color: var(--lp-primary) !important;
+  box-shadow: 2px 2px 3px rgba(0,0,0,0.25) !important;
+}
+.float:hover{
+  background: var(--lp-accent) !important;
+}
+
+/* Footer matches header */
+footer.footer{
+  background: var(--lp-accent) !important;
+  color: #fff !important;
+}
+footer.footer a{
+  color: var(--lp-mint) !important;
+}
+footer.footer a:hover{
+  color: #fff !important;
+}
+.footer-page-link p,
+.footer-page-link ul li a,
+#copyright{
+  color: rgba(255,255,255,0.92) !important;
+}
+.footer-page-link ul li a span{
+  color: rgba(255,255,255,0.45) !important;
 }
 </style>
 <body class="page-template page-template-template page-template-blogs page-template-templateblogs-php page page-id-34 wp-embed-responsive">
@@ -328,13 +442,11 @@ header{
                         <div class="menu-menu-1-container"><ul id="menu-menu-1" class="menu"><li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-45"><a href="../index.html" itemprop="url">Home</a></li>
 <li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="../about-us/index.html" itemprop="url">About us</a></li>
 <li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-366"><a href="../categories/index.html" itemprop="url">Categories</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item"><a href="../blogs/index.html" aria-current="page" itemprop="url" style="color:#fff !important;">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../shop-with-us/index.html" itemprop="url">Shop With Us</a></li>
 <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="../contact-us/index.html" itemprop="url">Contact us</a></li>
 </ul></div>                        
                     </nav>
-                    <div class="find-job">
-                      
-                      <a href="../contact-us/index.html">  Bulk Enquiries</a>
-                    </div>
                     <!-- <img src="< ?php echo get_stylesheet_directory_uri(); ?>/assets/img/liv-power/stash_question.svg" alt="" class="img-fluid">  -->
                     
                     <div class="menu-toggle  mobile-togle">
@@ -389,8 +501,8 @@ header{
 }
 
 .blog-category {
-  background: rgba(235, 105, 29, 0.08);
-  color: rgb(235, 105, 29);
+  background: rgba(22, 163, 74, 0.08);
+  color: rgb(22, 163, 74);
   padding: 5px 15px;
   border-radius: 3px;
   font-size: 13px;
@@ -429,7 +541,7 @@ header{
 .total-posts {
   font-size: 24px;
   font-weight: 600;
-  color: rgb(235, 105, 29);
+  color: rgb(22, 163, 74);
 }
 
 @media (max-width: 768px) {
@@ -486,251 +598,766 @@ header{
     <div class="row justify-content-center" data-aos="fade-down" data-aos-delay="100">
       <div class="col-md-10">
         <div class="title-success text-center">
-         
-          <span class="total-posts">Blogs: (8)</span>
+          <span class="total-posts">Updates: (16)</span>
+          <div class="small text-muted" style="margin-top:8px;">Last refreshed: Feb 2026</div>
         </div>
       </div>
     </div>
 
+    <!-- Tabs -->
     <div class="row justify-content-center">
       <div class="col-md-10">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="blog-lis">
-                                <div class="blog-item d-flex align-items-center justify-content-between mb-4" data-aos="fade-up" data-aos-delay="200">
-                    
-                    <div class="row">
-                      <div class="col-md-7" data-aos="fade-up" data-aos-delay="300">
-                        <div class="blog-info pe-4">
-                          <div class="blog-meta d-flex align-items-center mb-2">
-                            <span class="blog-category me-3">
-                              Blog                            </span>
-                            <span class="blog-date">October 19, 2025</span>
-                          </div>
 
-                          <h3 class="blog-title">
-                            <a href="../wake-up-to-perfection-reliable-toasters-smart-design-and-everyday-ease/index.html">Wake Up to Perfection – Reliable Toasters, Smart Design, and Everyday Ease</a>
-                          </h3>
+        <style>
+          .blog-tabs {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin: 10px 0 25px 0;
+          }
+          .blog-tabs .tab-btn {
+            border: 1px solid rgba(35,46,82,0.25);
+            background: #fff;
+            padding: 10px 14px;
+            border-radius: 999px;
+            font-weight: 600;
+            font-size: 14px;
+            color: rgb(35,46,82);
+            cursor: pointer;
+            transition: 0.2s ease;
+          }
+          .blog-tabs .tab-btn.active {
+            background: rgb(22, 163, 74);
+            border-color: rgb(22, 163, 74);
+            color: #fff;
+          }
+          .news-source {
+            font-size: 13px;
+            color: #666;
+            margin-top: 8px;
+          }
+          .news-source a {
+            color: rgb(35,46,82);
+            text-decoration: underline;
+          }
+          .blog-item {
+            background: #fff;
+            border-radius: 14px;
+            padding: 18px;
+            transition: 0.25s ease;
+            border: 1px solid rgba(0,0,0,0.06);
+          }
+          .blog-item:hover {
+            box-shadow: 0 10px 24px rgba(0,0,0,0.08);
+            transform: translateY(-2px);
+          }
+          .blog-img img {
+            width: 100%;
+            max-width: 340px;
+            height: 210px;
+            object-fit: cover;
+            border-radius: 12px;
+            background: var(--lp-soft);
+          }
+          #tab-news .blog-item{
+            transition: 0.15s ease;
+          }
+          .blog-img img.is-placeholder{
+            object-fit: contain;
+            padding: 18px;
+          }
+          /* Guides modal */
+          .lp-guide-modal{
+            position: fixed;
+            inset: 0;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            z-index: 99999;
+          }
+          .lp-guide-modal.is-open{ display: flex; }
+          .lp-guide-modal-overlay{
+            position: absolute;
+            inset: 0;
+            background: rgba(11,31,22,0.55);
+            backdrop-filter: blur(2px);
+          }
+          .lp-guide-modal-card{
+            position: relative;
+            width: min(860px, 92vw);
+            background: #fff;
+            border-radius: 18px;
+            box-shadow: 0 24px 60px rgba(0,0,0,0.22);
+            overflow: hidden;
+            border: 1px solid rgba(20,83,45,0.12);
+          }
+          .lp-guide-modal-close{
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            border: none;
+            background: var(--lp-mint);
+            color: var(--lp-accent);
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 16px;
+            cursor: pointer;
+          }
+          .lp-guide-modal-body{
+            display: grid;
+            grid-template-columns: 1fr 1.2fr;
+            gap: 18px;
+            padding: 22px;
+          }
+          .lp-guide-modal-media{
+            border-radius: 14px;
+            background: var(--lp-soft);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            min-height: 220px;
+          }
+          .lp-guide-modal-media img{
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+          }
+          .lp-guide-modal-meta{
+            font-size: 12px;
+            color: var(--lp-muted);
+            margin-bottom: 6px;
+          }
+          .lp-guide-modal-title{
+            margin: 0 0 8px;
+            font-size: 22px;
+            line-height: 1.3;
+            color: var(--lp-text);
+          }
+          .lp-guide-modal-excerpt{
+            margin: 0 0 14px;
+            color: var(--lp-text-2);
+            line-height: 1.6;
+            font-size: 14px;
+          }
+          .lp-guide-modal-link{
+            display: inline-flex;
+            gap: 8px;
+            align-items: center;
+            padding: 10px 14px;
+            border-radius: 10px;
+            background: var(--lp-primary);
+            color: #fff;
+            text-decoration: none;
+            font-weight: 600;
+          }
+          .lp-guide-modal-link:hover{ background: var(--lp-accent); color:#fff; }
+          @media (max-width: 768px){
+            .lp-guide-modal-body{ grid-template-columns: 1fr; }
+          }
+          @media (max-width: 768px) {
+            .blog-img img {
+              max-width: 100%;
+              height: 200px;
+            }
+          }
+        </style>
 
-                          <p class="blog-excerpt">
-                            Experience the perfect blend of technology and convenience with our range of toasters. With smart...                          </p>
+        <div class="blog-tabs">
+          <button class="tab-btn active" type="button" data-tab="tab-news">Latest Appliance News</button>
+          <button class="tab-btn" type="button" data-tab="tab-guides">Liv Power Guides</button>
+        </div>
+
+        <!-- TAB: LATEST NEWS -->
+        <div id="tab-news" class="tab-panel" style="display:block;">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="blog-lis">
+
+                <!-- News item 1 -->
+                <div class="blog-item d-flex align-items-center justify-content-between mb-4" data-aos="fade-up" data-aos-delay="200">
+                  <div class="row w-100">
+                    <div class="col-md-7">
+                      <div class="blog-info pe-4">
+                        <div class="blog-meta d-flex align-items-center mb-2">
+                          <span class="blog-category me-3">Industry News</span>
+                          <span class="blog-date">Jan 2026</span>
                         </div>
+                        <h3 class="blog-title">
+                          <a href="https://www.theverge.com/" target="_blank" rel="noopener">CES 2026 highlights: smarter kitchens, better automation, and practical AI</a>
+                        </h3>
+                        <p class="blog-excerpt">
+                          The biggest appliance trend is simple: fewer steps for everyday tasks—guided cooking, inventory tracking, and more helpful automation.
+                        </p>
+                        <div class="news-source">Source: <a href="https://www.theverge.com/" target="_blank" rel="noopener">The Verge</a></div>
                       </div>
-
-                      <div class="col-md-5" data-aos="fade-up" data-aos-delay="400">
-                        <div class="blog-img">
-                          <a href="../wake-up-to-perfection-reliable-toasters-smart-design-and-everyday-ease/index.html">
-                            <img width="300" height="300" src="../wp-content/uploads/2025/10/0c8f5d48d93b931f4af4f7fb87402dffea0c4819-1-300x300.png" class="img-fluid rounded wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://livpower.in/wp-content/uploads/2025/10/0c8f5d48d93b931f4af4f7fb87402dffea0c4819-1-300x300.png 300w, https://livpower.in/wp-content/uploads/2025/10/0c8f5d48d93b931f4af4f7fb87402dffea0c4819-1-150x150.png 150w, https://livpower.in/wp-content/uploads/2025/10/0c8f5d48d93b931f4af4f7fb87402dffea0c4819-1.png 800w" sizes="(max-width: 300px) 100vw, 300px" />                          </a>
-                        </div>
+                    </div>
+                    <div class="col-md-5">
+                      <div class="blog-img">
+                        <a href="https://www.theverge.com/" target="_blank" rel="noopener">
+                          <img loading="lazy" src="https://images.pexels.com/photos/11263143/pexels-photo-11263143.jpeg?cs=srgb&dl=pexels-tima-miroshnichenko-11263143.jpg&fm=jpg" alt="Modern kitchen appliances" />
+                        </a>
                       </div>
                     </div>
                   </div>
-                                  <div class="blog-item d-flex align-items-center justify-content-between mb-4" data-aos="fade-up" data-aos-delay="400">
-                    
-                    <div class="row">
-                      <div class="col-md-7" data-aos="fade-up" data-aos-delay="500">
-                        <div class="blog-info pe-4">
-                          <div class="blog-meta d-flex align-items-center mb-2">
-                            <span class="blog-category me-3">
-                              Blog                            </span>
-                            <span class="blog-date">October 9, 2025</span>
-                          </div>
+                </div>
 
-                          <h3 class="blog-title">
-                            <a href="../the-evolution-of-the-toaster-from-basics-to-smart-tech/index.html">The Evolution of the Toaster: From Basics to Smart Tech</a>
-                          </h3>
-
-                          <p class="blog-excerpt">
-                            Toasters have come a long way, explore how modern designs are changing the way we...                          </p>
+                <!-- News item 2 -->
+                <div class="blog-item d-flex align-items-center justify-content-between mb-4" data-aos="fade-up" data-aos-delay="300">
+                  <div class="row w-100">
+                    <div class="col-md-7">
+                      <div class="blog-info pe-4">
+                        <div class="blog-meta d-flex align-items-center mb-2">
+                          <span class="blog-category me-3">Smart Home</span>
+                          <span class="blog-date">Jan 2026</span>
                         </div>
+                        <h3 class="blog-title">
+                          <a href="https://news.samsung.com/" target="_blank" rel="noopener">Samsung’s “AI Living” focus: connected appliances + stronger device security</a>
+                        </h3>
+                        <p class="blog-excerpt">
+                          More devices are shipping with built-in safety and privacy features as smart appliances become the default in homes.
+                        </p>
+                        <div class="news-source">Source: <a href="https://news.samsung.com/" target="_blank" rel="noopener">Samsung Newsroom</a></div>
                       </div>
-
-                      <div class="col-md-5" data-aos="fade-up" data-aos-delay="600">
-                        <div class="blog-img">
-                          <a href="../the-evolution-of-the-toaster-from-basics-to-smart-tech/index.html">
-                            <img width="300" height="222" src="../wp-content/uploads/2025/10/a8769e07df81cac809ff8d3995e5ebb1e291b047-1-300x222.png" class="img-fluid rounded wp-post-image" alt="" decoding="async" srcset="https://livpower.in/wp-content/uploads/2025/10/a8769e07df81cac809ff8d3995e5ebb1e291b047-1-300x222.png 300w, https://livpower.in/wp-content/uploads/2025/10/a8769e07df81cac809ff8d3995e5ebb1e291b047-1.png 600w" sizes="(max-width: 300px) 100vw, 300px" />                          </a>
-                        </div>
+                    </div>
+                    <div class="col-md-5">
+                      <div class="blog-img">
+                        <a href="https://news.samsung.com/" target="_blank" rel="noopener">
+                          <img loading="lazy" src="https://images.pexels.com/photos/5824895/pexels-photo-5824895.jpeg?cs=srgb&dl=pexels-cottonbro-5824895.jpg&fm=jpg" alt="Smart home device and appliances" />
+                        </a>
                       </div>
                     </div>
                   </div>
-                                  <div class="blog-item d-flex align-items-center justify-content-between mb-4" data-aos="fade-up" data-aos-delay="600">
-                    
-                    <div class="row">
-                      <div class="col-md-7" data-aos="fade-up" data-aos-delay="700">
-                        <div class="blog-info pe-4">
-                          <div class="blog-meta d-flex align-items-center mb-2">
-                            <span class="blog-category me-3">
-                              Blog                            </span>
-                            <span class="blog-date">October 9, 2025</span>
-                          </div>
+                </div>
 
-                          <h3 class="blog-title">
-                            <a href="../energy-efficient-appliances-save-power-save-money/index.html">Energy-Efficient Appliances: Save Power, Save Money</a>
-                          </h3>
-
-                          <p class="blog-excerpt">
-                            Learn how the latest appliances combine performance with eco-friendly design to cut costs and reduce...                          </p>
+                <!-- News item 3 -->
+                <div class="blog-item d-flex align-items-center justify-content-between mb-4" data-aos="fade-up" data-aos-delay="400">
+                  <div class="row w-100">
+                    <div class="col-md-7">
+                      <div class="blog-info pe-4">
+                        <div class="blog-meta d-flex align-items-center mb-2">
+                          <span class="blog-category me-3">Coffee & Kitchen</span>
+                          <span class="blog-date">Jan 2026</span>
                         </div>
+                        <h3 class="blog-title">
+                          <a href="https://www.theverge.com/" target="_blank" rel="noopener">Smarter espresso machines: voice assistants and guided routines</a>
+                        </h3>
+                        <p class="blog-excerpt">
+                          Coffee appliances are getting better “hands-free” workflows—good for busy mornings and consistent results.
+                        </p>
+                        <div class="news-source">Source: <a href="https://www.theverge.com/" target="_blank" rel="noopener">The Verge</a></div>
                       </div>
-
-                      <div class="col-md-5" data-aos="fade-up" data-aos-delay="800">
-                        <div class="blog-img">
-                          <a href="../energy-efficient-appliances-save-power-save-money/index.html">
-                            <img width="300" height="200" src="../wp-content/uploads/2025/10/552db37e32b5bbbfb1b003fae9cac46a3cd3e0cb-300x200.png" class="img-fluid rounded wp-post-image" alt="" decoding="async" srcset="https://livpower.in/wp-content/uploads/2025/10/552db37e32b5bbbfb1b003fae9cac46a3cd3e0cb-300x200.png 300w, https://livpower.in/wp-content/uploads/2025/10/552db37e32b5bbbfb1b003fae9cac46a3cd3e0cb-1024x683.png 1024w, https://livpower.in/wp-content/uploads/2025/10/552db37e32b5bbbfb1b003fae9cac46a3cd3e0cb.png 1171w" sizes="(max-width: 300px) 100vw, 300px" />                          </a>
-                        </div>
+                    </div>
+                    <div class="col-md-5">
+                      <div class="blog-img">
+                        <a href="https://www.theverge.com/" target="_blank" rel="noopener">
+                          <img loading="lazy" src="https://images.pexels.com/photos/4349951/pexels-photo-4349951.jpeg?cs=srgb&dl=pexels-ketut-subiyanto-4349951.jpg&fm=jpg" alt="Espresso machine making coffee" />
+                        </a>
                       </div>
                     </div>
                   </div>
-                                  <div class="blog-item d-flex align-items-center justify-content-between mb-4" data-aos="fade-up" data-aos-delay="800">
-                    
-                    <div class="row">
-                      <div class="col-md-7" data-aos="fade-up" data-aos-delay="900">
-                        <div class="blog-info pe-4">
-                          <div class="blog-meta d-flex align-items-center mb-2">
-                            <span class="blog-category me-3">
-                              Blog                            </span>
-                            <span class="blog-date">October 9, 2025</span>
-                          </div>
+                </div>
 
-                          <h3 class="blog-title">
-                            <a href="../bluetooth-speakers-that-bring-the-party-home/index.html">Bluetooth Speakers That Bring the Party Home</a>
-                          </h3>
-
-                          <p class="blog-excerpt">
-                            Portable, powerful, and stylish—find out which speakers give you the perfect blend of sound and...                          </p>
+                <!-- News item 4 -->
+                <div class="blog-item d-flex align-items-center justify-content-between mb-4" data-aos="fade-up" data-aos-delay="500">
+                  <div class="row w-100">
+                    <div class="col-md-7">
+                      <div class="blog-info pe-4">
+                        <div class="blog-meta d-flex align-items-center mb-2">
+                          <span class="blog-category me-3">Refrigeration</span>
+                          <span class="blog-date">Jan 2026</span>
                         </div>
+                        <h3 class="blog-title">
+                          <a href="https://www.goodhousekeeping.com/" target="_blank" rel="noopener">New smart refrigerators: better inventory awareness + kitchen assistance</a>
+                        </h3>
+                        <p class="blog-excerpt">
+                          Fridges are moving from “cold storage” to “kitchen assistant”—helping track items, reduce waste, and simplify planning.
+                        </p>
+                        <div class="news-source">Source: <a href="https://www.goodhousekeeping.com/" target="_blank" rel="noopener">Good Housekeeping</a></div>
                       </div>
-
-                      <div class="col-md-5" data-aos="fade-up" data-aos-delay="1000">
-                        <div class="blog-img">
-                          <a href="../bluetooth-speakers-that-bring-the-party-home/index.html">
-                            <img width="300" height="200" src="../wp-content/uploads/2025/10/b582fffcc5613cef1f1221792cffa16d153ce3b3-300x200.png" class="img-fluid rounded wp-post-image" alt="" decoding="async" srcset="https://livpower.in/wp-content/uploads/2025/10/b582fffcc5613cef1f1221792cffa16d153ce3b3-300x200.png 300w, https://livpower.in/wp-content/uploads/2025/10/b582fffcc5613cef1f1221792cffa16d153ce3b3-1024x683.png 1024w, https://livpower.in/wp-content/uploads/2025/10/b582fffcc5613cef1f1221792cffa16d153ce3b3.png 1170w" sizes="(max-width: 300px) 100vw, 300px" />                          </a>
-                        </div>
+                    </div>
+                    <div class="col-md-5">
+                      <div class="blog-img">
+                        <a href="https://www.goodhousekeeping.com/" target="_blank" rel="noopener">
+                          <img loading="lazy" src="https://images.pexels.com/photos/2062426/pexels-photo-2062426.jpeg?cs=srgb&dl=pexels-ketut-subiyanto-2062426.jpg&fm=jpg" alt="Kitchen refrigerator" />
+                        </a>
                       </div>
                     </div>
                   </div>
-                                  <div class="blog-item d-flex align-items-center justify-content-between mb-4" data-aos="fade-up" data-aos-delay="1000">
-                    
-                    <div class="row">
-                      <div class="col-md-7" data-aos="fade-up" data-aos-delay="1100">
-                        <div class="blog-info pe-4">
-                          <div class="blog-meta d-flex align-items-center mb-2">
-                            <span class="blog-category me-3">
-                              Blog                            </span>
-                            <span class="blog-date">October 9, 2025</span>
-                          </div>
+                </div>
 
-                          <h3 class="blog-title">
-                            <a href="../choosing-the-right-inverter-a-simple-buyers-guide/index.html">Choosing the Right Inverter: A Simple Buyer’s Guide</a>
-                          </h3>
-
-                          <p class="blog-excerpt">
-                            Stay powered during outages with the right inverter. Here’s everything you need to know before...                          </p>
+                <!-- News item 5 -->
+                <div class="blog-item d-flex align-items-center justify-content-between mb-4" data-aos="fade-up" data-aos-delay="600">
+                  <div class="row w-100">
+                    <div class="col-md-7">
+                      <div class="blog-info pe-4">
+                        <div class="blog-meta d-flex align-items-center mb-2">
+                          <span class="blog-category me-3">Laundry</span>
+                          <span class="blog-date">Jan 2026</span>
                         </div>
+                        <h3 class="blog-title">
+                          <a href="https://www.goodhousekeeping.com/" target="_blank" rel="noopener">Laundry innovation: modular washer/dryer concepts and more flexible setups</a>
+                        </h3>
+                        <p class="blog-excerpt">
+                          New designs aim to save space and let customers mix-and-match capacity based on family needs.
+                        </p>
+                        <div class="news-source">Source: <a href="https://www.goodhousekeeping.com/" target="_blank" rel="noopener">Good Housekeeping</a></div>
                       </div>
-
-                      <div class="col-md-5" data-aos="fade-up" data-aos-delay="1200">
-                        <div class="blog-img">
-                          <a href="../choosing-the-right-inverter-a-simple-buyers-guide/index.html">
-                            <img width="300" height="200" src="../wp-content/uploads/2025/10/6e0e1639276da46aaa9596e3f9b5555672e5a8f3-300x200.png" class="img-fluid rounded wp-post-image" alt="" decoding="async" srcset="https://livpower.in/wp-content/uploads/2025/10/6e0e1639276da46aaa9596e3f9b5555672e5a8f3-300x200.png 300w, https://livpower.in/wp-content/uploads/2025/10/6e0e1639276da46aaa9596e3f9b5555672e5a8f3.png 600w" sizes="(max-width: 300px) 100vw, 300px" />                          </a>
-                        </div>
+                    </div>
+                    <div class="col-md-5">
+                      <div class="blog-img">
+                        <a href="https://www.goodhousekeeping.com/" target="_blank" rel="noopener">
+                          <img loading="lazy" src="https://images.pexels.com/photos/5591625/pexels-photo-5591625.jpeg?cs=srgb&dl=pexels-rdne-5591625.jpg&fm=jpg" alt="Washing machine in laundry room" />
+                        </a>
                       </div>
                     </div>
                   </div>
-                                  <div class="blog-item d-flex align-items-center justify-content-between mb-4" data-aos="fade-up" data-aos-delay="1200">
-                    
-                    <div class="row">
-                      <div class="col-md-7" data-aos="fade-up" data-aos-delay="1300">
-                        <div class="blog-info pe-4">
-                          <div class="blog-meta d-flex align-items-center mb-2">
-                            <span class="blog-category me-3">
-                              Blog                            </span>
-                            <span class="blog-date">October 9, 2025</span>
-                          </div>
+                </div>
 
-                          <h3 class="blog-title">
-                            <a href="../top-5-must-have-home-appliances-for-a-smarter-kitchen/index.html">Top 5 Must-Have Home Appliances for a Smarter Kitchen</a>
-                          </h3>
-
-                          <p class="blog-excerpt">
-                            From efficient toasters to multipurpose blenders, discover the appliances that make cooking easier and more...                          </p>
+                <!-- News item 6 -->
+                <div class="blog-item d-flex align-items-center justify-content-between mb-4" data-aos="fade-up" data-aos-delay="700">
+                  <div class="row w-100">
+                    <div class="col-md-7">
+                      <div class="blog-info pe-4">
+                        <div class="blog-meta d-flex align-items-center mb-2">
+                          <span class="blog-category me-3">Cooking</span>
+                          <span class="blog-date">Jan 2026</span>
                         </div>
+                        <h3 class="blog-title">
+                          <a href="https://www.tomsguide.com/" target="_blank" rel="noopener">Induction cooking gets smarter: guided heat control and assisted cooking flows</a>
+                        </h3>
+                        <p class="blog-excerpt">
+                          Induction ranges are leaning into “help me cook” experiences—clearer steps, fewer mistakes, better outcomes.
+                        </p>
+                        <div class="news-source">Source: <a href="https://www.tomsguide.com/" target="_blank" rel="noopener">Tom’s Guide</a></div>
                       </div>
-
-                      <div class="col-md-5" data-aos="fade-up" data-aos-delay="1400">
-                        <div class="blog-img">
-                          <a href="../top-5-must-have-home-appliances-for-a-smarter-kitchen/index.html">
-                            <img width="300" height="222" src="../wp-content/uploads/2025/10/a8769e07df81cac809ff8d3995e5ebb1e291b047-300x222.png" class="img-fluid rounded wp-post-image" alt="" decoding="async" srcset="https://livpower.in/wp-content/uploads/2025/10/a8769e07df81cac809ff8d3995e5ebb1e291b047-300x222.png 300w, https://livpower.in/wp-content/uploads/2025/10/a8769e07df81cac809ff8d3995e5ebb1e291b047.png 600w" sizes="(max-width: 300px) 100vw, 300px" />                          </a>
-                        </div>
+                    </div>
+                    <div class="col-md-5">
+                      <div class="blog-img">
+                        <a href="https://www.tomsguide.com/" target="_blank" rel="noopener">
+                          <img loading="lazy" src="https://images.pexels.com/photos/11263120/pexels-photo-11263120.jpeg?cs=srgb&dl=pexels-tima-miroshnichenko-11263120.jpg&fm=jpg" alt="Induction cooking in modern kitchen" />
+                        </a>
                       </div>
                     </div>
                   </div>
-                                  <div class="blog-item d-flex align-items-center justify-content-between mb-4" data-aos="fade-up" data-aos-delay="1400">
-                    
-                    <div class="row">
-                      <div class="col-md-7" data-aos="fade-up" data-aos-delay="1500">
-                        <div class="blog-info pe-4">
-                          <div class="blog-meta d-flex align-items-center mb-2">
-                            <span class="blog-category me-3">
-                              Blog                            </span>
-                            <span class="blog-date">January 3, 2025</span>
-                          </div>
+                </div>
 
-                          <h3 class="blog-title">
-                            <a href="../lorem-ipsum/index.html">Lorem Ipsum</a>
-                          </h3>
-
-                          <p class="blog-excerpt">
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has...                          </p>
+                <!-- News item 7 -->
+                <div class="blog-item d-flex align-items-center justify-content-between mb-4" data-aos="fade-up" data-aos-delay="800">
+                  <div class="row w-100">
+                    <div class="col-md-7">
+                      <div class="blog-info pe-4">
+                        <div class="blog-meta d-flex align-items-center mb-2">
+                          <span class="blog-category me-3">Robotics</span>
+                          <span class="blog-date">Jan 2026</span>
                         </div>
+                        <h3 class="blog-title">
+                          <a href="https://www.theverge.com/" target="_blank" rel="noopener">Robot vacuums keep evolving: better navigation, better edge cleaning, more features</a>
+                        </h3>
+                        <p class="blog-excerpt">
+                          Floor-care appliances are becoming more autonomous and less “baby-sitting required.”
+                        </p>
+                        <div class="news-source">Source: <a href="https://www.theverge.com/" target="_blank" rel="noopener">The Verge</a></div>
                       </div>
-
-                      <div class="col-md-5" data-aos="fade-up" data-aos-delay="1600">
-                        <div class="blog-img">
-                          <a href="../lorem-ipsum/index.html">
-                                                          <img src="../wp-content/themes/blankslate/assets/img/placeholder.html" alt="Placeholder" class="img-fluid rounded">
-                                                      </a>
-                        </div>
+                    </div>
+                    <div class="col-md-5">
+                      <div class="blog-img">
+                        <a href="https://www.theverge.com/" target="_blank" rel="noopener">
+                          <img loading="lazy" src="https://images.pexels.com/photos/4107248/pexels-photo-4107248.jpeg?cs=srgb&dl=pexels-cottonbro-4107248.jpg&fm=jpg" alt="Robot vacuum cleaning the floor" />
+                        </a>
                       </div>
                     </div>
                   </div>
-                                  <div class="blog-item d-flex align-items-center justify-content-between mb-4" data-aos="fade-up" data-aos-delay="1600">
-                    
-                    <div class="row">
-                      <div class="col-md-7" data-aos="fade-up" data-aos-delay="1700">
-                        <div class="blog-info pe-4">
-                          <div class="blog-meta d-flex align-items-center mb-2">
-                            <span class="blog-category me-3">
-                              Blog                            </span>
-                            <span class="blog-date">December 20, 2024</span>
-                          </div>
+                </div>
 
-                          <h3 class="blog-title">
-                            <a href="../hello-world/index.html">Hello world!</a>
-                          </h3>
-
-                          <p class="blog-excerpt">
-                            Welcome to WordPress. This is your first post. Edit or delete it, then start writing!Ullamco...                          </p>
+                <!-- News item 8 -->
+                <div class="blog-item d-flex align-items-center justify-content-between mb-4" data-aos="fade-up" data-aos-delay="900">
+                  <div class="row w-100">
+                    <div class="col-md-7">
+                      <div class="blog-info pe-4">
+                        <div class="blog-meta d-flex align-items-center mb-2">
+                          <span class="blog-category me-3">Standards</span>
+                          <span class="blog-date">2025–2026</span>
                         </div>
+                        <h3 class="blog-title">
+                          <a href="https://www.reuters.com/" target="_blank" rel="noopener">Energy efficiency standards and ratings: what’s changing (and why it matters)</a>
+                        </h3>
+                        <p class="blog-excerpt">
+                          Efficiency rules and rating labels shape what products manufacturers build—and what customers save over time.
+                        </p>
+                        <div class="news-source">Source: <a href="https://www.reuters.com/" target="_blank" rel="noopener">Reuters</a></div>
                       </div>
-
-                      <div class="col-md-5" data-aos="fade-up" data-aos-delay="1800">
-                        <div class="blog-img">
-                          <a href="../hello-world/index.html">
-                                                          <img src="../wp-content/themes/blankslate/assets/img/placeholder.html" alt="Placeholder" class="img-fluid rounded">
-                                                      </a>
-                        </div>
+                    </div>
+                    <div class="col-md-5">
+                      <div class="blog-img">
+                        <a href="https://www.reuters.com/" target="_blank" rel="noopener">
+                          <img loading="lazy" src="https://images.pexels.com/photos/4792484/pexels-photo-4792484.jpeg?cs=srgb&dl=pexels-kindelmedia-4792484.jpg&fm=jpg" alt="Energy efficient appliances concept" />
+                        </a>
                       </div>
                     </div>
                   </div>
-                            </div>
+                </div>
+
+                <!-- News item 9 -->
+                <div class="blog-item d-flex align-items-center justify-content-between mb-4" data-aos="fade-up" data-aos-delay="1000">
+                  <div class="row w-100">
+                    <div class="col-md-7">
+                      <div class="blog-info pe-4">
+                        <div class="blog-meta d-flex align-items-center mb-2">
+                          <span class="blog-category me-3">India</span>
+                          <span class="blog-date">Jan 2026</span>
+                        </div>
+                        <h3 class="blog-title">
+                          <a href="https://www.tribuneindia.com/" target="_blank" rel="noopener">India appliance update: expanding star-label awareness for household products</a>
+                        </h3>
+                        <p class="blog-excerpt">
+                          Ratings and labels help buyers compare models faster—especially where fuel/power costs are a concern.
+                        </p>
+                        <div class="news-source">Source: <a href="https://www.tribuneindia.com/" target="_blank" rel="noopener">The Tribune</a></div>
+                      </div>
+                    </div>
+                    <div class="col-md-5">
+                      <div class="blog-img">
+                        <a href="https://www.tribuneindia.com/" target="_blank" rel="noopener">
+                          <img loading="lazy" src="https://images.pexels.com/photos/6195961/pexels-photo-6195961.jpeg?cs=srgb&dl=pexels-anna-shvets-6195961.jpg&fm=jpg" alt="Kitchen stove cookware" />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- News item 10 -->
+                <div class="blog-item d-flex align-items-center justify-content-between mb-4" data-aos="fade-up" data-aos-delay="1100">
+                  <div class="row w-100">
+                    <div class="col-md-7">
+                      <div class="blog-info pe-4">
+                        <div class="blog-meta d-flex align-items-center mb-2">
+                          <span class="blog-category me-3">Design</span>
+                          <span class="blog-date">Jan 2026</span>
+                        </div>
+                        <h3 class="blog-title">
+                          <a href="https://www.prnewswire.com/" target="_blank" rel="noopener">Inclusive appliance design: accessibility, usability, and everyday comfort</a>
+                        </h3>
+                        <p class="blog-excerpt">
+                          More brands are designing appliances that are easier to use across ages and abilities—without losing style.
+                        </p>
+                        <div class="news-source">Source: <a href="https://www.prnewswire.com/" target="_blank" rel="noopener">PR Newswire</a></div>
+                      </div>
+                    </div>
+                    <div class="col-md-5">
+                      <div class="blog-img">
+                        <a href="https://www.prnewswire.com/" target="_blank" rel="noopener">
+                          <img loading="lazy" src="https://images.pexels.com/photos/4108718/pexels-photo-4108718.jpeg?cs=srgb&dl=pexels-cottonbro-4108718.jpg&fm=jpg" alt="Home appliance design close-up" />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
           </div>
         </div>
+
+        <!-- TAB: LIV GUIDES (your existing posts kept) -->
+        <div id="tab-guides" class="tab-panel" style="display:none;">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="blog-lis">
+
+                <!-- Your existing Liv posts (kept as-is) -->
+                <div class="blog-item d-flex align-items-center justify-content-between mb-4">
+                  <div class="row w-100">
+                    <div class="col-md-7">
+                      <div class="blog-info pe-4">
+                        <div class="blog-meta d-flex align-items-center mb-2">
+                          <span class="blog-category me-3">Blog</span>
+                          <span class="blog-date">October 19, 2025</span>
+                        </div>
+                        <h3 class="blog-title">
+                          <a href="../wake-up-to-perfection-reliable-toasters-smart-design-and-everyday-ease/index.html">Wake Up to Perfection – Reliable Toasters, Smart Design, and Everyday Ease</a>
+                        </h3>
+                        <p class="blog-excerpt">
+                          Experience the perfect blend of technology and convenience with our range of toasters...
+                        </p>
+                      </div>
+                    </div>
+                    <div class="col-md-5">
+                      <div class="blog-img">
+                        <a href="../wake-up-to-perfection-reliable-toasters-smart-design-and-everyday-ease/index.html">
+                          <img loading="lazy" src="../wp-content/uploads/2025/10/0c8f5d48d93b931f4af4f7fb87402dffea0c4819-1-300x300.png" alt="Toaster blog image" />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="blog-item d-flex align-items-center justify-content-between mb-4">
+                  <div class="row w-100">
+                    <div class="col-md-7">
+                      <div class="blog-info pe-4">
+                        <div class="blog-meta d-flex align-items-center mb-2">
+                          <span class="blog-category me-3">Blog</span>
+                          <span class="blog-date">October 9, 2025</span>
+                        </div>
+                        <h3 class="blog-title">
+                          <a href="../the-evolution-of-the-toaster-from-basics-to-smart-tech/index.html">The Evolution of the Toaster: From Basics to Smart Tech</a>
+                        </h3>
+                        <p class="blog-excerpt">
+                          Toasters have come a long way, explore how modern designs are changing the way we...
+                        </p>
+                      </div>
+                    </div>
+                    <div class="col-md-5">
+                      <div class="blog-img">
+                        <a href="../the-evolution-of-the-toaster-from-basics-to-smart-tech/index.html">
+                          <img loading="lazy" src="../wp-content/uploads/2025/10/a8769e07df81cac809ff8d3995e5ebb1e291b047-1-300x222.png" alt="Toaster evolution blog image" />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="blog-item d-flex align-items-center justify-content-between mb-4">
+                  <div class="row w-100">
+                    <div class="col-md-7">
+                      <div class="blog-info pe-4">
+                        <div class="blog-meta d-flex align-items-center mb-2">
+                          <span class="blog-category me-3">Blog</span>
+                          <span class="blog-date">October 9, 2025</span>
+                        </div>
+                        <h3 class="blog-title">
+                          <a href="../energy-efficient-appliances-save-power-save-money/index.html">Energy-Efficient Appliances: Save Power, Save Money</a>
+                        </h3>
+                        <p class="blog-excerpt">
+                          Learn how the latest appliances combine performance with eco-friendly design to cut costs...
+                        </p>
+                      </div>
+                    </div>
+                    <div class="col-md-5">
+                      <div class="blog-img">
+                        <a href="../energy-efficient-appliances-save-power-save-money/index.html">
+                          <img loading="lazy" src="../wp-content/uploads/2025/10/552db37e32b5bbbfb1b003fae9cac46a3cd3e0cb-300x200.png" alt="Energy efficient appliances blog image" />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="blog-item d-flex align-items-center justify-content-between mb-4">
+                  <div class="row w-100">
+                    <div class="col-md-7">
+                      <div class="blog-info pe-4">
+                        <div class="blog-meta d-flex align-items-center mb-2">
+                          <span class="blog-category me-3">Blog</span>
+                          <span class="blog-date">October 9, 2025</span>
+                        </div>
+                        <h3 class="blog-title">
+                          <a href="../bluetooth-speakers-that-bring-the-party-home/index.html">Bluetooth Speakers That Bring the Party Home</a>
+                        </h3>
+                        <p class="blog-excerpt">
+                          Portable, powerful, and stylish—find out which speakers give you the perfect blend...
+                        </p>
+                      </div>
+                    </div>
+                    <div class="col-md-5">
+                      <div class="blog-img">
+                        <a href="../bluetooth-speakers-that-bring-the-party-home/index.html">
+                          <img loading="lazy" src="../wp-content/uploads/2025/10/b582fffcc5613cef1f1221792cffa16d153ce3b3-300x200.png" alt="Bluetooth speaker blog image" />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="blog-item d-flex align-items-center justify-content-between mb-4">
+                  <div class="row w-100">
+                    <div class="col-md-7">
+                      <div class="blog-info pe-4">
+                        <div class="blog-meta d-flex align-items-center mb-2">
+                          <span class="blog-category me-3">Blog</span>
+                          <span class="blog-date">October 9, 2025</span>
+                        </div>
+                        <h3 class="blog-title">
+                          <a href="../choosing-the-right-inverter-a-simple-buyers-guide/index.html">Choosing the Right Inverter: A Simple Buyer’s Guide</a>
+                        </h3>
+                        <p class="blog-excerpt">
+                          Stay powered during outages with the right inverter. Here’s everything you need to know...
+                        </p>
+                      </div>
+                    </div>
+                    <div class="col-md-5">
+                      <div class="blog-img">
+                        <a href="../choosing-the-right-inverter-a-simple-buyers-guide/index.html">
+                          <img loading="lazy" src="../wp-content/uploads/2025/10/6e0e1639276da46aaa9596e3f9b5555672e5a8f3-300x200.png" alt="Inverter blog image" />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="blog-item d-flex align-items-center justify-content-between mb-4">
+                  <div class="row w-100">
+                    <div class="col-md-7">
+                      <div class="blog-info pe-4">
+                        <div class="blog-meta d-flex align-items-center mb-2">
+                          <span class="blog-category me-3">Blog</span>
+                          <span class="blog-date">October 9, 2025</span>
+                        </div>
+                        <h3 class="blog-title">
+                          <a href="../top-5-must-have-home-appliances-for-a-smarter-kitchen/index.html">Top 5 Must-Have Home Appliances for a Smarter Kitchen</a>
+                        </h3>
+                        <p class="blog-excerpt">
+                          From efficient toasters to multipurpose blenders, discover the appliances that make cooking easier...
+                        </p>
+                      </div>
+                    </div>
+                    <div class="col-md-5">
+                      <div class="blog-img">
+                        <a href="../top-5-must-have-home-appliances-for-a-smarter-kitchen/index.html">
+                          <img loading="lazy" src="../wp-content/uploads/2025/10/a8769e07df81cac809ff8d3995e5ebb1e291b047-300x222.png" alt="Smarter kitchen appliances blog image" />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Tab switching JS (lightweight, no extra libraries needed) -->
+        <script>
+          (function () {
+            var btns = document.querySelectorAll(".blog-tabs .tab-btn");
+            var panels = document.querySelectorAll(".tab-panel");
+
+            btns.forEach(function (btn) {
+              btn.addEventListener("click", function () {
+                var target = btn.getAttribute("data-tab");
+
+                btns.forEach(function (b) { b.classList.remove("active"); });
+                btn.classList.add("active");
+
+                panels.forEach(function (p) { p.style.display = "none"; });
+                var el = document.getElementById(target);
+                if (el) el.style.display = "block";
+              });
+            });
+
+            /* Speed up Latest Appliance News animations */
+            var newsItems = document.querySelectorAll("#tab-news .blog-item[data-aos]");
+            newsItems.forEach(function (item, idx) {
+              item.setAttribute("data-aos-duration", "600");
+              item.setAttribute("data-aos-delay", String(80 + (idx * 40)));
+            });
+
+            /* Image placeholder fallback */
+            var placeholderSvg = '<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520"><defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#DCFCE7"/><stop offset="1" stop-color="#F2F8F5"/></linearGradient></defs><rect width="800" height="520" fill="url(#g)"/><g fill="#14532D" font-family="Arial, sans-serif" font-size="28" text-anchor="middle"><text x="400" y="260">Image not available</text></g></svg>';
+            var placeholder = "data:image/svg+xml;charset=UTF-8," + encodeURIComponent(placeholderSvg);
+            function applyPlaceholder(img){
+              if (!img || img.dataset.fallback === "1") return;
+              img.dataset.fallback = "1";
+              img.src = placeholder;
+              img.classList.add("is-placeholder");
+            }
+            document.querySelectorAll(".blog-img img").forEach(function(img){
+              if (!img.getAttribute("src")) applyPlaceholder(img);
+              img.addEventListener("error", function(){ applyPlaceholder(img); });
+            });
+
+            /* Guides modal */
+            var modal = document.getElementById("lpGuideModal");
+            if (modal) {
+              var modalImg = document.getElementById("lpGuideImage");
+              var modalTitle = document.getElementById("lpGuideTitle");
+              var modalExcerpt = document.getElementById("lpGuideExcerpt");
+              var modalMeta = document.getElementById("lpGuideMeta");
+              var modalLink = document.getElementById("lpGuideLink");
+
+              function openModal(data){
+                modal.classList.add("is-open");
+                modal.setAttribute("aria-hidden", "false");
+                document.body.style.overflow = "hidden";
+                modalImg.src = data.img || placeholder;
+                modalTitle.textContent = data.title || "Liv Power Guide";
+                modalExcerpt.textContent = data.excerpt || "";
+                modalMeta.textContent = data.meta || "";
+                if (data.href) {
+                  modalLink.href = data.href;
+                  modalLink.style.display = "inline-flex";
+                } else {
+                  modalLink.style.display = "none";
+                }
+              }
+              function closeModal(){
+                modal.classList.remove("is-open");
+                modal.setAttribute("aria-hidden", "true");
+                document.body.style.overflow = "";
+              }
+
+              modal.addEventListener("click", function(e){
+                if (e.target.closest("[data-modal-close]")) closeModal();
+              });
+              document.addEventListener("keydown", function(e){
+                if (e.key === "Escape") closeModal();
+              });
+
+              document.querySelectorAll("#tab-guides .blog-item").forEach(function(item){
+                item.addEventListener("click", function(e){
+                  var link = item.querySelector(".blog-title a");
+                  if (e.target.closest("a")) e.preventDefault();
+                  var img = item.querySelector(".blog-img img");
+                  var excerpt = item.querySelector(".blog-excerpt");
+                  var date = item.querySelector(".blog-date");
+                  var category = item.querySelector(".blog-category");
+                  var meta = "";
+                  if (category && date) meta = category.textContent.trim() + " • " + date.textContent.trim();
+                  else if (date) meta = date.textContent.trim();
+                  openModal({
+                    title: link ? link.textContent.trim() : "",
+                    href: link ? link.href : "",
+                    excerpt: excerpt ? excerpt.textContent.trim() : "",
+                    img: img ? img.getAttribute("src") : "",
+                    meta: meta
+                  });
+                });
+              });
+            }
+          })();
+        </script>
+
       </div>
     </div>
   </div>
 </section>
 
+<!-- Guides modal -->
+<div class="lp-guide-modal" id="lpGuideModal" aria-hidden="true">
+  <div class="lp-guide-modal-overlay" data-modal-close></div>
+  <div class="lp-guide-modal-card" role="dialog" aria-modal="true" aria-labelledby="lpGuideTitle">
+    <button class="lp-guide-modal-close" type="button" data-modal-close aria-label="Close">
+      <i class="fa-solid fa-xmark"></i>
+    </button>
+    <div class="lp-guide-modal-body">
+      <div class="lp-guide-modal-media">
+        <img id="lpGuideImage" alt="Liv Power guide" />
+      </div>
+      <div>
+        <div class="lp-guide-modal-meta" id="lpGuideMeta"></div>
+        <h3 class="lp-guide-modal-title" id="lpGuideTitle"></h3>
+        <p class="lp-guide-modal-excerpt" id="lpGuideExcerpt"></p>
+        <a class="lp-guide-modal-link" id="lpGuideLink" href="#" target="_blank" rel="noopener">Read full guide</a>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 
@@ -876,7 +1503,7 @@ for comfort and performance </p>
     </div>
 
 <div id="copyright" data-aos="" data-aos-delay="400">
-© 2025 Livpower | Developed by Digisparx Digital Solutions
+© 2025 Livpower
 </div>
 
 <a href="https://wa.me/919355390355" class="float" target="_blank">

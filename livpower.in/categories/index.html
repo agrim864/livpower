@@ -111,7 +111,7 @@
 
   .shipping-item_detail:hover p { color: #fff !important; }
   .shipping-item_detail:hover h3 { color: #fff; }
-  .shipping-item_detail:hover { background: rgb(235, 105, 29); }
+  .shipping-item_detail:hover { background: rgb(22, 163, 74); }
   .shipping-item_detail:hover img { filter: brightness(0) invert(1); transition: 0.3s ease; }
 
   .home-banner { margin-top: 36px; }
@@ -210,7 +210,7 @@
     font-weight: 500;
     line-height: 18px;
     letter-spacing: -2%;
-    background: rgba(240, 90, 40, 1);
+    background: rgba(22, 163, 74, 1);
     display: inline-block;
     margin-left: 10px;
   }
@@ -221,8 +221,8 @@
      Categories page refresh (same theme, cleaner layout)
      ======================================================= */
   :root{
-    --lp-accent: rgba(240, 90, 40, 1);
-    --lp-accent-soft: rgba(240, 90, 40, 0.12);
+    --lp-accent: rgba(22, 163, 74, 1);
+    --lp-accent-soft: rgba(22, 163, 74, 0.12);
     --lp-border: rgba(0,0,0,0.08);
     --lp-text: #111827;
     --lp-muted: #6b7280;
@@ -308,18 +308,18 @@
   .category-grid .category-card:hover{
     transform: translateY(-4px);
     box-shadow: 0 18px 50px rgba(0,0,0,0.12);
-    border-color: rgba(240, 90, 40, 0.45);
+    border-color: rgba(22, 163, 74, 0.45);
   }
 
   .category-grid .category-card:focus-visible{
-    outline: 3px solid rgba(240, 90, 40, 0.45);
+    outline: 3px solid rgba(22, 163, 74, 0.45);
     outline-offset: 2px;
   }
 
   .category-grid .category-media{
     aspect-ratio: 1 / 1;
     background:
-      radial-gradient(circle at 20% 20%, rgba(240,90,40,0.14), transparent 60%),
+      radial-gradient(circle at 20% 20%, rgba(22,163,74,0.14), transparent 60%),
       linear-gradient(180deg, rgba(0,0,0,0.02), rgba(0,0,0,0));
     display: flex;
     align-items: center;
@@ -337,6 +337,7 @@
   .category-grid .category-card:hover .category-media img{
     transform: scale(1.06);
   }
+
 
   .category-grid .category-body{
     padding: 14px 16px 16px;
@@ -385,6 +386,128 @@
     .category-toolbar{ padding: 12px; }
     .category-grid .category-title{ font-size: 15px; }
   }
+
+  /* =========================================================
+     Modern Emerald overrides (match index.html)
+     ========================================================= */
+  :root{
+    --lp-bg: #FFFFFF;
+    --lp-soft: #F2F8F5;
+    --lp-text: #0B1F16;
+    --lp-text-2: #2F5D4A;
+    --lp-muted: #6FA89A;
+    --lp-primary: #16A34A;
+    --lp-mint: #DCFCE7;
+    --lp-accent: #14532D;
+    --lp-accent-soft: rgba(22,163,74,0.12);
+    --lp-border: rgba(20,83,45,0.12);
+  }
+
+  html, body{
+    background: var(--lp-bg) !important;
+    color: var(--lp-text) !important;
+  }
+  p{ color: var(--lp-text-2); }
+  a{ color: var(--lp-primary); }
+  a:hover{ color: var(--lp-accent); }
+
+  body{
+    --wp--preset--color--black: var(--lp-text);
+    --wp--preset--color--white: var(--lp-bg);
+    --wp--preset--color--cyan-bluish-gray: var(--lp-muted);
+    --wp--preset--color--vivid-green-cyan: var(--lp-primary);
+    --wp--preset--color--luminous-vivid-orange: var(--lp-primary);
+    --wp--preset--color--luminous-vivid-amber: var(--lp-mint);
+    --wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange:
+      linear-gradient(135deg, var(--lp-mint) 0%, var(--lp-primary) 100%);
+    --wp--preset--gradient--luminous-vivid-orange-to-vivid-red:
+      linear-gradient(135deg, var(--lp-primary) 0%, var(--lp-accent) 100%);
+  }
+
+  header{
+    background: var(--lp-accent) !important;
+    border-bottom: 1px solid rgba(255,255,255,0.12);
+  }
+  .inner-menu{
+    background: var(--lp-accent) !important;
+  }
+  .navbar .menu a{
+    color: var(--lp-mint) !important;
+  }
+  .navbar .menu a:hover{
+    color: #fff !important;
+  }
+  .navbar .menu .current-menu-item > a{
+    color: #fff !important;
+  }
+
+  /* Page headings */
+  .banner-title h2,
+  .section-title_hc h2{
+    color: #16a34a !important;
+  }
+
+  .find-job a{
+    background: var(--lp-primary) !important;
+    border-color: var(--lp-primary) !important;
+    color:#fff !important;
+  }
+  .find-job a:hover{
+    background: var(--lp-accent) !important;
+    border-color: var(--lp-accent) !important;
+  }
+
+  .category-grid .category-media{
+    background:
+      radial-gradient(circle at 20% 20%, rgba(22,163,74,0.14), transparent 60%),
+      linear-gradient(180deg, rgba(0,0,0,0.02), rgba(0,0,0,0));
+  }
+
+  .category-grid .category-cta{
+    background: var(--lp-accent-soft);
+    color: var(--lp-primary);
+  }
+  .category-grid .category-card:hover .category-cta{
+    background: var(--lp-primary);
+    color: #fff;
+  }
+
+  .shipping-item_detail:hover{
+    background: var(--lp-primary) !important;
+  }
+  .float{
+    background-color: var(--lp-primary) !important;
+    box-shadow: 2px 2px 3px rgba(0,0,0,0.25) !important;
+  }
+  .float:hover{
+    background: var(--lp-accent) !important;
+  }
+
+  /* Footer matches header */
+  footer.footer{
+    background: var(--lp-accent) !important;
+    color: #fff !important;
+  }
+  footer.footer a{
+    color: var(--lp-mint) !important;
+  }
+  footer.footer a:hover{
+    color: #fff !important;
+  }
+  .footer-page-link p,
+  .footer-page-link ul li a,
+  #copyright{
+    color: rgba(255,255,255,0.92) !important;
+  }
+  .footer-page-link ul li a span{
+    color: rgba(255,255,255,0.45) !important;
+  }
+
+  @media (max-width:900px){
+    #menu-menu-1{
+      background-color: var(--lp-accent) !important;
+    }
+  }
 </style>
 
 <body class="page-template page-template-template page-template-categories page-template-templatecategories-php page page-id-362 wp-embed-responsive">
@@ -420,16 +543,12 @@
                 <li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-362 current_page_item menu-item-366">
                   <a href="index.html" aria-current="page" itemprop="url">Categories</a>
                 </li>
-                <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41">
-                  <a href="../contact-us/index.html" itemprop="url">Contact us</a>
-                </li>
+                <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../blogs/index.html" itemprop="url">Blog</a></li>
+                <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../shop-with-us/index.html" itemprop="url">Shop With Us</a></li>
+                <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="../contact-us/index.html" itemprop="url">Contact us</a></li>
               </ul>
             </div>
           </nav>
-
-          <div class="find-job">
-            <a href="../contact-us/index.html">Bulk Enquiries</a>
-          </div>
 
           <div class="menu-toggle mobile-togle">
             <i class="fa-solid fa-bars"></i>
@@ -579,20 +698,7 @@
         </a>
       </div>
 
-      <div class="col-6 col-md-3 category-item" data-aos="fade-up" data-aos-delay="250" data-aos-duration="650">
-        <a href="../boil-in-style-fast-safe-and-energy-smart/index.html" class="category-card" aria-label="Open Electric Kettle category">
-          <div class="category-media">
-            <img src="../wp-content/uploads/2025/10/fd7a17d5235702c258d6b97e2279844c8234957e-1-300x300.png" alt="Electric Kettle" loading="lazy" decoding="async">
-          </div>
-          <div class="category-body">
-            <div>
-              <h3 class="category-title">Electric Kettle</h3>
-              <p class="category-subtext">Explore products</p>
-            </div>
-            <span class="category-cta" aria-hidden="true"><i class="fa-solid fa-arrow-right"></i></span>
-          </div>
-        </a>
-      </div>
+      
 
       <div class="col-6 col-md-3 category-item" data-aos="fade-up" data-aos-delay="300" data-aos-duration="650">
         <a href="../cool-comfort-every-day-silent-stylish-and-efficient/index.html" class="category-card" aria-label="Open Fans category">
@@ -739,7 +845,7 @@
   </div>
 
   <div id="copyright" data-aos="" data-aos-delay="400">
-    © 2025 Livpower | Developed by Digisparx Digital Solutions
+    © 2025 Livpower
   </div>
 
   <a href="https://wa.me/919355390355" class="float" target="_blank" rel="noopener">
